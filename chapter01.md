@@ -45,5 +45,48 @@
 ## 1.2.2.1. Lean UX Problem Statements.
 ## 1.2.2.2. Lean UX Assumptions.
 ## 1.2.2.3. Lean UX Hypothesis Statements.
+**Hypothesis 1: Optimización de la producción en talleres**
+
+**Creemos que lograremos** un aumento del 15% en la eficiencia de la producción de joyas
+
+**Si** los propietarios de talleres de joyería
+
+**Consiguen** realizar un seguimiento detallado de cada etapa del proceso de producción y tener visibilidad en tiempo real del estado de cada pieza
+
+**Con** la funcionalidad de seguimiento de producción de GemZ.
+
+**Hypothesis 2: Mejora en la gestión de inventario en joyerías**
+
+**Creemos que lograremo**s una reducción del 10% en las pérdidas de inventario por falta de seguimiento o errores humanos
+
+**Si** los dueños de joyerías
+
+**Consiguen** registrar y actualizar fácilmente su inventario de joyas, con alertas automáticas de stock bajo
+
+**Con** el sistema de gestión de inventario de GemZ
+
+**Hypothesis 3: Mayor satisfacción del cliente en joyerías**
+
+**Creemos que lograremos** un aumento del 20% en la satisfacción del cliente
+
+**Si** los dueños de joyerías
+
+**Consiguen** responder rápidamente a las consultas de los clientes sobre la disponibilidad de joyas específicas
+
+**Con** la función de búsqueda y visualización de inventario en tiempo real de GemZ
 ## 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
+**Propietarios de talleres de joyería:**
+
+| **Segmento Objetivo / Características** | **Persona objetivo** |
+|-----------------------------------------|----------------------|
+| **Geográfico**                          | - **Ubicación del taller:** Urbana, suburbana, rural.<br>- **Tamaño del taller:** Pequeño, mediano, grande.<br>- **Tamaño del equipo:** Talleres unipersonales, talleres con varios empleados. |
+| **Demográfico**                         | - **Edad:** Jóvenes emprendedores, artesanos experimentados.<br>- **Nivel educativo:** Formación técnica en joyería, autodidactas.<br>- **Tamaño del equipo:** Talleres unipersonales, talleres con varios empleados. |
+| **Psicográfico**                        | - **Motivaciones:** Pasión por la joyería, deseo de independencia, tradición familiar.<br>- **Estilo de trabajo:** Artesanal, enfocado en la calidad, orientado a la producción en masa.<br>- **Preocupaciones:** Control de costos, eficiencia en la producción, gestión de inventario de insumos. |
+
+**Dueño de joyerías (con o sin taller):**
+| **Segmento Objetivo / Características** | **Persona objetivo** |
+|-----------------------------------------|----------------------|
+| **Geográfico**                          | - **Ubicación de la joyería:** Centro comercial, calle principal, barrio exclusivo.<br>- **Tamaño de la joyería:** Pequeña, mediana, grande.<br>- **Zona geográfica:** Zonas comerciales, áreas céntricas, distritos de lujo. |
+| **Demográfico**                         | - **Edad:** Jóvenes emprendedores, empresarios experimentados.<br>- **Nivel educativo:** Formación en administración de empresas, conocimientos en joyería.<br>- **Tamaño del equipo:** Joyerías familiares, joyerías con personal de ventas. |
+| **Psicográfico**                        | - **Motivaciones:** Pasión por la joyería, deseo de éxito empresarial, ofrecer productos de calidad.<br>- **Estilo de trabajo:** Enfoque en la atención al cliente, orientado a las ventas, gestión eficiente del inventario.<br>- **Preocupaciones:** Control de inventario, rotación de productos, satisfacción del cliente, competencia en el mercado. |
