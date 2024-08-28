@@ -8,8 +8,8 @@
     <th colspan="2">Antayhua Castillo, Oscar Josué</th>
   </tr>
   <tr>
-    <td>foto</td>
-    <td>descripcion</td>
+    <td><img src="assets/chapter01/oscar-photo.png"></td>
+    <td>Nací el 20 de diciembre de 2001 y estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). La razón por la cual escogí esta carrera es debido a la alta demanda que esta tiene, además de todas las posibilidades que el crear un software permite. Durante mi primer año de carrera desarrollé mis habilidades, programando distintos trabajos, además de aprender todo lo básico que la programación conlleva. Tengo distintos pasatiempos tales como jugar videojuegos, escuchar música, ver series y practicar basketball.</td>
   </tr>
   <tr>
     <th colspan="2">Quijandria Aranedal, Vicente </th>
@@ -40,7 +40,47 @@
 </table>
 
 ## 1.2. Solution Profile
+
+GemZ es una solución de software creada por FullStackFury que revoluciona la gestión de procesos e inventarios en la industria de la joyería. Está diseñada tanto para quienes tienen talleres de joyería como para los dueños de joyerías, permitiéndoles controlar de manera detallada cada etapa de la producción, desde la adquisición de materiales hasta la entrega del producto final, así como gestionar eficientemente su inventario. Con su capacidad para monitorear en tiempo real y mejorar la eficiencia operativa, GemZ facilita la superación de los retos habituales en este sector, reduciendo errores y apoyando un modelo de negocio sostenible que se adapta a las necesidades particulares de la joyería.
+
 ## 1.2.1 Antecedentes y problemática
+
+### Los 5 'W' y 2 'H'
+
+#### **What (Qué)**
+**¿Cuál es el problema?**
+El problema radica en la falta de herramientas especializadas para la gestión eficiente de los procesos de producción y el manejo de inventarios en la industria de la joyería. Los propietarios de talleres y joyerías a menudo enfrentan dificultades para mantener un control detallado sobre las distintas etapas de producción y la organización del inventario. Aunque existen soluciones genéricas, estas no se adaptan a las necesidades específicas de la joyería, lo que resulta en procesos ineficientes, mayor margen de error, y pérdidas de recursos y tiempo.
+
+#### **When (Cuándo)**
+**¿Cuándo sucede el problema?**
+El problema se manifiesta durante las operaciones diarias de los talleres y joyerías, particularmente cuando los propietarios intentan gestionar múltiples procesos de producción o mantener un inventario actualizado. La falta de una solución centralizada y especializada se vuelve evidente en momentos críticos como la producción en masa o la preparación de pedidos, donde la precisión y la eficiencia son esenciales para evitar retrasos y errores.
+
+#### **Where (Dónde)**
+**¿A dónde se dirige?**
+Nuestra solución está dirigida a los propietarios de talleres de joyería y dueños de joyerías, independientemente de si cuentan con un taller propio.
+
+**¿Dónde surge el problema?**
+El problema surge en el entorno operativo de los talleres de joyería, donde se requiere un control detallado de cada etapa de producción, y en las joyerías, donde es crucial una gestión precisa del inventario para satisfacer la demanda de los clientes sin comprometer la calidad.
+
+#### **Who (Quién)**
+**¿Quiénes están involucrados? ¿Quién lo utilizará?**
+Los involucrados son principalmente los propietarios de talleres de joyería y dueños de joyerías. La solución será utilizada por estos profesionales que necesitan una herramienta para gestionar eficientemente sus procesos de producción, así como su inventario, con el fin de optimizar sus operaciones y mejorar la calidad del servicio al cliente.
+
+#### **Why (Por qué)**
+**¿Cuál es la causa del problema?**
+La causa del problema radica en la falta de herramientas tecnológicas adaptadas específicamente a las complejidades de la industria de la joyería. Los procesos de producción de joyas son altamente detallados y requieren un monitoreo constante, lo cual no es soportado adecuadamente por las soluciones genéricas existentes. Además, la falta de una herramienta integrada que conecte el flujo de trabajo desde la producción hasta la gestión de inventario crea ineficiencias que afectan la productividad y la rentabilidad del negocio.
+
+#### **How (Cómo)**
+**¿Cómo se utilizará el producto?**
+El producto será utilizado para gestionar de manera centralizada y en tiempo real todos los aspectos de la producción de joyas y la gestión de inventario. Los usuarios podrán registrar cada etapa del proceso de producción, monitorear el progreso, y gestionar el inventario de productos terminados. La plataforma permitirá un control exhaustivo y detallado de las operaciones, facilitando la toma de decisiones informadas y la mejora continua de los procesos.
+
+**¿Cómo se logrará una gestión adecuada de los procesos y una comunicación eficiente entre los diferentes roles en la joyería?**
+La gestión adecuada se logrará mediante una interfaz amigable que permita a los usuarios monitorear cada etapa del proceso de producción en tiempo real, desde la adquisición de materiales hasta la entrega final del producto. La comunicación interna entre los diferentes roles (como diseñadores, artesanos y gerentes de inventario) se facilitará a través de herramientas de mensajería y notificaciones integradas en la plataforma, asegurando que todos los miembros del equipo estén alineados y que las operaciones fluyan sin interrupciones.
+
+#### **How much (Cuánto)**
+**¿Cuál es la magnitud del problema?**
+El problema es significativo, ya que afecta directamente la eficiencia operativa, la calidad del producto, y la rentabilidad de los negocios en la industria de la joyería. Sin una herramienta adecuada, los talleres y joyerías enfrentan un mayor riesgo de errores en la producción y desorganización en el manejo del inventario, lo que puede traducirse en pérdidas financieras y la insatisfacción de los clientes.
+
 ## 1.2.2 Lean UX Process.
 ## 1.2.2.1. Lean UX Problem Statements.
 ## 1.2.2.2. Lean UX Assumptions.
