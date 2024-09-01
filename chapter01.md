@@ -27,8 +27,8 @@
     <th colspan="2">Curi Marcelo, Angelo Marcio</th>
   </tr>
   <tr>
-    <td>foto</td>
-    <td>descripción</td>
+    <td><img src="assets/chapter01/angelo-photo.png" style="width:700px; height:auto;"></td>
+    <td>Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y comprometida con mis tareas. Siempre me esfuerzo por cumplir con los plazos y entregar trabajos de calidad. Además, me considero una persona creativa, tengo conocimientos tanto en programación y edición de videos. Considero que soy una persona que puede aportar de manera significativa a este equipo.</td>
   <tr>
     <th colspan="2">Torres García, Andrés Alberto
   </th>
@@ -115,6 +115,11 @@ El problema es significativo, ya que afecta directamente la eficiencia operativa
 
 **Con** la función de búsqueda y visualización de inventario en tiempo real de GemZ
 ## 1.2.2.4. Lean UX Canvas.
+
+URL: https://app.mural.co/t/teacsykawsai8308/m/teacsykawsai8308/1724298218177/08cc14a22fc6f4164dbe3f3a5ef46074d31ae68c?sender=uc4019db9bc166bf541b07012
+
+![](assets/chapter01/leanUxCanva.png)
+
 ## 1.3. Segmentos objetivo.
 **Propietarios de talleres de joyería:**
 
