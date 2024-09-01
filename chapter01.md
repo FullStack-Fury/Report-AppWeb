@@ -118,7 +118,7 @@ El problema es significativo, ya que afecta directamente la eficiencia operativa
 
 URL: https://app.mural.co/t/teacsykawsai8308/m/teacsykawsai8308/1724298218177/08cc14a22fc6f4164dbe3f3a5ef46074d31ae68c?sender=uc4019db9bc166bf541b07012
 
-![](assets/chapter01/leanUxCanva.png)
+<img src="assets/chapter01/leanUxCanvas.png" style="width:700px; height:auto;">
 
 ## 1.3. Segmentos objetivo.
 **Propietarios de talleres de joyería:**
