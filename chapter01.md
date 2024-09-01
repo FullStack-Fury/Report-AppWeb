@@ -1,6 +1,12 @@
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
 ## 1.1.1. Descripción de la Startup
+
+GemZ es una innovadora solución de software desarrollada por el equipo FullStackFury, destinada a transformar la gestión de procesos e inventario en el sector de la joyería. Este producto busca apoyar un modelo de negocio independiente y sostenible, brindando herramientas especializadas tanto para propietarios de talleres de joyería como para dueños de joyerías, con o sin talleres.
+Para los propietarios de talleres, GemZ ofrece un control exhaustivo sobre cada etapa del proceso de producción de joyas, desde la adquisición de insumos hasta la entrega del producto final. La aplicación permite a los usuarios monitorear en tiempo real procesos críticos como el diseño, la limpieza, el engaste y el pulido, garantizando una producción eficiente y de alta calidad.
+Por otro lado, los propietarios de joyerías pueden utilizar GemZ para gestionar de manera efectiva el inventario de productos terminados, optimizando la organización y disponibilidad de las piezas. La capacidad de seguimiento y control que proporciona la aplicación permite a ambos segmentos superar desafíos comunes en el sector, mejorando la eficiencia operativa y reduciendo los márgenes de error.
+GemZ se presenta así como una herramienta esencial para los profesionales de la joyería, ofreciendo una solución completa que se adapta a las necesidades específicas de la industria, impulsando la productividad y el crecimiento sostenible de sus negocios.
+
 ## 1.1.2. Perfiles de integrantes del equipo
 
 <table>
