@@ -186,32 +186,30 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 ## 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language.
 
-El "Lenguaje Ubicuo" será fundamental en la implementación de GemZ, permitiéndonos establecer un lenguaje común y compartido entre el equipo de desarrollo y los usuarios, facilitando la comunicación y la comprensión de los conceptos clave en la gestión de procesos e inventarios en la industria de la joyería.
+El "Lenguaje Ubicuo" es clave para implementar GemZ. Nos permite establecer un idioma común entre el equipo de desarrollo y los usuarios, lo que facilita la comunicación y la comprensión de los conceptos esenciales en la gestión de procesos e inventarios en la industria de la joyería.
 
-Taller de Joyería: El espacio donde se llevan a cabo todas las etapas del proceso de producción de joyas, desde el diseño inicial hasta la entrega del producto final. Los dueños de talleres pueden utilizar GemZ para gestionar y optimizar cada paso del proceso.
+Taller de Joyería: Es el lugar donde se realizan todas las etapas de la producción de joyas, desde el diseño hasta la entrega del producto final. Los dueños de talleres pueden usar GemZ para gestionar y optimizar cada paso del proceso.
 
-Joyería: Un negocio dedicado a la venta de joyas, que puede o no incluir un taller propio. Los dueños de joyerías utilizan GemZ para gestionar eficientemente el inventario de productos terminados y mejorar la disponibilidad de las piezas.
+Joyería: Un negocio que se dedica a vender joyas, con o sin taller propio. Los propietarios de joyerías pueden utilizar GemZ para gestionar eficientemente su inventario y asegurarse de que las piezas estén siempre disponibles para la venta.
 
-Proceso de Producción: Las fases involucradas en la creación de una joya, incluyendo la adquisición de materiales, diseño, engaste, limpieza, y pulido. GemZ permite un control detallado y en tiempo real de cada uno de estos pasos, asegurando una producción eficiente y de alta calidad.
+Proceso de Producción: Incluye todas las fases para crear una joya, como la adquisición de materiales, el diseño, el engaste, la limpieza y el pulido. Con GemZ, es posible controlar cada paso en tiempo real, garantizando una producción eficiente y de alta calidad.
 
-Inventario de Insumos: La colección de todos los materiales necesarios para la producción de joyas, como metales preciosos, piedras y componentes adicionales. GemZ ayuda a mantener este inventario actualizado para evitar interrupciones en la producción.
+Inventario de Insumos: Aquí se agrupan todos los materiales necesarios para la producción de joyas, como metales preciosos, piedras y otros componentes. GemZ ayuda a mantener este inventario actualizado, evitando interrupciones en la producción.
 
-Inventario de Productos Terminados: El conjunto de joyas finalizadas y listas para ser vendidas. GemZ facilita la organización, seguimiento y optimización de este inventario, asegurando que las joyas estén disponibles para la venta según la demanda.
+Inventario de Productos Terminados: Se refiere a las joyas que ya están listas para la venta. GemZ facilita la organización y seguimiento de este inventario, asegurando que las joyas estén disponibles según la demanda.
 
-Orden de Trabajo: Un registro en GemZ que especifica los detalles de la joya que debe ser producida, incluyendo materiales, diseño, y plazos de entrega. Esto permite una coordinación eficaz y asegura que cada etapa del proceso de producción esté alineada con los requisitos del cliente.
+Orden de Trabajo: Es un registro en GemZ que detalla las especificaciones de la joya que se va a producir, incluyendo materiales, diseño y plazos de entrega. Esto asegura que todas las etapas del proceso estén alineadas con lo que el cliente espera.
 
-Engaste: La técnica utilizada para fijar piedras preciosas en una joya, garantizando que se mantengan en su lugar de manera segura y estética. GemZ permite documentar y seguir este proceso, asegurando la calidad y precisión del trabajo realizado.
+Engaste: Técnica para fijar piedras preciosas en una joya, garantizando que queden seguras y estéticas. GemZ permite documentar y seguir este proceso, asegurando que el trabajo sea preciso y de calidad.
 
-Pulido: El proceso final en la producción de una joya, donde se limpia y se pule el artículo para darle un acabado brillante y reluciente. GemZ facilita la gestión de esta etapa, asegurando que cada pieza se finalice con la calidad esperada.
+Pulido: Es la última etapa en la producción de una joya, donde se limpia y se pule para darle un acabado brillante. GemZ facilita la gestión de esta fase, asegurando que cada pieza quede perfecta.
 
-Monitoreo en Tiempo Real: La capacidad de GemZ para ofrecer una visión en vivo del estado de los procesos de producción e inventario, permitiendo a los dueños de talleres y joyerías tomar decisiones informadas de manera oportuna.
+Monitoreo en Tiempo Real: GemZ ofrece una visión en vivo del estado de los procesos de producción e inventario, lo que permite a los dueños de talleres y joyerías tomar decisiones informadas al instante.
 
-Reporte de Producción: Un informe generado por GemZ que ofrece una visión general del estado actual de la producción, identificando posibles cuellos de botella y permitiendo ajustes en tiempo real para mantener la eficiencia.
+Reporte de Producción: Este informe generado por GemZ muestra el estado actual de la producción, identifica posibles cuellos de botella y permite hacer ajustes en tiempo real para mantener la eficiencia.
 
-Eficiencia Operativa: El objetivo central de GemZ, que busca optimizar todos los procesos dentro del taller o la joyería, reduciendo errores, mejorando la calidad y aumentando la productividad.
+Eficiencia Operativa: Es el objetivo principal de GemZ: optimizar todos los procesos dentro del taller o la joyería, reducir errores, mejorar la calidad y aumentar la productividad.
 
-Modelo de Negocio Sostenible: Un enfoque que GemZ promueve al apoyar la eficiencia y la reducción de desperdicios en la producción y gestión de inventarios, permitiendo a los dueños de talleres y joyerías operar de manera más rentable y respetuosa con el entorno.
+Modelo de Negocio Sostenible: GemZ apoya un enfoque sostenible al mejorar la eficiencia y reducir desperdicios en la producción y gestión de inventarios, ayudando a los dueños de talleres y joyerías a operar de manera más rentable y amigable con el medio ambiente.
 
-Ejemplo de Implementación: Cuando un dueño de taller inicia una nueva Orden de Trabajo en GemZ, el sistema actualiza automáticamente el Inventario de Insumos y permite el Monitoreo en Tiempo Real del Proceso de Producción, incluyendo el Engaste y el Pulido, garantizando que todos los materiales están disponibles y que la producción avanza sin problemas. Los dueños de joyerías pueden consultar el Inventario de Productos Terminados para planificar mejor sus ventas y reposición de stock.
-
-Utilizando estos términos dentro del software, GemZ se adapta perfectamente a las necesidades de los dueños de talleres y joyerías, garantizando una gestión eficiente y un enfoque claro y unificado a través de un Lenguaje Ubicuo.
+Ejemplo de Implementación: Cuando un dueño de taller inicia una nueva orden de trabajo en GemZ, el sistema actualiza automáticamente el inventario de insumos y permite el monitoreo en tiempo real del proceso de producción, incluyendo el engaste y el pulido. Esto garantiza que todos los materiales estén disponibles y que la producción avance sin problemas. Por su parte, los dueños de joyerías pueden consultar el inventario de productos terminados para planificar mejor sus ventas y reposiciones de stock.
