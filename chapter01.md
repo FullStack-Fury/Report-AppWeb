@@ -89,7 +89,58 @@ El problema es significativo, ya que afecta directamente la eficiencia operativa
 
 ## 1.2.2 Lean UX Process.
 ## 1.2.2.1. Lean UX Problem Statements.
+
+El estado actual del sector de la joyería se ha centrado principalmente en los dueños de joyerías y talleres de joyería, quienes enfrentan puntos críticos en la falta de un control organizado de las actividades realizadas por los joyeros y engastadores. Además, no se registra o se conoce en detalle qué herramientas o materiales utiliza cada trabajador al iniciar la creación de una joya.
+Lo que los productos/servicios existentes no logran abordar es la necesidad de fiabilidad, adaptabilidad y facilidad de uso para trabajadores de todas las edades.
+Nuestro producto/servicio abordará esta brecha mediante una interfaz intuitiva y dinámica que se adapta a cualquier grupo de edad, ofreciendo una solución más fiable y adaptable a las necesidades del mercado actual y de nuestros segmentos objetivos.
+Nuestro enfoque inicial será los trabajadores de joyería desde los 18 años hasta la edad de jubilación, sin distinción de género, que trabajen en talleres o en joyerías.
+Sabremos que tenemos éxito cuando veamos que los trabajadores encuentran la aplicación fácil de usar para registrar sus actividades, y que los dueños tienen un control detallado y actualizado de todas las operaciones realizadas en el taller.
+
+
 ## 1.2.2.2. Lean UX Assumptions.
+
+### Business Assumptions:
+Creemos que los dueños de joyerías y talleres de joyería están abiertos a adoptar herramientas digitales para mejorar la gestión de su inventario y procesos de fabricación.
+
+Asumimos que las joyerías buscan soluciones eficientes y están dispuestas a pagar por herramientas que les ayuden a optimizar sus operaciones y a reducir errores en la producción.
+
+Sabemos que los talleres de joyería necesitan una gestión precisa de materiales y recursos, y valoran la capacidad de rastrear el progreso de cada pedido de manera efectiva.
+
+Asumimos que tanto joyerías como talleres tienen acceso a dispositivos con internet y están dispuestos a usar una aplicación para gestionar su inventario y procesos.
+
+Creemos que una plataforma que centraliza la gestión de inventario y procesos de fabricación puede reducir el tiempo perdido y mejorar la precisión, lo que resultará en un ahorro significativo para los usuarios.                                                    
+Sabemos que la plataforma proporcionará un entorno seguro para los datos de inventario y transacciones, lo que generará confianza entre los usuarios.
+
+Creemos que los dueños de joyerías y talleres verán valor en la planificación y el seguimiento del inventario y procesos a largo plazo mediante la plataforma.
+
+Tanto las joyerías como los talleres pueden ahorrar tiempo y reducir costos al simplificar la gestión de inventario y procesos mediante GemZ.
+
+### User Assumptions:
+
+#### ¿Quién es el usuario?
+
+Los usuarios de "GemZ" son dueños de joyerías y talleres de joyería. Los dueños de joyerías suelen ser empresarios que buscan optimizar su cadena de suministro, mientras que los dueños de talleres se enfocan en la eficiencia del proceso de fabricación de joyas.
+
+#### ¿Dónde encaja nuestro producto en su trabajo o vida? 
+
+Para las joyerías, "GemZ" encaja en sus operaciones diarias de gestión de inventario, facilitando la reposición de materiales y seguimiento de pedidos. Para los talleres, la aplicación se integra en el flujo de trabajo diario, ayudando a organizar y monitorear la producción de piezas de joyería desde el diseño hasta la finalización.
+
+#### ¿Qué problemas tiene nuestro producto y cómo se pueden resolver? 
+
+El principal desafío es la adopción inicial, ya que algunos dueños de talleres y joyerías podrían estar acostumbrados a métodos tradicionales y ser reacios al cambio. Esto se puede abordar ofreciendo un diseño intuitivo, soporte técnico dedicado y tutoriales que muestren los beneficios de la digitalización. Otro desafío es la compatibilidad con diferentes dispositivos, por lo que la aplicación debe ser accesible tanto en computadoras como en dispositivos móviles.
+
+#### ¿Cuándo y cómo es usado nuestro producto? 
+
+"GemZ" se usa principalmente durante la gestión del inventario, la planificación y ejecución de procesos de fabricación. Las joyerías la utilizan para controlar sus existencias y coordinar con sus proveedores, mientras que los talleres la usan para gestionar la producción y asegurar que cada proyecto avanza según lo previsto. El uso puede ser diario, dependiendo de la carga de trabajo y la demanda de producción.
+
+#### ¿Qué características son importantes? 
+
+Las características clave para las joyerías incluyen la gestión de inventario, alertas de baja de stock y reportes de ventas. Para los talleres, las características más importantes son el control de procesos, la gestión de pedidos y la capacidad de rastrear el progreso en tiempo real.
+
+#### ¿Cómo debe verse nuestro producto y cómo debe comportarse? 
+
+El diseño debe ser limpio, intuitivo y fácil de navegar, con una interfaz que proporcione un flujo de trabajo lógico tanto para las joyerías como para los talleres. Debe ser visualmente atractivo y permitir un acceso rápido a la información crítica. El producto debe comportarse de manera confiable, ser seguro, y manejar grandes volúmenes de datos sin comprometer el rendimiento.
+
 ## 1.2.2.3. Lean UX Hypothesis Statements.
 **Hypothesis 1: Optimización de la producción en talleres**
 
