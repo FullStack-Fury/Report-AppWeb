@@ -113,6 +113,16 @@
 </table>
 
 ## 2.1.2. Estrategias y tácticas frente a competidores.
+
+### Optimización de Producción para Talleres
+-Gestión de Órdenes de Trabajo: Desarrolla funcionalidades específicas para la gestión de órdenes de trabajo, permitiendo a los talleres planificar, asignar y seguir el progreso de las piezas en producción.
+
+### Inventario Específico para Joyerías
+-Tracking de Materiales Preciosos: Desarrolla un sistema de seguimiento detallado de los materiales preciosos (oro, plata, piedras preciosas) que permite a los dueños de joyerías tener un control preciso sobre su inventario.
+
+### Desarrollo de Características Clave
+-Módulos para Talleres y Joyerías: Desarrolla módulos especializados para talleres y joyerías dentro de tu software, permitiendo a los usuarios personalizar su experiencia según sus necesidades operativas.
+
 ## 2.2. Entrevistas.
 ## 2.2.1. Diseño de entrevistas.
 
