@@ -183,13 +183,8 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 
 ## 2.3.2. User Task Matrix.
 
-### Matriz de Tareas de Usuario
 
-### Matriz de Tareas de Usuario
-
-### Matriz de Tareas de Usuario
-
-| Matriz de Tareas                                  | Dueño de Joyería | ------/-----	 | Dueño de Taller de Joyería | ------/-----	 |
+| User Task                                  | Dueño de Joyería | ------/-----	 | Dueño de Taller de Joyería | ------/-----	 |
 |---------------------------------------------------|------------------|-----------------|----------------------------|----------------------------|
 |                                                   | **Frecuencia**   | **Importancia** | **Frecuencia**             | **Importancia**            |
 | **Gestionar las operaciones diarias de la tienda**| Alta             | Alta            |                            |                            |
