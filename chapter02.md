@@ -182,9 +182,29 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 <img src="assets/chapter02/Javier.png" style="width:700px; height:auto;">
 
 ## 2.3.2. User Task Matrix.
-## 2.3.3. User Journey Mapping.
 
-### Dueño de joyería
+### Matriz de Tareas de Usuario
+
+### Matriz de Tareas de Usuario
+
+### Matriz de Tareas de Usuario
+
+| Matriz de Tareas                                  | Dueño de Joyería | ------/-----	 | Dueño de Taller de Joyería | ------/-----	 |
+|---------------------------------------------------|------------------|-----------------|----------------------------|----------------------------|
+|                                                   | **Frecuencia**   | **Importancia** | **Frecuencia**             | **Importancia**            |
+| **Gestionar las operaciones diarias de la tienda**| Alta             | Alta            |                            |                            |
+| **Gestión de inventario**                         | Alta             | Alta            | Media                      | Alta                       |
+| **Comunicación con proveedores**                  |                  |                 | Alta                       | Alta                       |
+| **Control de calidad de los productos**           | Alta             | Alta            | Alta                       | Alta                       |
+| **Adaptación a las tendencias del mercado**       | Media            | Alta            |                            |                            |
+| **Seguimiento del proceso de producción**         |                  |                 | Alta                       | Alta                       |
+| **Monitoreo en tiempo real del inventario**       | Alta             | Alta            | Alta                       | Alta                       |
+| **Interacción con clientes y ventas**             | Alta             | Alta            |                            |                            |
+| **Adopción e integración de tecnología**          | Media            | Alta            | Media                      | Alta                       |
+| **Gestión de órdenes y trabajo**                  |                  |                 | Alta                       | Alta                       |
+| **Personalización de productos**                  | Media            | Alta            | Alta                       | Alta                       |
+| **Uso de software para mejorar la eficiencia**    | Media            | Alta            | Media                      | Alta                       |
+| **Actividades de marketing y promoción**          | Alta             | Alta            |                            |                            |
 
 <img src="assets/chapter02/journeyMapMiguel.png" style="width:700px; height:auto;">
 
