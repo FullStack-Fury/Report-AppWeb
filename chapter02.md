@@ -200,6 +200,9 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 | **Personalización de productos**                  | Media            | Alta            | Alta                       | Alta                       |
 | **Uso de software para mejorar la eficiencia**    | Media            | Alta            | Media                      | Alta                       |
 | **Actividades de marketing y promoción**          | Alta             | Alta            |                            |                            |
+## 2.3.3. User Journey Mapping.
+
+### Dueño de joyería
 
 <img src="assets/chapter02/journeyMapMiguel.png" style="width:700px; height:auto;">
 
