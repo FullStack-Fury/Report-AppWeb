@@ -18,12 +18,15 @@ GemZ se presenta así como una herramienta esencial para los profesionales de la
     <td>Nací el 20 de diciembre de 2001 y estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). La razón por la cual escogí esta carrera es debido a la alta demanda que esta tiene, además de todas las posibilidades que el crear un software permite. Durante mi primer año de carrera desarrollé mis habilidades, programando distintos trabajos, además de aprender todo lo básico que la programación conlleva. Tengo distintos pasatiempos tales como jugar videojuegos, escuchar música, ver series y practicar basketball.</td>
   </tr>
   <tr>
-    <th colspan="2">Quijandria Aranedal, Vicente </th>
+    <th colspan="2">Quijandria Araneda, Vicente </th>
   </tr>
   <tr>
-    <td>foto</td>
-    <td>descripción</td>
-  </tr>
+    <td><img src="assets/chapter01/FOTO-VICENTE.png" style="width:700px; height:auto;"></td>
+    <td>Mi nombre es Vicente Quijandria, tengo 24 años y estudio Ingeniería de Software en la UPC. Me apasiona mucho el desarrollo de aplicaciones, los algoritmos y estructuras de datos y las arquitecturas de software.
+    Actualmente trabajo como Analista de Despliegues en la empresa Tech-Mahindra aunque me gustaria cambiar de área a desarrollo.
+    En mis tiempos libres me gusta ver futbol, programar y pasar tiempo de calidad con mi enamorada, familia y amigos.
+  </td>
+</tr>
   <tr>
     <th colspan="2">Renteria Palacios, Yasser</th>
   </tr>
