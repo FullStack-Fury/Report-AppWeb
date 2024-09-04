@@ -146,7 +146,7 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 - ¿Cómo llevas el control de los materiales y recursos necesarios para la producción?
 - ¿Cómo aseguras la calidad del producto en cada etapa de la producción?
 - ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
-- ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre diseñadores, artesanos y gerentes de inventario?
+- ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
 - ¿Qué tan adaptable consideras que es tu taller ante pedidos especiales o cambios de última hora?
 - ¿Cuáles son las expectativas de tus clientes en cuanto a la calidad y los tiempos de entrega?
 - ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
