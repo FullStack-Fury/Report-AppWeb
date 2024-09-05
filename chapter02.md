@@ -113,6 +113,16 @@
 </table>
 
 ## 2.1.2. Estrategias y tácticas frente a competidores.
+
+### Optimización de Producción para Talleres
+-Gestión de Órdenes de Trabajo: Desarrolla funcionalidades específicas para la gestión de órdenes de trabajo, permitiendo a los talleres planificar, asignar y seguir el progreso de las piezas en producción.
+
+### Inventario Específico para Joyerías
+-Tracking de Materiales Preciosos: Desarrolla un sistema de seguimiento detallado de los materiales preciosos (oro, plata, piedras preciosas) que permite a los dueños de joyerías tener un control preciso sobre su inventario.
+
+### Desarrollo de Características Clave
+-Módulos para Talleres y Joyerías: Desarrolla módulos especializados para talleres y joyerías dentro de tu software, permitiendo a los usuarios personalizar su experiencia según sus necesidades operativas.
+
 ## 2.2. Entrevistas.
 ## 2.2.1. Diseño de entrevistas.
 
@@ -125,8 +135,9 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 - ¿Cuál es tu nombre y Apellido?
 - ¿Cuál es tu edad?
 - ¿En qué distrito vives?
+- ¿Cómo se llama tu taller/joyería?
 - ¿Qué tecnologías utilizas?
-- ¿Cuáles son tus navegadores preferidos?
+
 
 ### Sector Propietarios de Talleres de Joyería
 
@@ -136,7 +147,7 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 - ¿Cómo llevas el control de los materiales y recursos necesarios para la producción?
 - ¿Cómo aseguras la calidad del producto en cada etapa de la producción?
 - ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
-- ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre diseñadores, artesanos y gerentes de inventario?
+- ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
 - ¿Qué tan adaptable consideras que es tu taller ante pedidos especiales o cambios de última hora?
 - ¿Cuáles son las expectativas de tus clientes en cuanto a la calidad y los tiempos de entrega?
 - ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
@@ -159,11 +170,126 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 - ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
   
 ## 2.2.2. Registro de entrevistas.
+
+## Propietario de Taller de Joyería: Perfil y Descripción
+
+**Nombre y Apellido:** Jorge Pérez  
+**Edad:** 45 años  
+**Distrito:** Surquillo  
+**Nombre del taller/joyería:** Orfebrería El Dorado  
+
+### Sector: Propietarios de Talleres de Joyería
+
+#### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
+Mi taller, Orfebrería El Dorado, se dedica a la creación de joyas personalizadas, desde anillos de compromiso hasta piezas exclusivas para clientes particulares. Las operaciones diarias incluyen el diseño, fundición, engastado de piedras, pulido y control de calidad. Contamos con un equipo de artesanos experimentados que se encargan de cada etapa del proceso.
+
+#### ¿Qué herramientas utilizas actualmente para gestionar la producción y el inventario en tu taller?
+
+Actualmente, utilizo una combinación de hojas de cálculo en Excel y software básico de contabilidad para gestionar la producción y el inventario. También empleo un cuaderno físico para el registro de ciertos detalles específicos de cada pedido.
+
+#### ¿Cuáles son los principales desafíos que enfrentas en la gestión de la producción de joyas?
+
+Uno de los mayores desafíos es el control preciso del inventario, especialmente cuando se trata de materiales valiosos como oro y piedras preciosas. Además, la coordinación entre los distintos procesos puede ser complicada, y cualquier error en una etapa puede afectar la calidad del producto final.
+
+#### ¿Cómo llevas el control de los materiales y recursos necesarios para la producción?
+
+Llevo el control de materiales de manera manual, registrando entradas y salidas en un libro físico. Esto requiere mucha atención al detalle para evitar pérdidas o mal uso de los recursos.
+
+#### ¿Cómo aseguras la calidad del producto en cada etapa de la producción?
+
+La calidad se asegura mediante inspecciones visuales en cada etapa de producción, y cada pieza es revisada minuciosamente antes de ser entregada al cliente. También realizo pruebas de resistencia y durabilidad para asegurarme de que el producto final cumpla con los estándares.
+
+#### ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
+El monitoreo en tiempo real es fundamental para identificar y corregir cualquier problema que surja durante la producción. Esto ayuda a minimizar errores y garantiza que los plazos se cumplan.
+
+#### ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
+La comunicación se gestiona principalmente a través de reuniones diarias y un grupo de WhatsApp donde se coordinan las tareas. Sin embargo, a veces la información se pierde o no llega a todos a tiempo.
+
+#### ¿Qué tan adaptable consideras que es tu taller ante pedidos especiales o cambios de última hora?
+Mi taller es bastante adaptable, pero los pedidos especiales o los cambios de última hora pueden generar estrés y retrasos, especialmente si no se planifican con anticipación.
+
+#### ¿Cuáles son las expectativas de tus clientes en cuanto a la calidad y los tiempos de entrega?
+Mis clientes esperan productos de alta calidad y cumplimiento estricto de los tiempos de entrega. Cualquier retraso o defecto puede dañar la reputación del taller.
+
+#### ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
+
+Espero que un software especializado me ayude a gestionar mejor el inventario, automatizar procesos y mejorar la comunicación interna. Además, sería ideal contar con herramientas que permitan el monitoreo en tiempo real y la generación de reportes detallados.
+
+#### ¿Qué dispositivos utilizas normalmente para gestionar las operaciones del taller?
+Principalmente utilizo una computadora de escritorio y, ocasionalmente, mi smartphone para revisar correos o mensajes urgentes.
+
+#### ¿Cómo te informas sobre nuevas tecnologías o herramientas en la industria de la joyería?
+Me informo sobre nuevas tecnologías a través de revistas especializadas, ferias de joyería, y recomendaciones de colegas en la industria. También investigo en internet y participo en grupos de redes sociales dedicados al sector.
+
 ## 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ## 2.3.1. User Personas.
+
+### Dueño de joyería
+
+<img src="assets/chapter02/Miguel.png" style="width:700px; height:auto;">
+
+### Dueño de taller de joyería
+
+<img src="assets/chapter02/Javier.png" style="width:700px; height:auto;">
+
 ## 2.3.2. User Task Matrix.
+
+
+| User Task                                  | Dueño de Joyería | ------/-----	 | Dueño de Taller de Joyería | ------/-----	 |
+|---------------------------------------------------|------------------|-----------------|----------------------------|----------------------------|
+|                                                   | **Frecuencia**   | **Importancia** | **Frecuencia**             | **Importancia**            |
+| **Gestionar las operaciones diarias de la tienda**| Alta             | Alta            |                            |                            |
+| **Gestión de inventario**                         | Alta             | Alta            | Media                      | Alta                       |
+| **Comunicación con proveedores**                  |                  |                 | Alta                       | Alta                       |
+| **Control de calidad de los productos**           | Alta             | Alta            | Alta                       | Alta                       |
+| **Adaptación a las tendencias del mercado**       | Media            | Alta            |                            |                            |
+| **Seguimiento del proceso de producción**         |                  |                 | Alta                       | Alta                       |
+| **Monitoreo en tiempo real del inventario**       | Alta             | Alta            | Alta                       | Alta                       |
+| **Interacción con clientes y ventas**             | Alta             | Alta            |                            |                            |
+| **Adopción e integración de tecnología**          | Media            | Alta            | Media                      | Alta                       |
+| **Gestión de órdenes y trabajo**                  |                  |                 | Alta                       | Alta                       |
+| **Personalización de productos**                  | Media            | Alta            | Alta                       | Alta                       |
+| **Uso de software para mejorar la eficiencia**    | Media            | Alta            | Media                      | Alta                       |
+| **Actividades de marketing y promoción**          | Alta             | Alta            |                            |                            |
 ## 2.3.3. User Journey Mapping.
+
+### Dueño de joyería
+
+<img src="assets/chapter02/journeyMapMiguel.png" style="width:700px; height:auto;">
+
+### Dueño de taller de joyería
+
+<img src="assets/chapter02/journeyMapJavier.png" style="width:700px; height:auto;">
+
 ## 2.3.4. Empathy Mapping.
 ## 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language.
+
+El "Lenguaje Ubicuo" es clave para implementar GemZ. Nos permite establecer un idioma común entre el equipo de desarrollo y los usuarios, lo que facilita la comunicación y la comprensión de los conceptos esenciales en la gestión de procesos e inventarios en la industria de la joyería.
+
+Taller de Joyería: Es el lugar donde se realizan todas las etapas de la producción de joyas, desde el diseño hasta la entrega del producto final. Los dueños de talleres pueden usar GemZ para gestionar y optimizar cada paso del proceso.
+
+Joyería: Un negocio que se dedica a vender joyas, con o sin taller propio. Los propietarios de joyerías pueden utilizar GemZ para gestionar eficientemente su inventario y asegurarse de que las piezas estén siempre disponibles para la venta.
+
+Proceso de Producción: Incluye todas las fases para crear una joya, como la adquisición de materiales, el diseño, el engaste, la limpieza y el pulido. Con GemZ, es posible controlar cada paso en tiempo real, garantizando una producción eficiente y de alta calidad.
+
+Inventario de Insumos: Aquí se agrupan todos los materiales necesarios para la producción de joyas, como metales preciosos, piedras y otros componentes. GemZ ayuda a mantener este inventario actualizado, evitando interrupciones en la producción.
+
+Inventario de Productos Terminados: Se refiere a las joyas que ya están listas para la venta. GemZ facilita la organización y seguimiento de este inventario, asegurando que las joyas estén disponibles según la demanda.
+
+Orden de Trabajo: Es un registro en GemZ que detalla las especificaciones de la joya que se va a producir, incluyendo materiales, diseño y plazos de entrega. Esto asegura que todas las etapas del proceso estén alineadas con lo que el cliente espera.
+
+Engaste: Técnica para fijar piedras preciosas en una joya, garantizando que queden seguras y estéticas. GemZ permite documentar y seguir este proceso, asegurando que el trabajo sea preciso y de calidad.
+
+Pulido: Es la última etapa en la producción de una joya, donde se limpia y se pule para darle un acabado brillante. GemZ facilita la gestión de esta fase, asegurando que cada pieza quede perfecta.
+
+Monitoreo en Tiempo Real: GemZ ofrece una visión en vivo del estado de los procesos de producción e inventario, lo que permite a los dueños de talleres y joyerías tomar decisiones informadas al instante.
+
+Reporte de Producción: Este informe generado por GemZ muestra el estado actual de la producción, identifica posibles cuellos de botella y permite hacer ajustes en tiempo real para mantener la eficiencia.
+
+Eficiencia Operativa: Es el objetivo principal de GemZ: optimizar todos los procesos dentro del taller o la joyería, reducir errores, mejorar la calidad y aumentar la productividad.
+
+Modelo de Negocio Sostenible: GemZ apoya un enfoque sostenible al mejorar la eficiencia y reducir desperdicios en la producción y gestión de inventarios, ayudando a los dueños de talleres y joyerías a operar de manera más rentable y amigable con el medio ambiente.
+
+Ejemplo de Implementación: Cuando un dueño de taller inicia una nueva orden de trabajo en GemZ, el sistema actualiza automáticamente el inventario de insumos y permite el monitoreo en tiempo real del proceso de producción, incluyendo el engaste y el pulido. Esto garantiza que todos los materiales estén disponibles y que la producción avance sin problemas. Por su parte, los dueños de joyerías pueden consultar el inventario de productos terminados para planificar mejor sus ventas y reposiciones de stock.
