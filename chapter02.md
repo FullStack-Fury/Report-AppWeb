@@ -16,10 +16,10 @@
   </tr>
   <tr>
     <th>Aspectos</th>
-    <th><img src = "/assets/chapter03/gemz-logo.png" alt= "gemz-logo" width = 200 >GemZ</th>
-    <th><img src = "/assets/chapter03/casa-banchero-logo.png" alt= "casa-banchero-logo" width = 200 >Casa Banchero</th>
-    <th><img src = "/assets/chapter03/carati-logo.png" alt= "carati-logo" width = 200 >Carati</th>
-    <th><img src = "/assets/chapter03/tous-logo.png" alt= "tous-logo" width = 200>Tous</th>
+    <th><img src = "/assets/chapter02/gemz-logo.png" alt= "gemz-logo" width = 200 >GemZ</th>
+    <th><img src = "/assets/chapter02/casa-banchero-logo.png" alt= "casa-banchero-logo" width = 200 >Casa Banchero</th>
+    <th><img src = "/assets/chapter02/carati-logo.png" alt= "carati-logo" width = 200 >Carati</th>
+    <th><img src = "/assets/chapter02/tous-logo.png" alt= "tous-logo" width = 200>Tous</th>
   </tr>
   <tr>
     <td colspan="5"><strong>Perfil</strong></td>
