@@ -351,6 +351,43 @@ Link de la landing page: [Landing Page]("")
 </table>
 
 ## 5.2.1.2. Sprint Backlog 1.
+
+En esta primera etapa, nos enfocamos en armar lo básico de la Landing Page: la estructura, cómo se ve y cómo la gente se mueve por ella. También hicimos un reporte que cuenta la historia completa de nuestro proyecto de software, de principio a fin. Esto es clave para que nuestro producto tenga una buena base y la gente lo use sin problemas.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7" >Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+    <tbody>
+</table>
+
 ## 5.2.1.3. Development Evidence for Sprint Review.
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review.
 ## 5.2.1.5. Execution Evidence for Sprint Review.
