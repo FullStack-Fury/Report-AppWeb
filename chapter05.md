@@ -292,15 +292,71 @@ Link de la landing page: [Landing Page]("")
   <img src="/assets/chapter05/paso3.png" alt="paso 3"/>
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-## 5.2.X. Sprint n
-## 5.2.X.1. Sprint Planning n.
-## 5.2.X.2. Sprint Backlog n.
-## 5.2.X.3. Development Evidence for Sprint Review.
-## 5.2.X.4. Testing Suite Evidence for Sprint Review.
-## 5.2.X.5. Execution Evidence for Sprint Review.
-## 5.2.X.6. Services Documentation Evidence for Sprint Review.
-## 5.2.X.7. Software Deployment Evidence for Sprint Review.
-## 5.2.X.8. Team Collaboration Insights during Sprint.
+## 5.2.1. Sprint 1
+## 5.2.1.1. Sprint Planning 1.
+
+<table  style="text-align: center;">
+    <tbody>
+        <tr>
+			<td colspan="1">Sprint 1</td>
+            <td colspan="1"> Sprint n </td>
+		</tr>
+        <tr>
+			<td colspan="2">Sprint Planning Background </td>
+		</tr>
+        <tr>
+			<td colspan="1">Date</td>
+            <td colspan="1"> YYYY-MM-DD </td>
+		</tr>
+        <tr>
+			<td colspan="1">Time</td>
+            <td colspan="1"> HH:MM AM/PM </td>
+		</tr>
+        <tr>
+			<td colspan="1">Location</td>
+            <td colspan="1">(Descripción de la ubicación de la reunión, física o virtual) </td>
+		</tr>
+        <tr>
+			<td colspan="1">Prepared By</td>
+            <td colspan="1"></td>
+		</tr>
+        <tr>
+			<td colspan="1"> Attendees (to planning meeting)</td>
+            <td colspan="1"> </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 – 1 Review Summary </td>
+            <td colspan="1">(Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.)</td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
+            <td colspan="1">(Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)</td>
+		</tr>
+         <tr>
+			<td colspan="2">Sprint Goal & User Stories </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 Goal</td>
+            <td colspan="1">(Definir el Goal del Sprint n y la métrica de cumplimiento.)</td>
+		</tr>
+        <tr>
+			<td colspan="1">Sprint 1 Velocity </td>
+            <td colspan="1">(Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)</td>
+		</tr>
+        <tr>
+			<td colspan="1">Sum of Story Points </td>
+            <td colspan="1">(Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)</td>
+		</tr>
+</tbody>
+</table>
+
+## 5.2.1.2. Sprint Backlog 1.
+## 5.2.1.3. Development Evidence for Sprint Review.
+## 5.2.1.4. Testing Suite Evidence for Sprint Review.
+## 5.2.1.5. Execution Evidence for Sprint Review.
+## 5.2.1.6. Services Documentation Evidence for Sprint Review.
+## 5.2.1.7. Software Deployment Evidence for Sprint Review.
+## 5.2.1.8. Team Collaboration Insights during Sprint.
 ## 5.3. Validation Interviews.
 ## 5.3.1. Diseño de Entrevistas.
 ## 5.3.2. Registro de Entrevistas.
