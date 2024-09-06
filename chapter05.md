@@ -389,6 +389,57 @@ En esta primera etapa, nos enfocamos en armar lo básico de la Landing Page: la 
 </table>
 
 ## 5.2.1.3. Development Evidence for Sprint Review.
+
+En este primer sprint, nos centramos en sentar las bases de nuestra solución, priorizando la Landing Page y la documentación esencial para el proyecto. Primero, se mostrarán los commits más importantes para el Reporte:
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit ID</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>JuanPescoran</td>
+      <td>develop</td>
+      <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
+      <td>feat: added content in chapter IV</td>
+      <td>added content in all sections of chapter04</td>
+      <td>4/9/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+A continuación se presentan los commits más importantes para la Landing Page:
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit ID</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>JuanPescoran</td>
+      <td>develop</td>
+      <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
+      <td>feat: added content in chapter IV</td>
+      <td>added content in all sections of chapter04</td>
+      <td>4/9/2024</td>
+    </tr>
+  </tbody>
+  </table>
+
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review.
 ## 5.2.1.5. Execution Evidence for Sprint Review.
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review.
