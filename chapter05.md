@@ -277,6 +277,20 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
       
 
 ## 5.1.4. Software Deployment Configuration.
+
+    Paso para crear el ambiente de desarrollo en la landing page:
+
+Link de la landing page: [Landing Page]("")
+
+1. Crear un repositorio en GitHub.
+  <img src="/assets/chapter05/paso1.png" alt="paso 1"/>
+
+2. Agregar participantes al repositorio.
+  <img src="/assets/chapter05/paso2.png" alt="paso 2"/>
+
+3. Habilitamos GitHub Pages en branch "master" y ruta "/(root)"
+  <img src="/assets/chapter05/paso3.png" alt="paso 3"/>
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ## 5.2.X. Sprint n
 ## 5.2.X.1. Sprint Planning n.
