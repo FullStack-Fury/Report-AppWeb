@@ -270,7 +270,7 @@ Me informo sobre nuevas tecnologías a través de revistas especializadas, feria
 
 ### Dueño de taller de joyería
 
-<img src="assets/chapter02/empathyMapJavier.png" style="width:700px; height:auto;">
+<img src="assets/chapter02/empathyMapJavi.png" style="width:700px; height:auto;">
 
 ## 2.3.5. As-is Scenario Mapping.
 
