@@ -219,7 +219,7 @@ Me informo sobre nuevas tecnologías a través de revistas especializadas, feria
 **Nombre del taller/joyeria:** Rentería Joyeros
 
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
-El taller se dedica a la elaboración de una joya. Es decir, todo el proceso desde la elaboración hasta el producto final. Lo que pasa por el joyero, el engastador que poner las piedras y los último detalles que son los pulidos, limpieza, baños y de ahí sale el producto final.
+El taller se dedica a la elaboración de una joya. Es decir, todo el proceso desde la elaboración hasta el producto final. Lo que pasa por el joyero, el engastador que pone las piedras y los último detalles que son los pulidos, limpieza, baños y de ahí sale el producto final.
 
 #### ¿Cuáles son los principales desafíos que enfrentas en la gestión de la producción de joyas?
 Las nuevas tecnologías, se necesita nuevas tencologías para la rapidez. También el control de lo que se da a los joyeros y los productos que se usan. Es un poco más a la antigua, se necesita un programa que nos ayude agilizar ello.
