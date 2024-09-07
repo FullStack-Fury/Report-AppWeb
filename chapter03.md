@@ -2,7 +2,7 @@
 ## 3.1. To-Be Scenario Mapping.
 
 ## To-Be del segmento objetivo dueño de taller de joyeria
-<td><img src="assets/To-beDueñoDeTallerJoyeria.jpg" style="width:700px; height:auto;"></td>
+<td><img src="assets/To-beDueñodeTallerJoyeria.jpg" style="width:700px; height:auto;"></td>
 
 ## To-Be del segmento objetivo dueño de joyeria
 <td><img src="assets/To-BeDueñoDeJoyeria.jpg" style="width:700px; height:auto;"></td>
