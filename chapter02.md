@@ -263,7 +263,19 @@ Me informo sobre nuevas tecnologías a través de revistas especializadas, feria
 <img src="assets/chapter02/journeyMapJavier.png" style="width:700px; height:auto;">
 
 ## 2.3.4. Empathy Mapping.
+
+### Dueño de joyería
+
+<img src="assets/chapter02/empathyMapMiguel.png" style="width:700px; height:auto;">
+
+### Dueño de taller de joyería
+
+<img src="assets/chapter02/empathyMapJavier.png" style="width:700px; height:auto;">
+
 ## 2.3.5. As-is Scenario Mapping.
+
+
+
 ## 2.4. Ubiquitous Language.
 
 El "Lenguaje Ubicuo" es clave para implementar GemZ. Nos permite establecer un idioma común entre el equipo de desarrollo y los usuarios, lo que facilita la comunicación y la comprensión de los conceptos esenciales en la gestión de procesos e inventarios en la industria de la joyería.
