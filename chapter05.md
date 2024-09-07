@@ -1,7 +1,12 @@
 # Capítulo V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management.
-## 5.1.1. Software Development Environment Configuration.
 
+La implementación, validación y despliegue del producto son esenciales para asegurar que la visión del producto se materialice en una solución funcional y accesible para nuestros usuarios. Estas fases nos permiten transformar el diseño conceptual en una aplicación efectiva, probada y lista para su uso, lo que facilita la verificación de nuestras ideas, la identificación de posibles problemas y la entrega de una experiencia de usuario de alta calidad.
+
+## 5.1. Software Configuration Management.
+
+La administración de la configuración del software es fundamental para nuestro trabajo, ya que nos permite mantener un control exacto sobre los componentes de nuestro proyecto, como el código fuente, los documentos de diseño y los recursos digitales. Esto asegura que todos los miembros del equipo trabajen con la misma versión de los archivos y facilita la colaboración entre desarrolladores, diseñadores y otros profesionales involucrados en el proyecto.
+
+## 5.1.1. Software Development Environment Configuration.
 
 - **Project Management**:
 
@@ -67,6 +72,9 @@
     Es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear los cambios en el código fuente de un proyecto de software. Usamos Git para controlar y gestionar las versiones del código fuente de la landing page.
     [Página principal de Git](https://git-scm.com/)
 ## 5.1.2. Source Code Management.
+
+
+
 ## 5.1.3. Source Code Style Guide & Conventions.
 
 Como norma general, se espera que todo el código desarrollado por los miembros del equipo esté completamente redactado en inglés.
