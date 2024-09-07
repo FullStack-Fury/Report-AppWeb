@@ -274,8 +274,6 @@ Me informo sobre nuevas tecnologías a través de revistas especializadas, feria
 
 ## 2.3.5. As-is Scenario Mapping.
 
-  El As-Is scenario mapping 
-
 ### Dueño de joyería
 
 ![as-is-dueño-joyería](assets/chapter02/as-is-duenio-joyeria.png)
