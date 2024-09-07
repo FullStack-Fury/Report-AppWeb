@@ -177,7 +177,7 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 
 **Distrito:** Surquillo  
 
-**Nombre del taller/joyería:** Orfebrería El Dorado  
+**Nombre del taller/joyería:** El Dorado  
 
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 Mi taller, Orfebrería El Dorado, se dedica a la creación de joyas personalizadas, desde anillos de compromiso hasta piezas exclusivas para clientes particulares. Las operaciones diarias incluyen el diseño, fundición, engastado de piedras, pulido y control de calidad. Contamos con un equipo de artesanos experimentados que se encargan de cada etapa del proceso.
@@ -207,6 +207,8 @@ Principalmente utilizo una computadora de escritorio y, ocasionalmente, mi smart
 Me informo sobre nuevas tecnologías a través de revistas especializadas, ferias de joyería, y recomendaciones de colegas en la industria. También investigo en internet y participo en grupos de redes sociales dedicados al sector.
 
 ### Entrevista #2
+
+  ![Entrevista_Seg02_Gustavo](assets/Gustavo.png)
 
 **Nombre y Apellido:** Gustavo Martín Rentería Rosas
 
@@ -243,6 +245,8 @@ No se utiliza nada tecnológico. Sino que uno pasa a ver si todo va bien y con c
 ## Entrevista a Propietario de Joyería
 
 ### Entrevista #1
+
+![Entrevista_Seg01_Yasira](assets/Yasira.png)
 
 **Nombre y Apellido:** Yasira Palacios Absi
 
