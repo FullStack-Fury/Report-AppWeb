@@ -183,8 +183,6 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 
 **Nombre del taller/joyería:** Orfebrería El Dorado  
 
-### Sector: Propietarios de Talleres de Joyería
-
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 Mi taller, Orfebrería El Dorado, se dedica a la creación de joyas personalizadas, desde anillos de compromiso hasta piezas exclusivas para clientes particulares. Las operaciones diarias incluyen el diseño, fundición, engastado de piedras, pulido y control de calidad. Contamos con un equipo de artesanos experimentados que se encargan de cada etapa del proceso.
 
@@ -226,6 +224,40 @@ Principalmente utilizo una computadora de escritorio y, ocasionalmente, mi smart
 #### ¿Cómo te informas sobre nuevas tecnologías o herramientas en la industria de la joyería?
 Me informo sobre nuevas tecnologías a través de revistas especializadas, ferias de joyería, y recomendaciones de colegas en la industria. También investigo en internet y participo en grupos de redes sociales dedicados al sector.
 
+### Entrevista #2
+
+**Nombre y Apellido:** Gustavo Martín Rentería Rosas
+
+**Edad:** 54 años
+
+**Distrito:** Chorrillos
+
+**Nombre del taller/joyeria:** Rentería Joyeros
+
+#### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
+El taller se dedica a la elaboración de una joya. Es decir, todo el proceso desde la elaboración hasta el producto final. Lo que pasa por el joyero, el engastador que poner las piedras y los último detalles que son los pulidos, limpieza, baños y de ahí sale el producto final.
+
+#### ¿Cuáles son los principales desafíos que enfrentas en la gestión de la producción de joyas?
+Las nuevas tecnologías, se necesita nuevas tencologías para la rapidez. También el control de lo que se da a los joyeros y los productos que se usan. Es un poco más a la antigua, se necesita un programa que nos ayude agilizar ello.
+
+#### ¿Cómo llevas el control de los materiales y recursos necesarios para la producción?
+Es una manera más artesanal y manual. O sea, con cuadernos y compramos lo que necesitamos todo en un estante. No se lleva un control de inventario en sí, sino más personalizado.
+
+#### ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
+Tiene suma importancia porque uno puede ver en qué se demora determinado proceso y el por qué se está demorando. Puede ser por el personal o insumo que influye en muchos factores.
+
+#### ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
+A traves es de una persona que mira toda la gestión antes que revisa qué es lo que se entrega, oro, plata, etc. De eso pasa al joyero y del joyero al engastador. Pero todo es oral.
+
+#### ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
+Mayor rapidez en el control de inventario de material oro o plata y saber con qué cantidad cuento para futuros trabajos o pedidos. 
+Mayor exactitud, control y seguridad de las hechuras o trabajos por realizar de los joyeros.
+Control de guías de pedido y orden de prioridad para los clientes.
+Un mayor control y rapidez para obtener los pesos, merma y costos de un producto final.
+
+#### ¿Qué dispositivos utilizas normalmente para gestionar las operaciones del taller?
+No se utiliza nada tecnológico. Sino que uno pasa a ver si todo va bien y con cámaras, pero sólo hasta ahí. Pero no se sabe si demora o no.
+
 ## Entrevista a Propietario de Joyería
 
 ### Entrevista #1
@@ -236,7 +268,7 @@ Me informo sobre nuevas tecnologías a través de revistas especializadas, feria
 
 **Distrito:** Chorrillos
 
-**Nombre del taller/joyería:** Renteria Palacios Joyeros
+**Nombre del taller/joyería:** RENPAL
 
 ## Preguntas y Respuestas
 
