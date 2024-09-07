@@ -1,5 +1,12 @@
 # **Capítulo III: Requirements Specification**
 ## 3.1. To-Be Scenario Mapping.
+
+## To-Be del segmento objetivo dueño de taller de joyeria
+<td><img src="assets/To-beDueñoDeTallerJoyeria.jpg" style="width:700px; height:auto;"></td>
+
+## To-Be del segmento objetivo dueño de joyeria
+<td><img src="assets/To-BeDueñoDeJoyeria.jpg" style="width:700px; height:auto;"></td>
+
 ## 3.2. User Stories.
 
 | ID de Historia de Usuario | Título de User Story              | Descripción                                                                                                       | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ID de Épica |
