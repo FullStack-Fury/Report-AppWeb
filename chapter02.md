@@ -142,14 +142,10 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 ### Sector Propietarios de Talleres de Joyería
 
 - ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
-- ¿Qué herramientas utilizas actualmente para gestionar la producción y el inventario en tu taller?
 - ¿Cuáles son los principales desafíos que enfrentas en la gestión de la producción de joyas?
 - ¿Cómo llevas el control de los materiales y recursos necesarios para la producción?
-- ¿Cómo aseguras la calidad del producto en cada etapa de la producción?
 - ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
 - ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
-- ¿Qué tan adaptable consideras que es tu taller ante pedidos especiales o cambios de última hora?
-- ¿Cuáles son las expectativas de tus clientes en cuanto a la calidad y los tiempos de entrega?
 - ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
 - ¿Qué dispositivos utilizas normalmente para gestionar las operaciones del taller?
 - ¿Cómo te informas sobre nuevas tecnologías o herramientas en la industria de la joyería?
@@ -186,10 +182,6 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 Mi taller, Orfebrería El Dorado, se dedica a la creación de joyas personalizadas, desde anillos de compromiso hasta piezas exclusivas para clientes particulares. Las operaciones diarias incluyen el diseño, fundición, engastado de piedras, pulido y control de calidad. Contamos con un equipo de artesanos experimentados que se encargan de cada etapa del proceso.
 
-#### ¿Qué herramientas utilizas actualmente para gestionar la producción y el inventario en tu taller?
-
-Actualmente, utilizo una combinación de hojas de cálculo en Excel y software básico de contabilidad para gestionar la producción y el inventario. También empleo un cuaderno físico para el registro de ciertos detalles específicos de cada pedido.
-
 #### ¿Cuáles son los principales desafíos que enfrentas en la gestión de la producción de joyas?
 
 Uno de los mayores desafíos es el control preciso del inventario, especialmente cuando se trata de materiales valiosos como oro y piedras preciosas. Además, la coordinación entre los distintos procesos puede ser complicada, y cualquier error en una etapa puede afectar la calidad del producto final.
@@ -198,21 +190,11 @@ Uno de los mayores desafíos es el control preciso del inventario, especialmente
 
 Llevo el control de materiales de manera manual, registrando entradas y salidas en un libro físico. Esto requiere mucha atención al detalle para evitar pérdidas o mal uso de los recursos.
 
-#### ¿Cómo aseguras la calidad del producto en cada etapa de la producción?
-
-La calidad se asegura mediante inspecciones visuales en cada etapa de producción, y cada pieza es revisada minuciosamente antes de ser entregada al cliente. También realizo pruebas de resistencia y durabilidad para asegurarme de que el producto final cumpla con los estándares.
-
 #### ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
 El monitoreo en tiempo real es fundamental para identificar y corregir cualquier problema que surja durante la producción. Esto ayuda a minimizar errores y garantiza que los plazos se cumplan.
 
 #### ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
 La comunicación se gestiona principalmente a través de reuniones diarias y un grupo de WhatsApp donde se coordinan las tareas. Sin embargo, a veces la información se pierde o no llega a todos a tiempo.
-
-#### ¿Qué tan adaptable consideras que es tu taller ante pedidos especiales o cambios de última hora?
-Mi taller es bastante adaptable, pero los pedidos especiales o los cambios de última hora pueden generar estrés y retrasos, especialmente si no se planifican con anticipación.
-
-#### ¿Cuáles son las expectativas de tus clientes en cuanto a la calidad y los tiempos de entrega?
-Mis clientes esperan productos de alta calidad y cumplimiento estricto de los tiempos de entrega. Cualquier retraso o defecto puede dañar la reputación del taller.
 
 #### ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
 
