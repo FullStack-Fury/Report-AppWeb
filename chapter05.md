@@ -300,8 +300,17 @@ Link de la landing page: [Landing Page]("")
   <img src="/assets/chapter05/paso3.png" alt="paso 3"/>
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+
+Desarrollar la página de inicio, los servicios y las aplicaciones es un componente esencial de nuestro proceso de desarrollo. Esta etapa convierte el diseño y la funcionalidad previstos en productos reales y operativos. Nos permite transformar las especificaciones y requisitos en código efectivo, construyendo la estructura de la página, los servicios y las aplicaciones según las necesidades definidas.
+
 ## 5.2.1. Sprint 1
+
+El primer sprint representa un momento clave en nuestro desarrollo ágil. Durante esta etapa, nos dedicamos a implementar las características y funcionalidades prioritarias que se definieron en la planificación inicial. Este proceso implica transformar los requisitos y especificaciones en código operativo, sentando las bases de nuestro producto de manera progresiva.
+
 ## 5.2.1.1. Sprint Planning 1.
+
+En la metodología ágil, la reunión de planificación del sprint es fundamental para preparar el trabajo del próximo sprint. En esta fase, el equipo decide qué tareas se abordarán, estima el tiempo necesario para cada una y asigna responsabilidades. El objetivo es desarrollar un plan bien definido y alcanzable, promoviendo el trabajo en equipo y asegurando que todos los miembros estén claros sobre las metas y prioridades del sprint.
+
 
 <table  style="text-align: center;">
     <tbody>
