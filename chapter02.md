@@ -171,11 +171,16 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
   
 ## 2.2.2. Registro de entrevistas.
 
-## Propietario de Taller de Joyería: Perfil y Descripción
+## Propietario de Taller de Joyería
+
+### Entrevista #1
 
 **Nombre y Apellido:** Jorge Pérez  
+
 **Edad:** 45 años  
+
 **Distrito:** Surquillo  
+
 **Nombre del taller/joyería:** Orfebrería El Dorado  
 
 ### Sector: Propietarios de Talleres de Joyería
@@ -220,6 +225,58 @@ Principalmente utilizo una computadora de escritorio y, ocasionalmente, mi smart
 
 #### ¿Cómo te informas sobre nuevas tecnologías o herramientas en la industria de la joyería?
 Me informo sobre nuevas tecnologías a través de revistas especializadas, ferias de joyería, y recomendaciones de colegas en la industria. También investigo en internet y participo en grupos de redes sociales dedicados al sector.
+
+## Entrevista a Propietario de Joyería
+
+### Entrevista #1
+
+**Nombre y Apellido:** Yasira Palacios Absi
+
+**Edad:** 50
+
+**Distrito:** Chorrillos
+
+**Nombre del taller/joyería:** Renteria Palacios Joyeros
+
+## Preguntas y Respuestas
+
+#### ¿Cómo describes la operación diaria de tu joyería?
+La operación diaria de mi joyería implica gestionar el inventario de productos, atender a los clientes, coordinar con proveedores y, en ocasiones, supervisar la producción de piezas personalizadas. Es un proceso que requiere atención constante y una gestión eficiente para mantener la calidad y satisfacer a los clientes.
+
+#### ¿Cómo gestionas el inventario de productos en tu joyería?
+
+Actualmente, la gestión del inventario es un desafío. Utilizamos un sistema manual combinado con hojas de cálculo, lo que a veces resulta en errores y dificulta tener una visión actualizada en tiempo real de nuestro stock.
+
+#### ¿Qué herramientas digitales o tecnológicas utilizas actualmente para gestionar tu negocio?
+Usamos algunas herramientas digitales básicas como hojas de cálculo y un software de punto de venta, pero no tenemos una solución integral que cubra todos los aspectos de la gestión del negocio.
+
+#### ¿Cómo controlas la calidad del producto que vendes, especialmente si trabajas con talleres externos?
+El control de calidad es crucial. Para productos de talleres externos, realizamos inspecciones visuales y pruebas de calidad al recibir las piezas. Sin embargo, no tenemos un sistema estandarizado para rastrear y documentar este proceso.
+
+#### ¿Cómo manejas la comunicación con los proveedores y fabricantes de joyas?
+
+La comunicación con proveedores y fabricantes se realiza principalmente por teléfono y correo electrónico, lo que a veces puede llevar a malentendidos o retrasos en la información.
+
+#### ¿Qué importancia le das a tener un inventario actualizado y preciso?
+Tener un inventario actualizado y preciso es extremadamente importante. Nos ayuda a evitar pérdidas, mejorar el servicio al cliente y tomar decisiones informadas sobre reabastecimiento y nuevas adquisiciones.
+
+#### ¿Cómo te adaptas a las demandas y tendencias cambiantes en el mercado de la joyería?
+Nos mantenemos al tanto de las tendencias a través de ferias comerciales, revistas especializadas y feedback de los clientes. Ajustamos nuestro inventario según estas tendencias, aunque a veces es difícil hacerlo de manera ágil.
+
+#### ¿Cuáles son las expectativas de tus clientes en cuanto a la disponibilidad y personalización de productos?
+Nuestros clientes esperan una amplia variedad de productos disponibles y la posibilidad de personalizar piezas. Satisfacer estas expectativas requiere una gestión eficiente del inventario y una buena comunicación con los talleres.
+
+#### ¿Cómo valoras la posibilidad de monitorear en tiempo real el estado del inventario y las ventas?
+La posibilidad de monitorear en tiempo real el inventario y las ventas sería extremadamente valiosa. Nos permitiría tomar decisiones más informadas y responder rápidamente a las demandas del mercado.
+
+#### ¿Qué beneficios esperas obtener con una solución de software especializada como GemZ para la gestión de inventarios y procesos?
+Con una solución como GemZ, esperaría mejorar la eficiencia operativa, reducir errores en la gestión del inventario, mejorar la comunicación con los talleres y proveedores, y en última instancia, aumentar la satisfacción del cliente y las ventas.
+
+#### ¿Qué dispositivos prefieres utilizar para gestionar tu joyería?
+Prefiero utilizar tanto computadoras de escritorio como dispositivos móviles para gestionar la joyería. La flexibilidad de acceder a la información desde cualquier lugar sería muy beneficiosa.
+
+#### ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
+Al considerar nuevas tecnologías, me baso en recomendaciones de colegas del sector, opiniones de expertos en tecnología para joyerías, y demostraciones prácticas de cómo la solución puede mejorar específicamente nuestras operaciones diarias.
 
 ## 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
