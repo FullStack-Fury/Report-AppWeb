@@ -514,11 +514,15 @@ A continuación se presentan los commits más importantes para la Landing Page:
   </table>
 
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review.
+Al no contar con una implementación del lado del backend en esta engrega, solo se utiliza los appetance criteria para ello 
+
 ## 5.2.1.5. Execution Evidence for Sprint Review.
 
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En la presene entrega no existe implementación a nivel de backend, ya que el alcance del sprint está abocado al landing page.
 ## 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Link de la pagina desplegada: [GemZ (Fullstack-fury.github.io/LandingPage-FullStackFury/)]("https://fullstack-fury.github.io/LandingPage-FullStackFury/")
+
 ## 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Dado que el alcance del presente sprint se aboca al desarrollo de landing page, nuestro equipo de trabajo decidió seccionar la información de la startup de modo que cada miembro pueda contar con participación en esta entrega.
