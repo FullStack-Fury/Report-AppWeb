@@ -12,6 +12,9 @@
 ## 4.3.1. Landing Page Wireframe.
 ## 4.3.2. Landing Page Mock-up.
 # 4.4. Web Applications UX/UI Design.
+
+El diseño UX/UI para aplicaciones web busca crear una experiencia digital intuitiva, eficiente y agradable. UX se enfoca en entender y mejorar la interacción del usuario, mientras que UI se centra en el aspecto visual y la disposición de elementos como botones y menús. Un buen diseño UX/UI combina estética y funcionalidad para ofrecer una experiencia de usuario efectiva y memorable.
+
 ## 4.4.1. Web Applications Wireframes.
 ## 4.4.2. Web Applications Wireflow Diagrams.
 ## 4.4.2. Web Applications Mock-ups.
