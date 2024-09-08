@@ -136,7 +136,6 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 - ¿Cuál es tu edad?
 - ¿En qué distrito vives?
 - ¿Cómo se llama tu taller/joyería?
-- ¿Qué tecnologías utilizas?
 
 
 ### Sector Propietarios de Talleres de Joyería
