@@ -140,8 +140,63 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 
 ## 4.7.1. Class Diagrams.
 
-![class_diagram](assets/GemZ.png)
+![class_diagram](assets/ClassDiagram2.png)
 
 ## 4.7.2. Class Dictionary.
+
+**Plataforma**
+- Atributos: id_Plataforma,version,nombre,url,tipo
+- Métodos: iniciarSesion(),registrarUsuario(),enviarNotificación(),gestionarPagos(),monitorearActividad(),generarReporte(),getVersion(),setVersion(),getId(),setId()
+
+**Usuario**
+- Atributos: id_usuario,rol,credenciales
+- Métodos: getId_usuario(),setId_usuario(),getRol(),setRol()
+
+**DueñoJoyeria**
+- Atributos: nombre,telefono,correo,nombreJoyeria,ubicación
+- Métodos: get_NombreJoyeria(),set_NombreJoyeria(),obtener_contacto()
+
+**DueñoTaller**
+- Atributos: nombre,telefono,correo,nombreTaller,ubicación
+- Métodos: get_NombreJoyeria(),set_NombreTaller(),obtener_contacto()
+
+**Pago**
+- Atributos: id_Pago,nombre,fecha_pago,estado
+- Métodos: getId_Pago(),setId_Pago(),getEstado(),setEstado(),getFechaPago(),setFechaPago(),metodoPago()
+
+**PlanBasico**
+- Atributos:id_basic,precio,descripción
+- Métodos: mostrarDescripción()
+
+**PlanPremium**
+- Atributos:id_basic,precio,descripción
+- Métodos: mostrarDescripción()
+
+**Inventario**
+- Atributos: id_inventario,nombreProducto,cantidad,precio,ubicación
+- Métodos: setId_Inventario(),getId_Inventario(),obtener_nombreProducto(),getCantidad(),setCantidad()
+
+**Producto**
+- Atributos: idProducto, nombre,descripción,categoria,precio,precio,tipo,peso,imagen
+- Métodos: getIdProducto(),setIdProducto(),verDetalles(),verificarDisponibilidad()
+
+**Joya**
+- Atributos: id_Joya,nombre,tipo,estado,fecha
+- Métodos: actualizarEstado(),obtenerDetalles()
+
+**Proceso**
+- Atributos: id_Proceso,nombre,hora_inicio,hora_final,estado,descripción
+- Métodos: getIdProceso(),setIdProceso(),mostrarNombreProceso(),actualizarEstado()
+
+**Categoria**
+- Atributos: id_Categoria,nombre,descripción
+- Métodos: getIdCategoria(),setIdCategoria(),mostrarProductos()
+
 # 4.8. Database Design.
+
+El diseño de la base de datos es esencial para el proyecto, ya que definirá cómo almacenar y gestionar los datos de manera eficaz y segura. Crearemos tablas, relaciones y restricciones cuidadosamente, siguiendo las mejores prácticas para organizar los datos lógicamente y facilitar su acceso y manipulación.
+
 ## 4.8.1. Database Diagram
+
+![database_diagram](assets/DatabaseDiagram.png)
+
