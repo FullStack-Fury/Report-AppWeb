@@ -20,16 +20,16 @@
 # 4.6. Domain-Driven Software Architecture.
 ## 4.6.1. Software Architecture Context Diagram.
 
-**Elementos:**
-
-- GemZ: Aplicación web para la gestión de producción, inventario y operaciones de joyería.
-- Dueño de Joyería: Supervisa ventas, gestiona inventarios y coordina pedidos con talleres.
-- Dueño de Taller de Joyería: Gestiona la producción, asegura la calidad y controla el uso de materiales.
-
 ![context-diagram](assets/ContextDiagram.png)
 
 ## 4.6.2. Software Architecture Container Diagrams.
+
+![context-diagram](assets/diagramContainerr.png)
+
 ## 4.6.3. Software Architecture Components Diagrams.
+
+![context-diagram](assets/DiagramComponent.png)
+
 # 4.7. Software Object-Oriented Design.
 ## 4.7.1. Class Diagrams.
 ## 4.7.2. Class Dictionary.
