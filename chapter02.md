@@ -335,10 +335,10 @@ Sería muy valioso. Me permitiría tomar decisiones más rápidas y mejorar el s
 Espero que un software como GemZ me ayude a optimizar el inventario, mejorar la trazabilidad de las piezas, facilitar la generación de reportes y, en general, ahorrar tiempo en tareas administrativas.
 
 #### ¿Qué dispositivos prefieres utilizar para gestionar tu joyería?
-Prefiero usar una combinación de computadora de escritorio en la tienda y una tablet para cuando estoy en movimiento o atendiendo clientes en el piso de ventas.
+Prefiero usar una combinación de computadora en la tienda y una tablet para cuando estoy en movimiento o atendiendo clientes en el piso de ventas.
 
 #### ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
-Me baso en recomendaciones de colegas del sector, información de asociaciones de joyeros y, ocasionalmente, consulto con un asesor tecnológico. También valoro mucho la experiencia de otros negocios similares al mío.
+Me baso en recomendaciones e información de asociaciones de joyeros. También valoro mucho la experiencia de otros negocios similares al mío.
 
 ## 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
