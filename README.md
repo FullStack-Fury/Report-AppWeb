@@ -54,7 +54,7 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
 
 # Student Outcome
 
-<table border="1" cellpadding="5" cellspacing="0">
+<table >
   <thead>
     <tr>
       <th>Criterio Específico</th>
@@ -66,17 +66,17 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
     <tr>
       <td>ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos</td>
       <td>
-        <p>Oscar Antayhua:</p>
+        <p>Oscar Antayhua: Estuvo de manera activa en la grupo, proponientos idea y comentarios utiles, participó en la capitulo I, capitulo II, capitulo III capitulo V altamente presente para toda la fase de creacion de la landing page</p>
         <br>
-        <p>Yasser Rentería:</p>
+        <p>Yasser Rentería: Tenia una comunición bastante clase y acertiva en el grupo sobre que se iba haciendo, participó en el capítulo I, capitulo II, capitulo III, capitulo IV,</p>
         <br>
-        <p>Andres Torres:</p>
+        <p>Andres Torres: Estuvo tambien activamente en la creación del resporte, parcipando en: capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V. También, esto activamente en la creación de la landign page.</p>
         <br>
-        <p>Angelo Curi:</p>
+        <p>Angelo Curi: hizo un impacto capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V</p>
         <br>
-        <p>Vicente Quijandria:</p>
+        <p>Vicente Quijandria: participó en un punto del capitulo I</p>
       </td>
-      <td></td>
+      <td>El equipo demostró un alto nivel de colaboración, donde todos los miembros participaron activamente en diversas partes del proyecto. Oscar Antayhua, Yasser Rentería, Andres Torres, y Angelo Curi contribuyeron significativamente en múltiples capítulos del reporte y en la creación de la landing page, mostrando liderazgo compartido y una dedicación constante en el desarrollo del proyecto.</td>
     </tr>
   </tbody>
 </table>
