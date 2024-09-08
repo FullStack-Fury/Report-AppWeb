@@ -354,7 +354,7 @@ En la metodología ágil, la reunión de planificación del sprint es fundamenta
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 Goal</td>
-            <td colspan="1"> </td>
+            <td colspan="1"> Para este sprint, el objetivo es desarrollar los elementos fundamentales de la Landing Page, incluyendo su estructura, diseño y navegación. Además, se completará un reporte detallado que documenta el proyecto de software desde el inicio hasta el final. Estos logros son esenciales para establecer una base sólida para nuestro producto y garantizar una experiencia de usuario fluida y efectiva. </td>
 		</tr>
         <tr>
 			<td colspan="1">Sprint 1 Velocity </td>
