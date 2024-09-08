@@ -519,13 +519,13 @@ A continuación se presentan los commits más importantes para la Landing Page:
  
 # Conclusiones
 
--Durante el desarrollo de la plataforma GemZ, el equipo ha logrado implementar con éxito las funcionalidades clave y características planificadas, proporcionando una solución integral para la gestión de la producción y el inventario en el sector de la joyería.
+- Durante el desarrollo de la plataforma GemZ, el equipo ha logrado implementar con éxito las funcionalidades clave y características planificadas, proporcionando una solución integral para la gestión de la producción y el inventario en el sector de la joyería.
 
--La implementación inicial de GemZ ha demostrado la capacidad del equipo para transformar los requisitos y especificaciones en una herramienta funcional, con una estructura robusta y un diseño que se alinea con las necesidades del usuario.
+- La implementación inicial de GemZ ha demostrado la capacidad del equipo para transformar los requisitos y especificaciones en una herramienta funcional, con una estructura robusta y un diseño que se alinea con las necesidades del usuario.
 
--La colaboración y el trabajo en equipo han sido cruciales para el éxito del proyecto, permitiendo a los miembros aportar sus conocimientos, habilidades y recursos para alcanzar los objetivos establecidos.
+- La colaboración y el trabajo en equipo han sido cruciales para el éxito del proyecto, permitiendo a los miembros aportar sus conocimientos, habilidades y recursos para alcanzar los objetivos establecidos.
 
--El enfoque ágil ha sido efectivo para la implementación de GemZ, permitiendo al equipo adaptarse a cambios y desafíos de manera eficiente y mejorar continuamente el producto según el feedback recibido.
+- El enfoque ágil ha sido efectivo para la implementación de GemZ, permitiendo al equipo adaptarse a cambios y desafíos de manera eficiente y mejorar continuamente el producto según el feedback recibido.
 
 
 
