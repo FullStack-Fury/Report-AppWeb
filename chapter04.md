@@ -159,6 +159,59 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 <img src="/assets/Panel.png" alt="panel"/>
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
+
+## User Goal 1: Registro y acceso al Panel de Control
+
+### Descripción: El usuario ingresará a la página principal de la aplicación web y seleccionará la opción de iniciar sesión. Si no tiene cuenta, se redirigirá al panel de registro. Si ya tiene cuenta, se dirigirá al panel de inicio de sesión. Una vez completado el inicio de sesión, accederá al Panel de Control.
+
+## Wireflow:
+
+### Pantalla de Inicio (Inicio de Sesión/Registro)
+
+- El usuario ve la opción de iniciar sesión o registrarse.
+
+### Pantalla de Registro (Si no tiene cuenta)
+
+- El usuario completa el formulario de registro (nombre, email, contraseña, etc.) y crea su cuenta.
+
+### Pantalla de Inicio de Sesión
+
+- El usuario introduce sus credenciales (email y contraseña).
+
+### Pantalla de Panel de Control
+
+- Después de iniciar sesión correctamente, el usuario es dirigido al Panel de Control.
+
+<img src="/assets/Wireflow1.png" alt="Wire1"/>
+
+## 2. User Goal 2: Acceso directo al Panel de Control
+
+### Descripción: El usuario ingresará a la página principal de la aplicación web, se dirigirá al panel de inicio de sesión ya que tiene cuenta, y luego accederá al Panel de Control directamente. Para después poder dirigirse al Panel de Inventario o de Perfil.
+
+## Wireflow:
+
+### Pantalla de Inicio (Iniciar Sesión)
+
+- El usuario ve la opción de iniciar sesión.
+- 
+### Pantalla de Inicio de Sesión
+
+- Introduce sus credenciales (email y contraseña).
+
+### Pantalla de Panel de Control
+
+- Al iniciar sesión correctamente, es dirigido al Panel de Control.
+
+### Pantalla de Inventario
+
+- Al iniciar sesión correctamente y dirigirse al Panel de Control, puede redirigirse al Inventario
+
+### Pantalla de Perfil
+
+- Al iniciar sesión correctamente y dirigirse al Panel de Control, puede redirigirse al Inventario
+
+<img src="/assets/Wireflow2.png" alt="Wire2"/>
+
 ## 4.4.2. Web Applications Mock-ups.
 ## 4.4.3. Web Applications User Flow Diagrams.
 # 4.5. Web Applications Prototyping.
