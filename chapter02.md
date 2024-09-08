@@ -166,11 +166,13 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
   
 ## 2.2.2. Registro de entrevistas.
 
+### Microsft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## Propietario de Taller de Joyería
 
-### Entrevista #1
+### Entrevista #1 (Inicio: 00:00, Fin: 10:10)
 
-  ![Entrevista_Seg01_Gustavo](assets/Gustavo.png)
+![Entrevista_Seg01_Gustavo](assets/Gustavo.png)
 
 **Nombre y Apellido:** Gustavo Martín Rentería Rosas
 
@@ -204,7 +206,7 @@ Un mayor control y rapidez para obtener los pesos, merma y costos de un product
 #### ¿Qué dispositivos utilizas normalmente para gestionar las operaciones del taller?
 No se utiliza nada tecnológico. Sino que uno pasa a ver si todo va bien y con cámaras, pero sólo hasta ahí. Pero no se sabe si demora o no.
 
-### Entrevista #2
+### Entrevista #2 (Inicio: 10:10, Fin: 13:50)
 
 ![Entrevista_Seg02_Paolo](assets/Paolo.png)
 
@@ -243,7 +245,7 @@ Principalmente utilizo una computadora de escritorio y, ocasionalmente, mi smart
 #### ¿Cómo te informas sobre nuevas tecnologías o herramientas en la industria de la joyería?
 Me informo sobre nuevas tecnologías a través de revistas especializadas, ferias de joyería, y recomendaciones de colegas en la industria. También investigo en internet y participo en grupos de redes sociales dedicados al sector.
 
-### Entrevista #3
+### Entrevista #3 (Inicio: 13:50, Fin: 16:36)
 
 ![Entrevista_Seg03_Ñeño](assets/Ñeño.png)
 
@@ -281,7 +283,7 @@ Investigo en internet y a veces asisto a ferias de joyería.
 
 ## Entrevista a Propietario de Joyería
 
-### Entrevista #1
+### Entrevista #1 (Inicio: 16:36, Fin: 22:56)
 
 ![Entrevista_Seg01_Yasira](assets/Yasira.png)
 
@@ -330,7 +332,7 @@ Prefiero utilizar tanto computadoras de escritorio como dispositivos móviles pa
 #### ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
 Al considerar nuevas tecnologías, me baso en recomendaciones de colegas del sector, opiniones de expertos en tecnología para joyerías, y demostraciones prácticas de cómo la solución puede mejorar específicamente nuestras operaciones diarias.
 
-### Entrevista #2
+### Entrevista #2 (Inicio: 22:56, Fin: 28:21)
 
 ![Entrevista_Seg01_Ana](assets/Ana.png)
 
@@ -375,7 +377,7 @@ Prefiero usar una combinación de computadora en la tienda y una tablet para cua
 #### ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
 Me baso en recomendaciones e información de asociaciones de joyeros. También valoro mucho la experiencia de otros negocios similares al mío.
 
-### Entrevista #3
+### Entrevista #3 (Inicio: 28:21, Fin: 32:43)
 
 ![Entrevista_Seg03_Ospina](assets/Ospina.png)
 
