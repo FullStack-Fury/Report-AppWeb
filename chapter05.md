@@ -516,6 +516,13 @@ A continuación se presentan los commits más importantes para la Landing Page:
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Al no contar con una implementación del lado del backend en esta engrega, solo se utiliza los appetance criteria para ello 
 
+| **Feature** | Como visitante quiero conocer las principales funciones de la aplicación a través de la landing page para evaluar su utilidad y posible uso. |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Escenario 1** | **El potencial cliente quiere contactarnos**<br><br>**Dado que**: el cliente está en la landing page.<br>**Cuando**: selecciona la opción de "Contacto" desde el menú de navegación.<br>**Entonces**: podrá ver de una manera concisa y organizada las principales características de la app. |
+| **Escenario 2** | **El visitante quiere información sobre Planes de Suscripción**<br><br>**Dado que**: el cliente está en la landing page.<br>**Cuando**: selecciona la opción de "Suscriptions" desde el menú de navegación.<br>**Entonces**: el sistema lo redirige a la sección de precios de suscripción, mostrando los dos planes disponibles: uno para talleres de joyería y otro para dueños de joyerías, junto con detalles de costos y beneficios asociados. |
+| **Escenario 3** | **El visitante conoce nuestro startup**<br><br>**Dado que**: que el cliente está en la landing page <br>**Cuando**: selecciona la opción de "About Us" desde el menú de navegación. <br>**Entonces**: el sitio web lo redirigirá hacia el apartado con detalles de información acerca de la startup. |
+
+
 ## 5.2.1.5. Execution Evidence for Sprint Review.
 
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review.
