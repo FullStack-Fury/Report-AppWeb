@@ -1,5 +1,10 @@
 # **Capítulo III: Requirements Specification**
+
+La etapa de especificación de requisitos será fundamental en nuestro proceso, ya que nos permitirá delinear con claridad las metas y las funciones que el producto deberá ofrecer.
+
 ## 3.1. To-Be Scenario Mapping.
+
+El mapeo de escenarios "To-Be" nos permite visualizar el proceso ideal tras las mejoras, identificando cambios necesarios y diseñando soluciones. Esto facilita la comunicación del objetivo final y asegura la alineación de todas las partes interesadas, mejorando la planificación y ejecución de los cambios.
 
 ## To-Be del segmento objetivo dueño de taller de joyeria
 <td><img src="assets/To-beDueñodeTallerJoyeria.jpg" style="width:700px; height:auto;"></td>
@@ -8,6 +13,9 @@
 <td><img src="assets/To-BeDueñoDeJoyeria.jpg" style="width:700px; height:auto;"></td>
 
 ## 3.2. User Stories.
+
+Las User Stories son descripciones breves que detallan una funcionalidad del producto desde la perspectiva del usuario. Nos permiten entender sus necesidades y qué quieren lograr, enfocándonos en el valor que obtendrán. Al escribirlas, priorizamos las características del producto según su relevancia para el usuario, desarrollando soluciones que resuelvan sus problemas.
+
 
 | ID de Historia de Usuario | Título de User Story              | Descripción                                                                                                       | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | ID de Épica |
 |---------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -36,6 +44,8 @@
 | US023                         | Gestión de Pedidos Personalizados                 | Como dueño de taller de joyería, quiero gestionar los pedidos personalizados de los clientes, para poder planificar adecuadamente los recursos y asegurarme de cumplir con las especificaciones y fechas de entrega.              | **Happy Path**: **Dado** que el usuario está en la sección de gestión de pedidos personalizados. <br>**Cuando** crea un nuevo pedido con las especificaciones del cliente. <br>**Entonces** el sistema genera un cronograma de producción y asigna los recursos necesarios. <br> **Unhappy Path**: **Dado** que el usuario ingresa especificaciones incompletas o inválidas para un pedido. <br>**Cuando** intenta guardar el pedido. <br> **Entonces** el sistema muestra un mensaje de error solicitando la corrección de la información.                            |
 | US024                         | Reporte de Desempeño de Producción                | Como dueño de taller de joyeria, quiero generar reportes de desempeño de producción que detallen el tiempo empleado en cada etapa del proceso, para identificar áreas de mejora y optimizar la eficiencia operativa.                    | **Happy Path**: **Dado** que el dueño está en la sección de reportes de desempeño.<br> **Cuando** selecciona un rango de fechas y genera un reporte. <br>**Entonces** el sistema muestra el tiempo empleado en cada etapa del proceso y permite exportar el reporte en formatos como PDF o Excel. <br> **Unhappy Path**: **Dado** que el usuario selecciona parámetros incorrectos o incompletos para el reporte.<br> **Cuando** intenta generarlo.<br> **Entonces** el sistema muestra un mensaje indicando los errores y solicita corrección antes de proceder. |
 ## 3.3. Impact Mapping.
+
+Impact Mapping es una herramienta útil para planificar cómo nuestro proyecto puede influir en los usuarios y cumplir sus objetivos. Nos permite identificar resultados, comportamientos esperados y acciones clave para lograrlos. Con Impact Mapping, podemos alinear nuestras actividades con los objetivos, tomar decisiones más claras y aumentar el impacto del proyecto. Con Impact Mapping, podemos enfocar nuestras acciones hacia los objetivos, hacer elecciones más fundamentadas y optimizar el impacto del proyecto.
 
 #### Dueños de Joyería
 
