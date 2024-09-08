@@ -134,14 +134,14 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 
 ## Registro
-<img src="/assets/Register.png" alt="registro"/>
+<img src="/assets/Registro.png" alt="registro"/>
 
 ## Registro Mobile
 <img src="/assets/Registro_Mobile.png" alt="registro"/>
 
 
 ## Inicio
-<img src="/assets/Inicio.png" alt="inicio"/>
+<img src="/assets/Inicio (2).png" alt="inicio"/>
 
 ## Inicio Mobile
 <img src="/assets/Inicio_Mobile.png" alt="inicio"/>
