@@ -48,7 +48,7 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 
 ## 4.7.1. Class Diagrams.
 
-![class_diagram](assets/GemZ.png)
+![class_diagram](assets/ClassDiagram2.png)
 
 ## 4.7.2. Class Dictionary.
 
