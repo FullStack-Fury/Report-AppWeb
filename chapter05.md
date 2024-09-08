@@ -375,7 +375,7 @@ En esta primera etapa, nos enfocamos en armar lo básico de la Landing Page: la 
 	<tbody>
 		<tr>
 			<td>Sprint #</td>
-			<td colspan="7" >Sprint 1</td>
+			<td colspan="7">Sprint 1</td>
 		</tr>
 		<tr>
 			<td colspan="2">User Story</td>
@@ -391,16 +391,65 @@ En esta primera etapa, nos enfocamos en armar lo básico de la Landing Page: la 
 			<td>Assigned To</td>
 			<td>Status (To-do / In-Process / To-Review / Done)</td>
 		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK001</td>
+			<td>Setting up a remote environment for the Report and Landing Page</td>
+			<td>Setting up organization, repositories, and branches on GitHub</td>
+			<td>0</td>
+			<td>Torres García, Andrés</td>
+			<td>Done</td>
 		</tr>
 		<tr>
 			<td></td>
 			<td></td>
+			<td>TSK002</td>
+			<td>Conclude Chapter01</td>
+			<td>Complete all sections and include the relevant information in Chapter01</td>
+			<td>5</td>
+			<td>team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
 			<td></td>
 			<td></td>
+			<td>TSK003</td>
+			<td>Conclude Chapter02</td>
+			<td>Complete all sections and include the relevant information in Chapter02</td>
+			<td>4</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
 			<td></td>
 			<td></td>
+			<td>TSK004</td>
+			<td>Conclude Chapter03</td>
+			<td>Complete all sections and include the relevant information in Chapter03</td>
+			<td>6</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
 			<td></td>
 			<td></td>
+			<td>TSK005</td>
+			<td>Conclude Chapter04</td>
+			<td>Complete all sections and include the relevant information in Chapter04</td>
+			<td>15</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK006</td>
+			<td>Conclude Chapter05</td>
+			<td>Complete all sections and include the relevant information in Chapter05</td>
+			<td>4</td>
+			<td>All team members</td>
+			<td>Done</td>
 		</tr>
     <tbody>
 </table>
