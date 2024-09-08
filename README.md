@@ -21,9 +21,28 @@ Fecha: **Agosto de 2024**.
 </div>
 
 # Registro de Versiones del Informe
-| Versión | Fecha      | Autores            | Descripción de Modificación                                                      |
-|---------|------------|--------------------|----------------------------------------------------------------------------------|
-|1        |            |                    |                                                                                  |
+
+<table cellpadding="4" >
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autores</th>
+      <th>Descripción de Modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>08/09/2024</td>
+      <td>Todos</td>
+      <td> El equipo trabajó de forma conjunta y coordinada para desarrollar una propuesta de solución. Se profundizó en la comprensión de los usuarios a través de la creación de "user personas" detalladas, que permitieron visualizar las necesidades y motivaciones de los distintos tipos de usuarios. Se elaboraron "user stories" que describían de forma clara y concisa las funcionalidades.
+<br>
+El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
+    </tr>
+  </tbody>
+</table>
+                                                                                |
 
 - - -
 
@@ -35,9 +54,32 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
 
 # Student Outcome
 
-| Criterio Específico | Acciones Realizadas | Conclusiones |
-|---------------------|----------------------|--------------|
-| ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos | <br><br>Oscar Antayhua:<br> <br><br>Yasser Rentería:<br> <br><br>Andres Torres:<br><br> <br>Angelo Curi:<br> <br><br>Vicente Quijandria<br> |  |
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Criterio Específico</th>
+      <th>Acciones Realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos</td>
+      <td>
+        <p>Oscar Antayhua:</p>
+        <br>
+        <p>Yasser Rentería:</p>
+        <br>
+        <p>Andres Torres:</p>
+        <br>
+        <p>Angelo Curi:</p>
+        <br>
+        <p>Vicente Quijandria:</p>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 # Contenido
 ## Tabla de contenidos
