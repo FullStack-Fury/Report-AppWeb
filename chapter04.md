@@ -51,5 +51,14 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 ![class_diagram](assets/GemZ.png)
 
 ## 4.7.2. Class Dictionary.
+
+
+
 # 4.8. Database Design.
+
+El diseño de la base de datos es esencial para el proyecto, ya que definirá cómo almacenar y gestionar los datos de manera eficaz y segura. Crearemos tablas, relaciones y restricciones cuidadosamente, siguiendo las mejores prácticas para organizar los datos lógicamente y facilitar su acceso y manipulación.
+
 ## 4.8.1. Database Diagram
+
+![database_diagram](assets/DatabaseDiagram.png)
+
