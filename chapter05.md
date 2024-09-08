@@ -323,15 +323,15 @@ En la metodología ágil, la reunión de planificación del sprint es fundamenta
 		</tr>
         <tr>
 			<td colspan="1">Date</td>
-            <td colspan="1"> YYYY-MM-DD </td>
+            <td colspan="1"> 2024-09-07 </td>
 		</tr>
         <tr>
 			<td colspan="1">Time</td>
-            <td colspan="1"> HH:MM AM/PM </td>
+            <td colspan="1"> 21:00 PM </td>
 		</tr>
         <tr>
 			<td colspan="1">Location</td>
-            <td colspan="1">(Descripción de la ubicación de la reunión, física o virtual) </td>
+            <td colspan="1"> Microsot Teams  </td>
 		</tr>
         <tr>
 			<td colspan="1">Prepared By</td>
@@ -339,30 +339,30 @@ En la metodología ágil, la reunión de planificación del sprint es fundamenta
 		</tr>
         <tr>
 			<td colspan="1"> Attendees (to planning meeting)</td>
-            <td colspan="1"> </td>
+            <td colspan="1"> Quijandria Araneda, Vicente / Antayhua Castillo, Oscar / Torres García, Andrés / Rentería Palacios, Yasser / Curi Marcelo, Angelo </td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 – 1 Review Summary </td>
-            <td colspan="1">(Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.)</td>
+            <td colspan="1">Se lograron los objetivos del producto, incluyendo la finalización de todos los capítulos, el lanzamiento de la Landing Page y la integración de la mayoría de la información en el reporte.</td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
-            <td colspan="1">(Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)</td>
+            <td colspan="1">El Sprint 1 enfrentó desafíos en la gestión del tiempo, lo que afectó el progreso de los capítulos. El Líder del equipo propuso las siguientes acciones para mejorar: "Aumentar la implicación de cada miembro del equipo, realizar reuniones diarias para monitorear el avance del proyecto, mejorar la comunicación interna y optimizar el uso de herramientas de software para el manejo de tareas en cada sprint." En el siguiente Sprint, se pondrán en práctica estas sugerencias para mejorar los resultados.</td>
 		</tr>
          <tr>
 			<td colspan="2">Sprint Goal & User Stories </td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 Goal</td>
-            <td colspan="1">(Definir el Goal del Sprint n y la métrica de cumplimiento.)</td>
+            <td colspan="1"> </td>
 		</tr>
         <tr>
 			<td colspan="1">Sprint 1 Velocity </td>
-            <td colspan="1">(Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)</td>
+            <td colspan="1">Para este sprint se decidió trabajar con 5 User Stories, cada una valorada en 5 Story Points</td>
 		</tr>
         <tr>
 			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1">(Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)</td>
+            <td colspan="1">25</td>
 		</tr>
 </tbody>
 </table>
