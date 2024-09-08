@@ -101,13 +101,26 @@ En esta sección se presentan los diseños de la página de inicio de GemZ, que 
 
 En esta sección se presentan los wireframes de la página de inicio de GemZ, que muestran la estructura y el diseño de la página. sin incluir detalles visuales como colores y fuentes.
 
+### - Wireframe pero para la vista del ordenador:
+
 <img src="/assets/chapter04/wireframe.png" alt="wireframe"/>
+
+### - Wireframe pero para la vista del móvil.
+
+<img src="/assets/chapter04/wireframe-mobile.png" alt="wireframe"/>
 
 ## 4.3.2. Landing Page Mock-up.
 
 En esta sección se presentan los mock-ups de la página de inicio de GemZ, que muestran el diseño visual completo de la página, incluyendo colores, fuentes e imágenes.
 
+
+### - Mock-up para la vista del ordenador:
+
 <img src="/assets/chapter04/mockup.png" alt="mockup"/>
+
+### - Mock-up para la vista del móvil.
+
+<img src="/assets/chapter04/mockup-mobile.png" alt="mockup"/>
 
 # 4.4. Web Applications UX/UI Design.
 
