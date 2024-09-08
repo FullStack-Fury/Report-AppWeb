@@ -146,6 +146,7 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 ### Panel de Control
 <img src="/assets/Panel.png" alt="panel" width="150" height="150" align="right"/>
+
 ## 4.4.2. Web Applications Wireflow Diagrams.
 ## 4.4.2. Web Applications Mock-ups.
 ## 4.4.3. Web Applications User Flow Diagrams.
