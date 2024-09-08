@@ -293,8 +293,6 @@ Investigo en internet y a veces asisto a ferias de joyería.
 
 **Nombre del taller/joyería:** RENPAL
 
-## Preguntas y Respuestas
-
 #### ¿Cómo describes la operación diaria de tu joyería?
 La operación diaria de mi joyería implica gestionar el inventario de productos, atender a los clientes, coordinar con proveedores y, en ocasiones, supervisar la producción de piezas personalizadas. Es un proceso que requiere atención constante y una gestión eficiente para mantener la calidad y satisfacer a los clientes.
 
