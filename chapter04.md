@@ -11,7 +11,7 @@ Un manual de estilo establece las pautas para redactar, diseñar y presentar div
 ### Branding
 Para la creacion para nuestra startup Gemz, se ha optado por un estilo moderno y minimalista, de tal manera que se pueda transmitir una imagen de innovación y profesionalismo. Teniendo en cuenta que nos enforcamos en el sector de la joyería, se ha optado por un estilo elegante y sofisticado, que refleje la calidad y exclusividad de nuestros productos.
 
-<img src="/assets/logo2_gray.png.png" alt="logo" width= "200px"/>
+<img src="/assets/chapter04/logo2_gray.png.png" alt="logo" width= "200px"/>
 
 ### Color Palette
 
@@ -130,33 +130,33 @@ El diseño UX/UI para aplicaciones web busca crear una experiencia digital intui
 Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o pieza tecnológica. A veces se conoce como esquema de la página o plano de la pantalla y muestra cómo se relacionan los elementos entre sí y cómo están estructurados. 
 
 ## Inicio e Inicio Mobile
-<img src="/assets/Home.png" alt="home"/>
+<img src="/assets/chapter04/Home.png" alt="home"/>
 
 
 ## Registro
-<img src="/assets/Registro.png" alt="registro"/>
+<img src="/assets/chapter04/Registro.png" alt="registro"/>
 
 ## Registro Mobile
-<img src="/assets/Registro_Mobile.png" alt="registro"/>
+<img src="/assets/chapter04/Registro_Mobile.png" alt="registro"/>
 
 
 ## Inicio
-<img src="/assets/Inicio (2).png" alt="inicio"/>
+<img src="/assets/chapter04/Inicio (2).png" alt="inicio"/>
 
 ## Inicio Mobile
-<img src="/assets/Inicio_Mobile.png" alt="inicio"/>
+<img src="/assets/chapter04/Inicio_Mobile.png" alt="inicio"/>
 
 
 ## Perfil Y Perfil Mobile
-<img src="/assets/Perfil.png" alt="perfil"/>
+<img src="/assets/chapter04/Perfil.png" alt="perfil"/>
 
 
 ## Inventario e Inventario Mobile
-<img src="/assets/Inventario.png" alt="inventario"/>
+<img src="/assets/chapter04/Inventario.png" alt="inventario"/>
 
 
 ### Panel de Control y Panel de Control Mobile
-<img src="/assets/Panel.png" alt="panel"/>
+<img src="/assets/chapter04/Panel.png" alt="panel"/>
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
 
@@ -182,7 +182,7 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 - Después de iniciar sesión correctamente, el usuario es dirigido al Panel de Control.
 
-<img src="/assets/Wireflow1.png" alt="Wireflow1"/>
+<img src="/assets/chapter04/Wireflow1.png" alt="Wireflow1"/>
 
 ## 2. User Goal 2: Acceso directo al Panel de Control
 
@@ -210,7 +210,7 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 - Al iniciar sesión correctamente y dirigirse al Panel de Control, puede redirigirse al Inventario
 
-<img src="/assets/Wireflow2.png" alt="Wireflow2"/>
+<img src="/assets/chapter04/Wireflow2.png" alt="Wireflow2"/>
 
 ## 4.4.2. Web Applications Mock-ups.
 ## 4.4.3. Web Applications User Flow Diagrams.
@@ -221,15 +221,15 @@ La arquitectura de software centrada en el dominio organiza el software según l
 
 ## 4.6.1. Software Architecture Context Diagram.
 
-![context-diagram](assets/ContextDiagram.png)
+![context-diagram](assets/chapter04/ContextDiagram.png)
 
 ## 4.6.2. Software Architecture Container Diagrams.
 
-![context-diagram](assets/diagramContainerr.png)
+![context-diagram](assets/chapter04/diagramContainerr.png)
 
 ## 4.6.3. Software Architecture Components Diagrams.
 
-![context-diagram](assets/DiagramComponent.png)
+![context-diagram](assets/chapter04/DiagramComponent.png)
 
 # 4.7. Software Object-Oriented Design.
 
@@ -239,7 +239,7 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 
 [Link](https://lucid.app/lucidchart/53ea401a-b74f-48cb-a026-f4ef4ab8c1dd/edit?viewport_loc=-5140%2C-690%2C3204%2C1710%2C0_0&invitationId=inv_f1b0d317-0669-4dbd-94ad-11595e4b4a6d)
 
-![class_diagram](assets/ClassDiagram2.png)
+![class_diagram](assets/chapter04/ClassDiagram2.png)
 
 ## 4.7.2. Class Dictionary.
 
@@ -299,5 +299,5 @@ El diseño de la base de datos es esencial para el proyecto, ya que definirá c�
 
 [Link](https://lucid.app/lucidchart/5667052f-8cc5-424b-9438-41d3fa451449/edit?viewport_loc=-563%2C-430%2C3955%2C2111%2C0_0&invitationId=inv_56fe3027-5ced-46e4-86ac-43bdf76f9e43)
 
-![database_diagram](assets/DatabaseDiagram.png)
+![database_diagram](assets/chapter04/DatabaseDiagram.png)
 
