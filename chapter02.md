@@ -272,7 +272,6 @@ Usamos algunas herramientas digitales básicas como hojas de cálculo y un softw
 El control de calidad es crucial. Para productos de talleres externos, realizamos inspecciones visuales y pruebas de calidad al recibir las piezas. Sin embargo, no tenemos un sistema estandarizado para rastrear y documentar este proceso.
 
 #### ¿Cómo manejas la comunicación con los proveedores y fabricantes de joyas?
-
 La comunicación con proveedores y fabricantes se realiza principalmente por teléfono y correo electrónico, lo que a veces puede llevar a malentendidos o retrasos en la información.
 
 #### ¿Qué importancia le das a tener un inventario actualizado y preciso?
@@ -295,6 +294,51 @@ Prefiero utilizar tanto computadoras de escritorio como dispositivos móviles pa
 
 #### ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
 Al considerar nuevas tecnologías, me baso en recomendaciones de colegas del sector, opiniones de expertos en tecnología para joyerías, y demostraciones prácticas de cómo la solución puede mejorar específicamente nuestras operaciones diarias.
+
+### Entrevista #2
+
+![Entrevista_Seg01_Ana](assets/Ana.png)
+
+**Nombre y Apellido:** Ana Sofia Espinoza 
+
+**Edad:** 27
+
+**Distrito:** Callao
+
+**Nombre del taller/joyería:** Espinoza
+
+#### ¿Cómo gestionas el inventario de productos en tu joyería?
+Mantengo un registro detallado de cada pieza, incluyendo su descripción, precio, materiales y ubicación en la tienda. Realizo conteos físicos regularmente para asegurar la precisión.
+
+#### ¿Qué herramientas digitales o tecnológicas utilizas actualmente para gestionar tu negocio?
+Actualmente uso un sistema de punto de venta básico para registrar ventas. También utilizo redes sociales para marketing.
+
+#### ¿Cómo controlas la calidad del producto que vendes, especialmente si trabajas con talleres externos?
+Inspecciono personalmente cada pieza que ingresa a la tienda, sea de producción propia o de talleres externos. Mantengo relaciones cercanas con artesanos de confianza.
+
+#### ¿Cómo manejas la comunicación con los proveedores y fabricantes de joyas?
+La mayoría de la comunicación es por correo electrónico y llamadas telefónicas. Ocasionalmente realizo visitas personales a proveedores clave.
+
+#### ¿Qué importancia le das a tener un inventario actualizado y preciso?
+Es crucial. Un inventario preciso me permite tomar decisiones informadas sobre compras, evitar faltantes y ofrecer un mejor servicio al cliente.
+
+#### ¿Cómo te adaptas a las demandas y tendencias cambiantes en el mercado de la joyería?
+Sigo de cerca las tendencias en redes sociales, revistas especializadas y ferias del sector. Ajusto mi inventario gradualmente, manteniendo un balance entre piezas clásicas y modernas.
+
+#### ¿Cuáles son las expectativas de tus clientes en cuanto a la disponibilidad y personalización de productos?
+Mis clientes esperan encontrar piezas únicas y la posibilidad de personalizar diseños. La disponibilidad inmediata es importante, pero están dispuestos a esperar por piezas especiales.
+
+#### ¿Cómo valoras la posibilidad de monitorear en tiempo real el estado del inventario y las ventas?
+Sería muy valioso. Me permitiría tomar decisiones más rápidas y mejorar el servicio al cliente, especialmente en temporadas altas.
+
+#### ¿Qué beneficios esperas obtener con una solución de software especializada como GemZ para la gestión de inventarios y procesos?
+Espero que un software como GemZ me ayude a optimizar el inventario, mejorar la trazabilidad de las piezas, facilitar la generación de reportes y, en general, ahorrar tiempo en tareas administrativas.
+
+#### ¿Qué dispositivos prefieres utilizar para gestionar tu joyería?
+Prefiero usar una combinación de computadora de escritorio en la tienda y una tablet para cuando estoy en movimiento o atendiendo clientes en el piso de ventas.
+
+#### ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
+Me baso en recomendaciones de colegas del sector, información de asociaciones de joyeros y, ocasionalmente, consulto con un asesor tecnológico. También valoro mucho la experiencia de otros negocios similares al mío.
 
 ## 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
