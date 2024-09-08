@@ -182,7 +182,7 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 - Después de iniciar sesión correctamente, el usuario es dirigido al Panel de Control.
 
-<img src="/assets/Wireflow1.png" alt="Wire1"/>
+<img src="/assets/Wireflow1.png" alt="Wireflow1"/>
 
 ## 2. User Goal 2: Acceso directo al Panel de Control
 
@@ -193,7 +193,7 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 ### Pantalla de Inicio (Iniciar Sesión)
 
 - El usuario ve la opción de iniciar sesión.
-- 
+  
 ### Pantalla de Inicio de Sesión
 
 - Introduce sus credenciales (email y contraseña).
@@ -210,7 +210,7 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 - Al iniciar sesión correctamente y dirigirse al Panel de Control, puede redirigirse al Inventario
 
-<img src="/assets/Wireflow2.png" alt="Wire2"/>
+<img src="/assets/Wireflow2.png" alt="Wireflow2"/>
 
 ## 4.4.2. Web Applications Mock-ups.
 ## 4.4.3. Web Applications User Flow Diagrams.
