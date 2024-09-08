@@ -39,10 +39,10 @@
 
 #### Dueños de Joyería
 
-![Entrevista_Impact](assets/Impact map 1.png)
+![Impact](assets/Impact1.png)
 
 #### Dueños de Taller de Joyería
 
-![Entrevista_Impact](assets/Impact map 2.png)
+![Impact](assets/Impact2.png)
 
 ## 3.4. Product Backlog.
