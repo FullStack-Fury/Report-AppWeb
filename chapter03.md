@@ -36,4 +36,13 @@
 | US023                         | Gestión de Pedidos Personalizados                 | Como dueño de taller de joyería, quiero gestionar los pedidos personalizados de los clientes, para poder planificar adecuadamente los recursos y asegurarme de cumplir con las especificaciones y fechas de entrega.              | **Happy Path**: **Dado** que el usuario está en la sección de gestión de pedidos personalizados. <br>**Cuando** crea un nuevo pedido con las especificaciones del cliente. <br>**Entonces** el sistema genera un cronograma de producción y asigna los recursos necesarios. <br> **Unhappy Path**: **Dado** que el usuario ingresa especificaciones incompletas o inválidas para un pedido. <br>**Cuando** intenta guardar el pedido. <br> **Entonces** el sistema muestra un mensaje de error solicitando la corrección de la información.                            |
 | US024                         | Reporte de Desempeño de Producción                | Como dueño de taller de joyeria, quiero generar reportes de desempeño de producción que detallen el tiempo empleado en cada etapa del proceso, para identificar áreas de mejora y optimizar la eficiencia operativa.                    | **Happy Path**: **Dado** que el dueño está en la sección de reportes de desempeño.<br> **Cuando** selecciona un rango de fechas y genera un reporte. <br>**Entonces** el sistema muestra el tiempo empleado en cada etapa del proceso y permite exportar el reporte en formatos como PDF o Excel. <br> **Unhappy Path**: **Dado** que el usuario selecciona parámetros incorrectos o incompletos para el reporte.<br> **Cuando** intenta generarlo.<br> **Entonces** el sistema muestra un mensaje indicando los errores y solicita corrección antes de proceder. |
 ## 3.3. Impact Mapping.
+
+#### Dueños de Joyería
+
+![Entrevista_Impact map 1](assets/Impact map 1.png)
+
+#### Dueños de Taller de Joyería
+
+![Entrevista_Impact map 2](assets/Impact map 2.png)
+
 ## 3.4. Product Backlog.
