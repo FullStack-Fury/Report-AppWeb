@@ -515,9 +515,21 @@ A continuación se presentan los commits más importantes para la Landing Page:
 
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review.
 ## 5.2.1.5. Execution Evidence for Sprint Review.
+
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review.
+En la presene entrega no existe implementación a nivel de backend, ya que el alcance del sprint está abocado al landing page.
 ## 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ## 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Dado que el alcance del presente sprint se aboca al desarrollo de landing page, nuestro equipo de trabajo decidió seccionar la información de la startup de modo que cada miembro pueda contar con participación en esta entrega.
+
+A continuación se adjunta la imagen de los commits de cada integrante como colaboradores en el repositorio.
+<img src="./assets/contributor.png">
+<img src="./assets/network-graph.png">
+
+
+
+
 ## 5.3. Validation Interviews.
 ## 5.3.1. Diseño de Entrevistas.
 ## 5.3.2. Registro de Entrevistas.
