@@ -1,5 +1,11 @@
 # Capítulo IV: Product Design
+
+El diseño de productos será crucial para desarrollar soluciones que se centren en el usuario y aborden los problemas identificados. Este enfoque nos permitirá crear productos y servicios intuitivos y atractivos, alineados con las necesidades del usuario, lo que facilitará el logro de nuestros objetivos comerciales y generará valor para nuestros clientes.
+
 # 4.1. Style Guidelines.
+
+Un manual de estilo establece las pautas para redactar, diseñar y presentar diversos tipos de contenido, como documentos, sitios web y software. A continuación, se explican las normas específicas adoptadas para estructurar el proyecto.
+
 ## 4.1.1. General Style Guidelines.
 ## 4.1.2. Web Style Guidelines.
 # 4.2. Information Architecture.
