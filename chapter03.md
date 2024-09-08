@@ -6,6 +6,8 @@ La etapa de especificación de requisitos será fundamental en nuestro proceso, 
 
 El mapeo de escenarios "To-Be" nos permite visualizar el proceso ideal tras las mejoras, identificando cambios necesarios y diseñando soluciones. Esto facilita la comunicación del objetivo final y asegura la alineación de todas las partes interesadas, mejorando la planificación y ejecución de los cambios.
 
+[Link]( https://miro.com/welcomeonboard/R0w0cTFGYk1INnV3N25BVlluM3Nwdld1N3E5dW5ERzlwWWVLblpSU0hwa2w0S0FZNXFOY3h0Z3puSnpyNnJjRXwzMDc0NDU3MzQ5OTk2MTQ0NDk2fDI=?share_link_id=149029786897)
+
 ## To-Be del segmento objetivo dueño de taller de joyeria
 <td><img src="assets/To-beDueñodeTallerJoyeria.jpg" style="width:700px; height:auto;"></td>
 
