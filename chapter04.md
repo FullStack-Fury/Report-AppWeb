@@ -237,6 +237,8 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 
 ## 4.7.1. Class Diagrams.
 
+[Link](https://lucid.app/lucidchart/53ea401a-b74f-48cb-a026-f4ef4ab8c1dd/edit?viewport_loc=-5140%2C-690%2C3204%2C1710%2C0_0&invitationId=inv_f1b0d317-0669-4dbd-94ad-11595e4b4a6d)
+
 ![class_diagram](assets/ClassDiagram2.png)
 
 ## 4.7.2. Class Dictionary.
@@ -294,6 +296,8 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 El diseño de la base de datos es esencial para el proyecto, ya que definirá cómo almacenar y gestionar los datos de manera eficaz y segura. Crearemos tablas, relaciones y restricciones cuidadosamente, siguiendo las mejores prácticas para organizar los datos lógicamente y facilitar su acceso y manipulación.
 
 ## 4.8.1. Database Diagram
+
+[Link](https://lucid.app/lucidchart/5667052f-8cc5-424b-9438-41d3fa451449/edit?viewport_loc=-563%2C-430%2C3955%2C2111%2C0_0&invitationId=inv_56fe3027-5ced-46e4-86ac-43bdf76f9e43)
 
 ![database_diagram](assets/DatabaseDiagram.png)
 
