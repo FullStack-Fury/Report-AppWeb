@@ -213,6 +213,36 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 <img src="/assets/Wireflow2.png" alt="Wireflow2"/>
 
 ## 4.4.2. Web Applications Mock-ups.
+
+## Inicio e Inicio Mobile
+<img src="/assets/Primary Sitemap.png" alt="home"/>
+
+
+## Registro
+<img src="/assets/Reg.png" alt="registro"/>
+
+## Registro Mobile
+<img src="/assets/Row.png" alt="registro"/>
+
+
+## Inicio
+<img src="/assets/Login.png" alt="inicio"/>
+
+## Inicio Mobile
+<img src="/assets/6.png" alt="inicio"/>
+
+
+## Perfil Y Perfil Mobile
+<img src="/assets/Primary Sitemap2.png" alt="perfil"/>
+
+
+## Inventario e Inventario Mobile
+<img src="/assets/Inventarios.png" alt="inventario"/>
+
+
+### Panel de Control y Panel de Control Mobile
+<img src="/assets/Primary Sitemap3.png" alt="panel"/>
+
 ## 4.4.3. Web Applications User Flow Diagrams.
 # 4.5. Web Applications Prototyping.
 # 4.6. Domain-Driven Software Architecture.
