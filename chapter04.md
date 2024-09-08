@@ -18,6 +18,9 @@
 ## 4.4.3. Web Applications User Flow Diagrams.
 # 4.5. Web Applications Prototyping.
 # 4.6. Domain-Driven Software Architecture.
+
+La arquitectura de software centrada en el dominio organiza el software según los conceptos y procesos clave de un área específica. Esto asegura que el sistema refleje con precisión los requisitos y la lógica del negocio, facilitando la implementación de funciones y adaptaciones. Con GemZ, usamos esta arquitectura para desarrollar una aplicación robusta y fácil de mantener.
+
 ## 4.6.1. Software Architecture Context Diagram.
 
 ![context-diagram](assets/ContextDiagram.png)
@@ -31,6 +34,9 @@
 ![context-diagram](assets/DiagramComponent.png)
 
 # 4.7. Software Object-Oriented Design.
+
+La metodología orientada a objetos será crucial para nuestro proyecto, nos ayudará a construir el sistema de manera modular y escalable, empleando principios como encapsulamiento, herencia y polimorfismo para crear componentes reutilizables y fáciles de mantener.
+
 ## 4.7.1. Class Diagrams.
 ## 4.7.2. Class Dictionary.
 # 4.8. Database Design.
