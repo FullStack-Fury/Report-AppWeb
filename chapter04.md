@@ -129,23 +129,28 @@ El diseño UX/UI para aplicaciones web busca crear una experiencia digital intui
 ## 4.4.1. Web Applications Wireframes.
 Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o pieza tecnológica. A veces se conoce como esquema de la página o plano de la pantalla y muestra cómo se relacionan los elementos entre sí y cómo están estructurados. 
 
-### Inicio
+## Inicio
 <img src="/assets/Inicio.png" alt="inicio"/>
 
-### Registro
-<img src="/assets/Register.png" alt="registro" width="150" height="150" align="right"/>
 
-### Inicio
-<img src="/assets/Login.png.png" alt="inicio" width="150" height="150" align="right"/>
+## Registro
+<img src="/assets/Register.png" alt="registro"/>
 
-### Perfil
+
+## Inicio
+<img src="/assets/Login.png" alt="inicio"/>
+
+
+## Perfil
 <img src="/assets/Perfil.png" alt="perfil"/>
 
-### Inventario
+
+## Inventario
 <img src="/assets/Inventario.png" alt="inventario"/>
 
+
 ### Panel de Control
-<img src="/assets/Panel.png" alt="panel" width="150" height="150" align="right"/>
+<img src="/assets/Panel.png" alt="panel"/>
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
 ## 4.4.2. Web Applications Mock-ups.
