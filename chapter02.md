@@ -424,6 +424,53 @@ Se prefieren dispositivos como computadoras, tablets y smartphones para gestiona
 Las decisiones sobre nuevas tecnologías se basan en tendencias del sector, recomendaciones de colegas, y análisis de costo-beneficio.
 
 ## 2.2.3. Análisis de entrevistas.
+
+# Análisis de Entrevistas por Segmento Objetivo
+
+## 1. Segmento: Dueños de Joyería
+
+### Características Objetivas y Subjetivas
+
+| Característica                        | Descripción                                                                 | % de Entrevistados | Ejemplos de Entrevistas                                                                                               |
+|---------------------------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Operación diaria**                  | Gestión de inventario, atención a clientes, coordinación con proveedores     | 100%               | "La operación diaria de mi joyería implica gestionar el inventario de productos, atender a los clientes..." (Yasira Palacios) |
+| **Gestión de inventario**             | Uso de hojas de cálculo y sistemas manuales, con desafíos de precisión       | 66%                | "La gestión del inventario es un desafío. Utilizamos un sistema manual combinado con hojas de cálculo..." (Yasira Palacios)  |
+| **Herramientas digitales**            | Uso de software de punto de venta (POS) y hojas de cálculo                   | 100%               | "Actualmente se utilizan software de gestión, sistemas POS y plataformas en línea..." (Milagros Ospina)                 |
+| **Control de calidad**                | Inspecciones visuales, pruebas al recibir piezas de talleres externos        | 100%               | "Realizamos inspecciones visuales y pruebas de calidad al recibir las piezas..." (Yasira Palacios)                     |
+| **Comunicación con proveedores**      | Principalmente vía telefónica y por correo electrónico                       | 100%               | "La comunicación con proveedores se realiza principalmente por teléfono y correo electrónico..." (Yasira Palacios)     |
+| **Monitoreo en tiempo real**          | Valoran la posibilidad de monitoreo en tiempo real para inventarios y ventas | 100%               | "Monitorear el inventario y las ventas en tiempo real sería extremadamente valioso..." (Milagros Ospina)              |
+| **Personalización de productos**      | Clientes esperan personalización y disponibilidad inmediata de productos     | 100%               | "Los clientes esperan una amplia variedad de productos disponibles y opciones de personalización..." (Yasira Palacios)  |
+
+### Análisis
+- **Gestión del inventario**: La mayoría de los entrevistados (66%) gestiona el inventario de forma manual, lo que les genera dificultades en términos de precisión y actualización.
+- **Herramientas tecnológicas**: Aunque todos los dueños de joyería usan herramientas digitales básicas (100%), ninguno cuenta con una solución integral que les permita gestionar todos los aspectos de su negocio.
+- **Personalización**: La demanda por productos personalizados es alta, siendo un requisito clave para la satisfacción del cliente.
+
+---
+
+## 2. Segmento: Dueños de Talleres de Joyería
+
+### Características Objetivas y Subjetivas
+
+| Característica                        | Descripción                                                                 | % de Entrevistados | Ejemplos de Entrevistas                                                                                              |
+|---------------------------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Operación diaria**                  | Elaboración completa de joyas, desde el diseño hasta el producto final       | 100%               | "El taller se dedica a la elaboración de una joya, todo el proceso desde la elaboración hasta el producto final..." (Gustavo Martín) |
+| **Gestión de materiales**             | Control manual de materiales, uso de cuadernos y registros físicos           | 66%                | "Es una manera más artesanal y manual... no se lleva un control de inventario en sí..." (Gustavo Martín)               |
+| **Monitoreo de procesos**             | Alta necesidad de monitoreo en tiempo real para optimizar la producción      | 100%               | "El monitoreo en tiempo real es fundamental para identificar y corregir cualquier problema..." (Paolo Carrillo)        |
+| **Comunicación interna**              | Comunicación verbal y a través de reuniones diarias o grupos de mensajería   | 66%                | "La comunicación se gestiona principalmente a través de reuniones diarias y un grupo de WhatsApp..." (Paolo Carrillo)  |
+| **Control de calidad**                | Supervisión interna de cada etapa del proceso de producción                  | 100%               | "Diariamente superviso el diseño, el moldeado y el engaste..." (Juan Carlos Cabrera)                                  |
+| **Tecnología utilizada**              | Uso limitado de tecnología, predomina el uso de computadoras                | 66%                | "Principalmente usamos computadoras y ocasionalmente teléfonos..." (Juan Carlos Cabrera)                              |
+
+### Análisis
+- **Gestión de materiales**: El 66% de los talleres gestionan los materiales de manera manual, lo que representa una oportunidad para implementar soluciones tecnológicas que optimicen este proceso.
+- **Monitoreo de procesos**: Todos los entrevistados (100%) valoran el monitoreo en tiempo real como una herramienta clave para mejorar la producción y evitar errores.
+- **Comunicación interna**: Si bien algunos talleres utilizan herramientas digitales como grupos de mensajería, el 66% aún depende principalmente de la comunicación verbal o reuniones físicas, lo que puede generar desorganización.
+
+---
+
+### Conclusión General
+Ambos segmentos comparten desafíos en la gestión de inventarios y producción. Las herramientas digitales básicas y la falta de soluciones integrales son una característica común, lo que subraya la necesidad de software especializado como GemZ para mejorar la eficiencia y reducir errores.
+
 ## 2.3. Needfinding.
 ## 2.3.1. User Personas.
 
