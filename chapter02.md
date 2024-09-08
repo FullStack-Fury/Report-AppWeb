@@ -171,44 +171,7 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 
 ### Entrevista #1
 
-**Nombre y Apellido:** Jorge Pérez  
-
-**Edad:** 45 años  
-
-**Distrito:** Surquillo  
-
-**Nombre del taller/joyería:** El Dorado  
-
-#### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
-Mi taller, Orfebrería El Dorado, se dedica a la creación de joyas personalizadas, desde anillos de compromiso hasta piezas exclusivas para clientes particulares. Las operaciones diarias incluyen el diseño, fundición, engastado de piedras, pulido y control de calidad. Contamos con un equipo de artesanos experimentados que se encargan de cada etapa del proceso.
-
-#### ¿Cuáles son los principales desafíos que enfrentas en la gestión de la producción de joyas?
-
-Uno de los mayores desafíos es el control preciso del inventario, especialmente cuando se trata de materiales valiosos como oro y piedras preciosas. Además, la coordinación entre los distintos procesos puede ser complicada, y cualquier error en una etapa puede afectar la calidad del producto final.
-
-#### ¿Cómo llevas el control de los materiales y recursos necesarios para la producción?
-
-Llevo el control de materiales de manera manual, registrando entradas y salidas en un libro físico. Esto requiere mucha atención al detalle para evitar pérdidas o mal uso de los recursos.
-
-#### ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
-El monitoreo en tiempo real es fundamental para identificar y corregir cualquier problema que surja durante la producción. Esto ayuda a minimizar errores y garantiza que los plazos se cumplan.
-
-#### ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
-La comunicación se gestiona principalmente a través de reuniones diarias y un grupo de WhatsApp donde se coordinan las tareas. Sin embargo, a veces la información se pierde o no llega a todos a tiempo.
-
-#### ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
-
-Espero que un software especializado me ayude a gestionar mejor el inventario, automatizar procesos y mejorar la comunicación interna. Además, sería ideal contar con herramientas que permitan el monitoreo en tiempo real y la generación de reportes detallados.
-
-#### ¿Qué dispositivos utilizas normalmente para gestionar las operaciones del taller?
-Principalmente utilizo una computadora de escritorio y, ocasionalmente, mi smartphone para revisar correos o mensajes urgentes.
-
-#### ¿Cómo te informas sobre nuevas tecnologías o herramientas en la industria de la joyería?
-Me informo sobre nuevas tecnologías a través de revistas especializadas, ferias de joyería, y recomendaciones de colegas en la industria. También investigo en internet y participo en grupos de redes sociales dedicados al sector.
-
-### Entrevista #2
-
-  ![Entrevista_Seg02_Gustavo](assets/Gustavo.png)
+  ![Entrevista_Seg01_Gustavo](assets/Gustavo.png)
 
 **Nombre y Apellido:** Gustavo Martín Rentería Rosas
 
@@ -241,6 +204,81 @@ Un mayor control y rapidez para obtener los pesos, merma y costos de un product
 
 #### ¿Qué dispositivos utilizas normalmente para gestionar las operaciones del taller?
 No se utiliza nada tecnológico. Sino que uno pasa a ver si todo va bien y con cámaras, pero sólo hasta ahí. Pero no se sabe si demora o no.
+
+### Entrevista #2
+
+![Entrevista_Seg02_Paolo](assets/Paolo.png)
+
+**Nombre y Apellido:** Paolo Carrillo  
+
+**Edad:** 23 años  
+
+**Distrito:** San Isidro  
+
+**Nombre del taller/joyería:** El Dorado  
+
+#### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
+Mi taller, se dedica a la creación de joyas personalizadas, desde anillos de compromiso hasta piezas exclusivas para clientes particulares. Las operaciones diarias incluyen el diseño, fundición, engastado de piedras, pulido y control de calidad. Contamos con un equipo de artesanos experimentados que se encargan de cada etapa del proceso.
+
+#### ¿Cuáles son los principales desafíos que enfrentas en la gestión de la producción de joyas?
+
+Uno de los mayores desafíos es el control preciso del inventario, especialmente cuando se trata de materiales valiosos como oro y piedras preciosas. Además, la coordinación entre los distintos procesos puede ser complicada, y cualquier error en una etapa puede afectar la calidad del producto final.
+
+#### ¿Cómo llevas el control de los materiales y recursos necesarios para la producción?
+
+Llevo el control de materiales de manera manual, registrando entradas y salidas en un libro físico. Esto requiere mucha atención al detalle para evitar pérdidas o mal uso de los recursos.
+
+#### ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
+El monitoreo en tiempo real es fundamental para identificar y corregir cualquier problema que surja durante la producción. Esto ayuda a minimizar errores y garantiza que los plazos se cumplan.
+
+#### ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
+La comunicación se gestiona principalmente a través de reuniones diarias y un grupo de WhatsApp donde se coordinan las tareas. Sin embargo, a veces la información se pierde o no llega a todos a tiempo.
+
+#### ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
+
+Espero que un software especializado me ayude a gestionar mejor el inventario, automatizar procesos y mejorar la comunicación interna. Además, sería ideal contar con herramientas que permitan el monitoreo en tiempo real y la generación de reportes detallados.
+
+#### ¿Qué dispositivos utilizas normalmente para gestionar las operaciones del taller?
+Principalmente utilizo una computadora de escritorio y, ocasionalmente, mi smartphone para revisar correos o mensajes urgentes.
+
+#### ¿Cómo te informas sobre nuevas tecnologías o herramientas en la industria de la joyería?
+Me informo sobre nuevas tecnologías a través de revistas especializadas, ferias de joyería, y recomendaciones de colegas en la industria. También investigo en internet y participo en grupos de redes sociales dedicados al sector.
+
+### Entrevista #3
+
+![Entrevista_Seg03_Ñeño](assets/Ñeño.png)
+
+**Nombre y Apellido:** Juan Carlos Cabrera  
+
+**Edad:** 29 años  
+
+**Distrito:** San Isidro  
+
+**Nombre del taller/joyería:** Ñeñis  
+
+#### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
+Mi taller es pequeño y nos enfocamos en la creación de piezas personalizadas. Diariamente superviso el diseño, el moldeado y el engaste.
+
+#### ¿Cuáles son los principales desafíos que enfrentas en la gestión de la producción de joyas?
+El mayor reto es coordinar todas las etapas sin retrasos y mantener la calidad sin comprometer los tiempos de entrega.
+
+#### ¿Cómo llevas el control de los materiales y recursos necesarios para la producción?
+Usamos excel para inventario, pero puede ser difícil mantener todo actualizado.
+
+#### ¿Qué importancia tiene para ti el monitoreo en tiempo real de los procesos de producción?
+Es clave para evitar retrasos y saber exactamente en qué etapa está cada pieza.
+
+#### ¿Cómo gestionas la comunicación interna en tu taller, especialmente entre engastadores, joyeros y secretarios?
+Nos comunicamos principalmente de manera verbal y por mensajes, pero puede ser desorganizado a veces.
+
+#### ¿Qué beneficios esperas obtener con la implementación de una solución de software especializada en la gestión de procesos de producción y manejo de inventarios?
+Espero tener un mejor control del flujo de trabajo, evitar errores y gestionar mejor los materiales.
+
+#### ¿Qué dispositivos utilizas normalmente para gestionar las operaciones del taller?
+Principalmente usamos computadoras y, ocasionalmente, teléfonos.
+
+#### ¿Cómo te informas sobre nuevas tecnologías o herramientas en la industria de la joyería?
+Investigo en internet y a veces asisto a ferias de joyería.
 
 ## Entrevista a Propietario de Joyería
 
@@ -339,6 +377,54 @@ Prefiero usar una combinación de computadora en la tienda y una tablet para cua
 
 #### ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
 Me baso en recomendaciones e información de asociaciones de joyeros. También valoro mucho la experiencia de otros negocios similares al mío.
+
+### Entrevista #3
+
+![Entrevista_Seg03_Ospina](assets/Ospina.png)
+
+**Nombre y Apellido:** Milagros Ospina
+
+**Edad:** 29
+
+**Distrito:** Chorrillos
+
+**Nombre del taller/joyería:** Joyería Ospinas
+
+#### ¿Cómo describes la operación diaria de tu joyería?
+La operación diaria de una joyería incluye la atención al cliente, gestión del inventario, supervisión de ventas, y coordinación con talleres y proveedores. Es esencial mantener una tienda organizada y atractiva para los clientes.
+
+#### ¿Cómo gestionas el inventario de productos en tu joyería?
+El inventario se gestiona mediante un sistema que permite el seguimiento de entradas y salidas de productos, asegurando que siempre haya suficiente stock de los artículos más vendidos.
+
+#### ¿Qué herramientas digitales o tecnológicas utilizas actualmente para gestionar tu negocio?
+Actualmente, se utilizan software de gestión, sistemas POS (puntos de venta) y plataformas en línea para facilitar las ventas y el seguimiento del inventario.
+
+#### ¿Cómo controlas la calidad del producto que vendes, especialmente si trabajas con talleres externos?
+Para controlar la calidad, especialmente con talleres externos, se establecen criterios claros y se realizan inspecciones regulares de los productos antes de que lleguen al cliente.
+
+#### ¿Cómo manejas la comunicación con los proveedores y fabricantes de joyas?
+La comunicación con proveedores se maneja a través de correos electrónicos, llamadas telefónicas y, en algunos casos, plataformas digitales que permiten un seguimiento más detallado de los pedidos.
+
+#### ¿Qué importancia le das a tener un inventario actualizado y preciso?
+Un inventario preciso es crucial para evitar pérdidas, asegurar la disponibilidad de productos y mejorar la satisfacción del cliente.
+
+#### ¿Cómo te adaptas a las demandas y tendencias cambiantes en el mercado de la joyería?
+Para adaptarse a las tendencias, se realiza un análisis constante del mercado y se actualiza el catálogo de productos en consecuencia.
+
+#### ¿Cuáles son las expectativas de tus clientes en cuanto a la disponibilidad y personalización de productos?
+Los clientes esperan una amplia variedad de productos disponibles y opciones de personalización para satisfacer sus preferencias únicas.
+
+#### ¿Cómo valoras la posibilidad de monitorear en tiempo real el estado del inventario y las ventas?
+Monitorear el inventario y las ventas en tiempo real permite tomar decisiones rápidas y efectivas, mejorando la eficiencia del negocio.
+
+#### ¿Qué beneficios esperas obtener con una solución de software especializada como GemZ para la gestión de inventarios y procesos?
+Con una solución como GemZ, se espera mejorar la precisión del inventario, optimizar procesos, y facilitar la toma de decisiones basadas en datos.
+
+#### ¿Qué dispositivos prefieres utilizar para gestionar tu joyería?
+Se prefieren dispositivos como computadoras, tablets y smartphones para gestionar las operaciones diarias de la joyería.
+
+#### ¿Qué influencias o fuentes de información consideras al tomar decisiones sobre la adopción de nuevas tecnologías?
+Las decisiones sobre nuevas tecnologías se basan en tendencias del sector, recomendaciones de colegas, y análisis de costo-beneficio.
 
 ## 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
