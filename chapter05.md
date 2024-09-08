@@ -48,6 +48,8 @@ La administración de la configuración del software es fundamental para nuestro
     Es una herramienta de diagramación en línea que permite a los equipos crear diagramas de flujo, diagramas de red, diagramas de arquitectura y otros diagramas. Usamos esta herramienta para crear diagramas el diagramas de clases y el diagrama de base de datos.
     [Página principal de Lucidchart](https://www.lucidchart.com/)
 
+![structurizr-image](assets/chapter05/evidenciaLucidChart.png)
+
 - **Software Development**:
 
 - HTML5:
