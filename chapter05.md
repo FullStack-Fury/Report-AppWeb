@@ -524,11 +524,16 @@ Al no contar con una implementación del lado del backend en esta engrega, solo 
 
 
 ## 5.2.1.5. Execution Evidence for Sprint Review.
+<img src="./assets/about-us-lp.png">
+<img src="./assets/prices-lp.png">
+<img src="./assets/contact-us-lp.png">
 
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En la presene entrega no existe implementación a nivel de backend, ya que el alcance del sprint está abocado al landing page.
 ## 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Link de la pagina desplegada: [GemZ (Fullstack-fury.github.io/LandingPage-FullStackFury/)]("https://fullstack-fury.github.io/LandingPage-FullStackFury/")
+
+<img src="./assets/landing-lp.png">
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint.
 
