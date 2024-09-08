@@ -127,6 +127,25 @@ En esta sección se presentan los mock-ups de la página de inicio de GemZ, que 
 El diseño UX/UI para aplicaciones web busca crear una experiencia digital intuitiva, eficiente y agradable. UX se enfoca en entender y mejorar la interacción del usuario, mientras que UI se centra en el aspecto visual y la disposición de elementos como botones y menús. Un buen diseño UX/UI combina estética y funcionalidad para ofrecer una experiencia de usuario efectiva y memorable.
 
 ## 4.4.1. Web Applications Wireframes.
+Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o pieza tecnológica. A veces se conoce como esquema de la página o plano de la pantalla y muestra cómo se relacionan los elementos entre sí y cómo están estructurados. 
+
+### Inicio
+<img src="/assets/Inicio.png" alt="inicio"/>
+
+### Registro
+<img src="/assets/Register.png" alt="registro" width="150" height="150" align="right"/>
+
+### Inicio
+<img src="/assets/Login.png.png" alt="inicio" width="150" height="150" align="right"/>
+
+### Perfil
+<img src="/assets/Perfil.png" alt="perfil"/>
+
+### Inventario
+<img src="/assets/Inventario.png" alt="inventario"/>
+
+### Panel de Control
+<img src="/assets/Panel.png" alt="panel" width="150" height="150" align="right"/>
 ## 4.4.2. Web Applications Wireflow Diagrams.
 ## 4.4.2. Web Applications Mock-ups.
 ## 4.4.3. Web Applications User Flow Diagrams.
