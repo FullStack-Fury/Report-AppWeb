@@ -478,11 +478,11 @@ Ambos segmentos comparten desafíos en la gestión de inventarios y producción.
 
 ### Dueño de joyería
 
-<img src="assets/userPersonMiguel.png" style="width:700px; height:auto;">
+<img src="assets/userPersonMiguel2.png" style="width:700px; height:auto;">
 
 ### Dueño de taller de joyería
 
-<img src="assets/chapter02/Javier.png" style="width:700px; height:auto;">
+<img src="assets/userPersonJavier2.png" style="width:700px; height:auto;">
 
 ## 2.3.2. User Task Matrix.
 
