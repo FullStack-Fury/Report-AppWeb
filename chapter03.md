@@ -78,6 +78,9 @@ Impact Mapping es una herramienta útil para planificar cómo nuestro proyecto p
 
 ## 3.4. Product Backlog.
 
+Se realizó la creación y gestión del Product Backlog, lo que permitió organizar y priorizar las tareas y características del desarrollo de la aplicación. Esto ayudó a mantener una dirección clara para el equipo, asegurando que las funcionalidades más importantes se trabajen primero y que podamos adaptarnos rápidamente a nuevos requerimientos o cambios en las necesidades del usuario.
+
+
 | Orden | User Story ID | Título | Descripción | Story Points |
 |-------|---------------|--------|-------------|--------------|
 | 1     | US005        | Gestión de Stock de Materiales | Como dueño de una joyería o taller, Quiero poder gestionar el inventario de materiales en tiempo real, Para asegurarme de que siempre tenga los insumos necesarios para la producción sin generar excesos o faltantes. | 8 |
