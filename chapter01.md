@@ -176,6 +176,8 @@ El diseño debe ser limpio, intuitivo y fácil de navegar, con una interfaz que 
 **Con** la función de búsqueda y visualización de inventario en tiempo real de GemZ
 ## 1.2.2.4. Lean UX Canvas.
 
+El Lean UX Canvas permite al equipo organizar sus ideas y suposiciones sobre los usuarios y sus necesidades, alineando a todos en torno a los objetivos del proyecto. Este enfoque facilita la identificación de los problemas clave, la priorización de acciones y la definición de métricas de éxito, lo que ayuda a crear soluciones efectivas mediante ciclos rápidos de validación y aprendizaje continuo.
+
 URL: https://app.mural.co/t/teacsykawsai8308/m/teacsykawsai8308/1724298218177/08cc14a22fc6f4164dbe3f3a5ef46074d31ae68c?sender=uc4019db9bc166bf541b07012
 
 <img src="assets/chapter01/leanUxCanvas.png" style="width:700px; height:auto;">
