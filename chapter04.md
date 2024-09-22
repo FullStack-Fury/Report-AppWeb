@@ -270,19 +270,19 @@ La arquitectura de software centrada en el dominio organiza el software según l
 
 Se creó un Diagrama de Contexto de Arquitectura de Software que representa la estructura general del sistema y su interacción con actores externos. Este diagrama proporciona una visión clara de los componentes clave y las relaciones entre ellos, facilitando la comprensión de cómo se integra la aplicación en su entorno.
 
-![context-diagram](assets/ContextDiagram.png)
+![context-diagram](assets/ContextDiagram2.png)
 
 ## 4.6.2. Software Architecture Container Diagrams.
 
 Se elaboró un Diagrama de Contenedores de Arquitectura de Software que detalla los contenedores de la aplicación y sus interacciones. Este diagrama ofrece una visión clara de la organización de los componentes y servicios dentro del sistema.
 
-![context-diagram](assets/diagramContainerr.png)
+![context-diagram](assets/ContainerDiagram2.png)
 
 ## 4.6.3. Software Architecture Components Diagrams.
 
 Se elaboró un Diagrama de Componentes de Arquitectura de Software que ilustra los componentes individuales de la aplicación y sus relaciones. Este diagrama proporciona una visión detallada de cómo se organiza cada parte del sistema y cómo interactúan entre sí.
 
-![context-diagram](assets/DiagramComponent.png)
+![context-diagram](assets/DiagramComponents2.png)
 
 # 4.7. Software Object-Oriented Design.
 
