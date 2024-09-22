@@ -273,7 +273,7 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 
 [Link](https://lucid.app/lucidchart/53ea401a-b74f-48cb-a026-f4ef4ab8c1dd/edit?viewport_loc=-5140%2C-690%2C3204%2C1710%2C0_0&invitationId=inv_f1b0d317-0669-4dbd-94ad-11595e4b4a6d)
 
-![class_diagram](assets/ClassDiagram2.png)
+![class_diagram](assets/diagramClass2.0.png)
 
 ## 4.7.2. Class Dictionary.
 
