@@ -488,14 +488,11 @@ Ambos segmentos comparten desafíos en la gestión de inventarios y producción.
 | **Gestión de inventario**                         | Alta             | Alta            | Media                      | Alta                       |
 | **Comunicación con proveedores**                  |                  |                 | Alta                       | Alta                       |
 | **Control de calidad de los productos**           | Alta             | Alta            | Alta                       | Alta                       |
-| **Adaptación a las tendencias del mercado**       | Media            | Alta            |                            |                            |
 | **Seguimiento del proceso de producción**         |                  |                 | Alta                       | Alta                       |
 | **Monitoreo en tiempo real del inventario**       | Alta             | Alta            | Alta                       | Alta                       |
 | **Interacción con clientes y ventas**             | Alta             | Alta            |                            |                            |
-| **Adopción e integración de tecnología**          | Media            | Alta            | Media                      | Alta                       |
 | **Gestión de órdenes y trabajo**                  |                  |                 | Alta                       | Alta                       |
 | **Personalización de productos**                  | Media            | Alta            | Alta                       | Alta                       |
-| **Uso de software para mejorar la eficiencia**    | Media            | Alta            | Media                      | Alta                       |
 | **Actividades de marketing y promoción**          | Alta             | Alta            |                            |                            |
 ## 2.3.3. User Journey Mapping.
 
