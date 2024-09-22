@@ -446,9 +446,7 @@ El Análisis de Entrevistas nos permitirá extraer información valiosa sobre la
 | **Personalización de productos**      | Clientes esperan personalización y disponibilidad inmediata de productos     | 100%               | "Los clientes esperan una amplia variedad de productos disponibles y opciones de personalización..." (Yasira Palacios)  |
 
 ### Análisis
-- **Gestión del inventario**: La mayoría de los entrevistados (66%) gestiona el inventario de forma manual, lo que les genera dificultades en términos de precisión y actualización.
-- **Herramientas tecnológicas**: Aunque todos los dueños de joyería usan herramientas digitales básicas (100%), ninguno cuenta con una solución integral que les permita gestionar todos los aspectos de su negocio.
-- **Personalización**: La demanda por productos personalizados es alta, siendo un requisito clave para la satisfacción del cliente.
+La mayoría de los entrevistados (66%) gestiona el inventario de forma manual, lo que genera dificultades en términos de precisión y actualización; aunque todos los dueños de joyerías utilizan herramientas digitales básicas (100%), ninguno cuenta con una solución integral que les permita gestionar todos los aspectos de su negocio, y la alta demanda de productos personalizados es un requisito clave para la satisfacción del cliente.
 
 ---
 
@@ -466,9 +464,7 @@ El Análisis de Entrevistas nos permitirá extraer información valiosa sobre la
 | **Tecnología utilizada**              | Uso limitado de tecnología, predomina el uso de computadoras                | 66%                | "Principalmente usamos computadoras y ocasionalmente teléfonos..." (Juan Carlos Cabrera)                              |
 
 ### Análisis
-- **Gestión de materiales**: El 66% de los talleres gestionan los materiales de manera manual, lo que representa una oportunidad para implementar soluciones tecnológicas que optimicen este proceso.
-- **Monitoreo de procesos**: Todos los entrevistados (100%) valoran el monitoreo en tiempo real como una herramienta clave para mejorar la producción y evitar errores.
-- **Comunicación interna**: Si bien algunos talleres utilizan herramientas digitales como grupos de mensajería, el 66% aún depende principalmente de la comunicación verbal o reuniones físicas, lo que puede generar desorganización.
+El 66% de los talleres gestionan los materiales de manera manual, lo que representa una oportunidad para implementar soluciones tecnológicas que optimicen este proceso; todos los entrevistados (100%) valoran el monitoreo en tiempo real como una herramienta clave para mejorar la producción y evitar errores, y aunque algunos talleres utilizan herramientas digitales como grupos de mensajería, el 66% aún depende principalmente de la comunicación verbal o reuniones físicas, lo que puede generar desorganización.
 
 ---
 
