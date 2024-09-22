@@ -118,31 +118,50 @@ Creemos que los dueños de joyerías y talleres verán valor en la planificació
 
 Tanto las joyerías como los talleres pueden ahorrar tiempo y reducir costos al simplificar la gestión de inventario y procesos mediante GemZ.
 
+
+### Business Outcomes Assumptions
+
+- Mejorar la experiencia de usuario de nuestra aplicación web resultará en un aumento de la suscripción de joyerías y talleres, lo que incrementará los ingresos.
+- Ofrecer una plataforma adaptable y fácil de usar mejorará la satisfacción y lealtad de los usuarios a largo plazo.
+- Garantizar la seguridad y confidencialidad de los datos de los clientes generará confianza y credibilidad en la comunidad de usuarios.
+- Desarrollar una interfaz intuitiva y amigable para el usuario aumentará el compromiso y la frecuencia de uso de la plataforma.
+- Implementar estrategias de marketing efectivas dirigidas a joyerías y talleres impulsará la adquisición de clientes y el crecimiento del negocio.
+- Diferenciar nuestro servicio de los competidores a través de un enfoque especializado en la gestión del sector joyero establecerá una propuesta de valor única y atraerá a un público más amplio.
+- Construir una sólida comunidad en línea entre joyerías y talleres fomentará la interacción, el apoyo mutuo y la fidelidad hacia la plataforma GemZ.
+
 ### User Assumptions:
 
-#### ¿Quién es el usuario?
+#### Segmento de Dueños de Joyerías:
 
-Los usuarios de "GemZ" son dueños de joyerías y talleres de joyería. Los dueños de joyerías suelen ser empresarios que buscan optimizar su cadena de suministro, mientras que los dueños de talleres se enfocan en la eficiencia del proceso de fabricación de joyas.
+- Los dueños de joyerías buscan una solución integral que no solo les permita gestionar eficientemente su inventario, sino también colaborar de manera fluida con los talleres, reconociendo la importancia de una comunicación clara para optimizar sus procesos.
+- Valoran la conveniencia y accesibilidad de una plataforma que puedan utilizar desde cualquier lugar y en cualquier momento, especialmente cuando están manejando múltiples tiendas o proveedores.
+- Están dispuestos a invertir en un servicio especializado que les ofrezca comunicación directa y personalizada con los talleres, sintiéndose más seguros y comprometidos cuando pueden gestionar sus necesidades específicas en tiempo real.
+- Esperan que la plataforma sea adaptable a las particularidades de su negocio, permitiéndoles ajustar fácilmente el seguimiento de inventarios y procesos según sus necesidades cambiantes.
+- Los dueños de joyerías valoran la transparencia y la confiabilidad de la plataforma, buscando garantías de que los datos de sus clientes y su negocio serán tratados de forma segura y confidencial.
 
-#### ¿Dónde encaja nuestro producto en su trabajo o vida? 
+#### Segmento de Propietarios de Talleres de Joyería:
 
-Para las joyerías, "GemZ" encaja en sus operaciones diarias de gestión de inventario, facilitando la reposición de materiales y seguimiento de pedidos. Para los talleres, la aplicación se integra en el flujo de trabajo diario, ayudando a organizar y monitorear la producción de piezas de joyería desde el diseño hasta la finalización.
+- Los propietarios de talleres buscan una plataforma que les permita ampliar su alcance, conectándose con una mayor cantidad de joyerías y ofreciendo sus servicios de forma eficiente y efectiva.
+- Valoran la oportunidad de establecer una comunicación directa y personalizada con sus clientes (dueños de joyerías), lo que les permite adaptar sus servicios a las necesidades y requerimientos específicos de cada joyería.
+- Están interesados en una plataforma que les proporcione herramientas para optimizar su trabajo, como la posibilidad de gestionar pedidos, realizar seguimientos detallados del estado de producción, y acceder a reportes que les permitan mejorar su operación.
+- Buscan una plataforma con una experiencia de usuario intuitiva y amigable, que les permita navegar rápidamente y acceder a la información y funciones necesarias para ofrecer un servicio de alta calidad.
+- Valoran la seguridad y confidencialidad en una plataforma online, esperando que tanto sus datos como la información de sus clientes sean protegidos, y que la plataforma cumpla con los estándares de privacidad y seguridad establecidos en la industria.
 
-#### ¿Qué problemas tiene nuestro producto y cómo se pueden resolver? 
+### User Outcomes Assumptions:
 
-El principal desafío es la adopción inicial, ya que algunos dueños de talleres y joyerías podrían estar acostumbrados a métodos tradicionales y ser reacios al cambio. Esto se puede abordar ofreciendo un diseño intuitivo, soporte técnico dedicado y tutoriales que muestren los beneficios de la digitalización. Otro desafío es la compatibilidad con diferentes dispositivos, por lo que la aplicación debe ser accesible tanto en computadoras como en dispositivos móviles.
+#### Segmento de Dueños de Joyerías:
 
-#### ¿Cuándo y cómo es usado nuestro producto? 
+- Los dueños de joyerías experimentarán una mayor satisfacción y eficiencia en la gestión de su inventario y procesos al recibir herramientas especializadas y soporte continuo a través de la plataforma.
+- Se sentirán satisfechos con la flexibilidad de la plataforma, que les permitirá personalizar la gestión de inventarios y el seguimiento de pedidos según sus necesidades específicas.
+- Confiarán en la seguridad y confidencialidad de los datos de su negocio, lo que les dará tranquilidad al gestionar información sensible dentro de la plataforma.
+- Disfrutarán de una experiencia intuitiva y amigable en GemZ, lo que les permitirá navegar de manera fluida y acceder rápidamente a los recursos y herramientas necesarios para optimizar sus operaciones diarias.
 
-"GemZ" se usa principalmente durante la gestión del inventario, la planificación y ejecución de procesos de fabricación. Las joyerías la utilizan para controlar sus existencias y coordinar con sus proveedores, mientras que los talleres la usan para gestionar la producción y asegurar que cada proyecto avanza según lo previsto. El uso puede ser diario, dependiendo de la carga de trabajo y la demanda de producción.
+#### Segmento de Propietarios de Talleres de Joyería:
 
-#### ¿Qué características son importantes? 
-
-Las características clave para las joyerías incluyen la gestión de inventario, alertas de baja de stock y reportes de ventas. Para los talleres, las características más importantes son el control de procesos, la gestión de pedidos y la capacidad de rastrear el progreso en tiempo real.
-
-#### ¿Cómo debe verse nuestro producto y cómo debe comportarse? 
-
-El diseño debe ser limpio, intuitivo y fácil de navegar, con una interfaz que proporcione un flujo de trabajo lógico tanto para las joyerías como para los talleres. Debe ser visualmente atractivo y permitir un acceso rápido a la información crítica. El producto debe comportarse de manera confiable, ser seguro, y manejar grandes volúmenes de datos sin comprometer el rendimiento.
+- Los propietarios de talleres encontrarán la plataforma fácil de usar y eficiente para ofrecer un servicio personalizado a sus clientes (dueños de joyerías), mejorando la comunicación y la colaboración en cada proyecto.
+- Apreciarán la capacidad de adaptar y personalizar los procesos de producción y los tiempos de entrega para cada joyería, lo que aumentará su efectividad y reputación en el mercado.
+- Confiarán en las medidas de seguridad de la plataforma para proteger la información de sus clientes y mantener la confidencialidad, asegurando un entorno de trabajo profesional y seguro.
+- Se beneficiarán de una interfaz simplificada y herramientas que faciliten la comunicación y el seguimiento de pedidos, permitiéndoles concentrarse más en la producción y menos en tareas administrativas.
 
 ## 1.2.2.3. Lean UX Hypothesis Statements.
 **Hypothesis 1: Optimización de la producción en talleres**
