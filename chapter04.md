@@ -37,6 +37,9 @@ Para GemZ, estamos desarrollando una plataforma web y vamos a implementar un dis
 La estética general será limpia y moderna, con amplio espacio en blanco para permitir que las joyas brillen. Utilizaremos una paleta de colores que complemente la marca GemZ y evoque sentimientos de lujo y sofisticación. La tipografía será elegante y fácil de leer, garantizando una experiencia de navegación fluida.
 
 # 4.2. Information Architecture.
+
+En esta etapa se establece la Arquitectura de la Información, que organiza y estructura el contenido de la aplicación de forma lógica y accesible. Este enfoque define la clasificación, etiquetado y presentación de la información, facilitando la navegación y búsqueda para los usuarios.
+
 ## 4.2.1. Organization Systems.
 
 El sistema de organización de GemZ se basa en una estructura modular y se centra en los siguientes temas:
@@ -162,6 +165,8 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
 
+Se elaboró un Diagrama de Wireflow de Aplicaciones Web que combina wireframes y flujos de usuarios para representar visualmente la navegación y la interacción dentro de la aplicación. Este diagrama ilustra cómo los usuarios se mueven a través de las distintas pantallas y las acciones que pueden realizar en cada etapa.
+
 ## User Goal 1: Registro y acceso al Panel de Control
 
 ### Descripción: El usuario ingresará a la página principal de la aplicación web y seleccionará la opción de iniciar sesión. Si no tiene cuenta, se redirigirá al panel de registro. Si ya tiene cuenta, se dirigirá al panel de inicio de sesión. Una vez completado el inicio de sesión, accederá al Panel de Control.
@@ -216,6 +221,8 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 ## 4.4.2. Web Applications Mock-ups.
 
+Se desarrollaron Mock-ups de Aplicaciones Web que ofrecen representaciones visuales detalladas de la interfaz de usuario. Estos mock-ups permiten visualizar el diseño y la disposición de los elementos antes de la implementación, facilitando la discusión y retroalimentación entre el equipo y los stakeholders. 
+
 ### Link MockUps: https://www.figma.com/design/VNmc6nsLve8SjO1CtZpDQP/Untitled?node-id=0-1&t=Y7LTGk4RgNcvXtUJ-1
 
 ## Inicio e Inicio Mobile
@@ -248,20 +255,32 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 <img src="/assets/Primary Sitemap3.png" alt="panel"/>
 
 ## 4.4.3. Web Applications User Flow Diagrams.
+
+Se desarrolló un Diagrama de Flujo de Usuarios de Aplicaciones Web que representa el recorrido de los usuarios a través de la aplicación. Este diagrama ilustra las diferentes etapas y acciones que los usuarios realizan, facilitando la comprensión de su experiencia y las interacciones con la interfaz.
+
 # 4.5. Web Applications Prototyping.
+
+Se llevó a cabo el Prototipado de Aplicaciones Web para crear representaciones visuales de la interfaz y la funcionalidad de la aplicación. Este proceso permitió explorar y validar ideas de diseño antes del desarrollo final, facilitando la retroalimentación de los usuarios y del equipo.
+
 # 4.6. Domain-Driven Software Architecture.
 
 La arquitectura de software centrada en el dominio organiza el software según los conceptos y procesos clave de un área específica. Esto asegura que el sistema refleje con precisión los requisitos y la lógica del negocio, facilitando la implementación de funciones y adaptaciones. Con GemZ, usamos esta arquitectura para desarrollar una aplicación robusta y fácil de mantener.
 
 ## 4.6.1. Software Architecture Context Diagram.
 
+Se creó un Diagrama de Contexto de Arquitectura de Software que representa la estructura general del sistema y su interacción con actores externos. Este diagrama proporciona una visión clara de los componentes clave y las relaciones entre ellos, facilitando la comprensión de cómo se integra la aplicación en su entorno.
+
 ![context-diagram](assets/ContextDiagram.png)
 
 ## 4.6.2. Software Architecture Container Diagrams.
 
+Se elaboró un Diagrama de Contenedores de Arquitectura de Software que detalla los contenedores de la aplicación y sus interacciones. Este diagrama ofrece una visión clara de la organización de los componentes y servicios dentro del sistema.
+
 ![context-diagram](assets/diagramContainerr.png)
 
 ## 4.6.3. Software Architecture Components Diagrams.
+
+Se elaboró un Diagrama de Componentes de Arquitectura de Software que ilustra los componentes individuales de la aplicación y sus relaciones. Este diagrama proporciona una visión detallada de cómo se organiza cada parte del sistema y cómo interactúan entre sí.
 
 ![context-diagram](assets/DiagramComponent.png)
 
@@ -271,11 +290,15 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 
 ## 4.7.1. Class Diagrams.
 
+Elaboramos el diagrama de clases que representa las clases y sus relaciones en la aplicación. Este enfoque permitió una mejor comprensión de la arquitectura del sistema y la interacción entre las diferentes entidades.
+
 [Link](https://lucid.app/lucidchart/53ea401a-b74f-48cb-a026-f4ef4ab8c1dd/edit?viewport_loc=-5140%2C-690%2C3204%2C1710%2C0_0&invitationId=inv_f1b0d317-0669-4dbd-94ad-11595e4b4a6d)
 
 ![class_diagram](assets/diagramClass2.0.png)
 
 ## 4.7.2. Class Dictionary.
+
+Se realizo un diccionario de clases, que documenta de manera detallada las clases utilizadas en la aplicación, describiendo sus atributos, métodos y relaciones. Esto nos ayudó a estandarizar la nomenclatura y asegurarnos de que todos los miembros del equipo comprendan la estructura del código. Además, facilitó la colaboración y permitió un desarrollo más coherente y eficiente al proporcionar una referencia clara para la implementación y evolución de la aplicación.
 
 **Plataforma**
 - Atributos: id_Plataforma,version,nombre,url,tipo
@@ -330,6 +353,8 @@ La metodología orientada a objetos será crucial para nuestro proyecto, nos ayu
 El diseño de la base de datos es esencial para el proyecto, ya que definirá cómo almacenar y gestionar los datos de manera eficaz y segura. Crearemos tablas, relaciones y restricciones cuidadosamente, siguiendo las mejores prácticas para organizar los datos lógicamente y facilitar su acceso y manipulación.
 
 ## 4.8.1. Database Diagram
+
+Se elaboró un diagrama de base de datos que nos ayudó a visualizar y estructurar las relaciones entre las distintas tablas y datos que maneja la aplicación. Este diagrama facilitó la comprensión del modelo de datos, mejorando la comunicación entre el equipo de desarrollo y asegurando que el diseño de la base de datos soporte adecuadamente las funcionalidades requeridas.
 
 [Link](https://lucid.app/lucidchart/5667052f-8cc5-424b-9438-41d3fa451449/edit?viewport_loc=-563%2C-430%2C3955%2C2111%2C0_0&invitationId=inv_56fe3027-5ced-46e4-86ac-43bdf76f9e43)
 
