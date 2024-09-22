@@ -427,6 +427,8 @@ Las decisiones sobre nuevas tecnologías se basan en tendencias del sector, reco
 
 ## 2.2.3. Análisis de entrevistas.
 
+El Análisis de Entrevistas nos permitirá extraer información valiosa sobre las experiencias y expectativas de nuestros clientes. A través de la revisión sistemática de las entrevistas realizadas, identificaremos patrones, puntos de dolor y oportunidades de mejora. Este análisis nos ayudará a tomar decisiones informadas y a diseñar soluciones que realmente respondan a las necesidades de nuestros usuarios, mejorando así su satisfacción y fidelidad.
+
 # Análisis de Entrevistas por Segmento Objetivo
 
 ## 1. Segmento: Dueños de Joyería
@@ -476,6 +478,9 @@ Ambos segmentos comparten desafíos en la gestión de inventarios y producción.
 ## 2.3. Needfinding.
 ## 2.3.1. User Personas.
 
+Las User Personas son una herramienta fundamental que nos ayudará a representar a nuestros clientes ideales y entender sus necesidades, motivaciones y comportamientos. Al desarrollar perfiles detallados, podremos enfocar nuestras estrategias de diseño y marketing, asegurando que nuestros servicios se alineen con las expectativas de nuestros usuarios. Esto nos permitirá crear experiencias más personalizadas y efectivas, mejorando la satisfacción del cliente.
+
+
 ### Dueño de joyería
 
 <img src="assets/userPersonMiguel2.png" style="width:700px; height:auto;">
@@ -486,6 +491,7 @@ Ambos segmentos comparten desafíos en la gestión de inventarios y producción.
 
 ## 2.3.2. User Task Matrix.
 
+La User Task Matrix es una herramienta esencial que nos ayudará a identificar y organizar las tareas que nuestros usuarios realizan dentro de nuestra aplicación. A través de esta matriz, podremos mapear cada tarea según su frecuencia y complejidad, lo que nos permitirá priorizar las funciones más críticas y optimizar la experiencia del usuario. Esto facilitará un diseño más intuitivo y eficiente, alineado con las necesidades de nuestros clientes.
 
 | User Task                                  | Dueño de Joyería | ------/-----	 | Dueño de Taller de Joyería | ------/-----	 |
 |---------------------------------------------------|------------------|-----------------|----------------------------|----------------------------|
@@ -505,6 +511,8 @@ Ambos segmentos comparten desafíos en la gestión de inventarios y producción.
 | **Actividades de marketing y promoción**          | Alta             | Alta            |                            |                            |
 ## 2.3.3. User Journey Mapping.
 
+El User Journey Mapping es una herramienta clave que nos ayudará a visualizar la experiencia de nuestros clientes a lo largo de su interacción con nuestra aplicación. A través de este mapeo, identificaremos los momentos críticos, las emociones y los puntos de contacto que influyen en su decisión de elegir nuestros servicios. Esto nos permitirá detectar oportunidades de mejora y diseñar un viaje del usuario más fluido y satisfactorio.
+
 ### Dueño de joyería
 
 <img src="assets/chapter02/journeyMapMiguel.png" style="width:700px; height:auto;">
@@ -514,6 +522,8 @@ Ambos segmentos comparten desafíos en la gestión de inventarios y producción.
 <img src="assets/chapter02/journeyMapJavier.png" style="width:700px; height:auto;">
 
 ## 2.3.4. Empathy Mapping.
+
+El Empathy Mapping es una herramienta fundamental que nos ayudará a comprender a nuestros clientes, identificando sus emociones y analizando su entorno. Esto nos permitirá detectar oportunidades y desarrollar estrategias efectivas que conecten emocionalmente con ellos.
 
 ### Dueño de joyería
 
