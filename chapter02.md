@@ -478,7 +478,7 @@ Ambos segmentos comparten desafíos en la gestión de inventarios y producción.
 
 ### Dueño de joyería
 
-<img src="assets/chapter02/Miguel.png" style="width:700px; height:auto;">
+<img src="assets/userPersonMiguel.png" style="width:700px; height:auto;">
 
 ### Dueño de taller de joyería
 
