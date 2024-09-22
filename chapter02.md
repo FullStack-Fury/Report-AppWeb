@@ -500,15 +500,11 @@ La User Task Matrix es una herramienta esencial que nos ayudará a identificar y
 | **Gestión de inventario**                         | Alta             | Alta            | Media                      | Alta                       |
 | **Comunicación con proveedores**                  |                  |                 | Alta                       | Alta                       |
 | **Control de calidad de los productos**           | Alta             | Alta            | Alta                       | Alta                       |
-| **Adaptación a las tendencias del mercado**       | Media            | Alta            |                            |                            |
 | **Seguimiento del proceso de producción**         |                  |                 | Alta                       | Alta                       |
 | **Monitoreo en tiempo real del inventario**       | Alta             | Alta            | Alta                       | Alta                       |
 | **Interacción con clientes y ventas**             | Alta             | Alta            |                            |                            |
-| **Adopción e integración de tecnología**          | Media            | Alta            | Media                      | Alta                       |
 | **Gestión de órdenes y trabajo**                  |                  |                 | Alta                       | Alta                       |
 | **Personalización de productos**                  | Media            | Alta            | Alta                       | Alta                       |
-| **Uso de software para mejorar la eficiencia**    | Media            | Alta            | Media                      | Alta                       |
-| **Actividades de marketing y promoción**          | Alta             | Alta            |                            |                            |
 ## 2.3.3. User Journey Mapping.
 
 El User Journey Mapping es una herramienta clave que nos ayudará a visualizar la experiencia de nuestros clientes a lo largo de su interacción con nuestra aplicación. A través de este mapeo, identificaremos los momentos críticos, las emociones y los puntos de contacto que influyen en su decisión de elegir nuestros servicios. Esto nos permitirá detectar oportunidades de mejora y diseñar un viaje del usuario más fluido y satisfactorio.
