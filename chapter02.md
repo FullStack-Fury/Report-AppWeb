@@ -535,6 +535,8 @@ El Empathy Mapping es una herramienta fundamental que nos ayudará a comprender 
 
 ## 2.3.5. As-is Scenario Mapping.
 
+El As-is Scenario Mapping nos permitirá visualizar y entender el estado actual de la experiencia del cliente con nuestra aplicación. A través de este mapeo, identificaremos los procesos existentes, los puntos de dolor y las interacciones que los usuarios tienen en su viaje. Este análisis nos ayudará a reconocer áreas de mejora y a establecer un marco para desarrollar soluciones que optimicen la experiencia del usuario.
+
 ### Dueño de joyería
 
 ![as-is-dueño-joyería](assets/chapter02/as-is-duenio-joyeria.png)
