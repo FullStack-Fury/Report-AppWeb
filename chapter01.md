@@ -31,7 +31,7 @@ GemZ se presenta así como una herramienta esencial para los profesionales de la
     <th colspan="2">Renteria Palacios, Yasser</th>
   </tr>
   <td><img src="assets/chapter01/yasser-photo.png" style="width:700px; height:auto;"></td>
-    <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), apasionado por la programación y el aprendizaje continuo de nuevos lenguajes de programación. Mi mayor anhelo es desarrollar un videojuego, combinando mi amor por la tecnología y la creatividad. En mi tiempo libre, disfruto de jugar videojuegos, viajar y sumergirme en nuevas culturas, buscando siempre experiencias que enriquezcan tanto mi vida personal como profesional.</td>
+    <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), apasionado por la programación y el aprendizaje continuo de nuevos lenguajes de programación. Mi mayor anhelo es desarrollar un videojuego, combinando mi amor por la tecnología y la creatividad. En mi tiempo libre, disfruto de jugar videojuegos, viajar y sumergirme en nuevas culturas, buscando siempre experiencias que enriquezcan tanto mi vida personal como profesional. Además, en los ciclos de mi carrera he adquirido conocimientos en JavaScript, Angulas, Vue, TypeScrpt, C++, Python, MySQL, MongoDB. Esto me ayudó a mejorar en mis diferentes trabajos y proyecto personales.</td>
   <tr>
     <th colspan="2">Curi Marcelo, Angelo Marcio</th>
   </tr>
