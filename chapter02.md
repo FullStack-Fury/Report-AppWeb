@@ -166,25 +166,22 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
   
 ## 2.2.2. Registro de entrevistas.
 
-### Microsft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+#### Microsft Stream: https://bit.ly/3TG9UIJ
 
-## Propietario de Taller de Joyería
+### Segmento Propietario de Taller de Joyería
 
 ### Entrevista #1 (Inicio: 00:00, Fin: 10:10)
 
 ![Entrevista_Seg01_Gustavo](assets/Gustavo.png)
 
-**Nombre y Apellido:** Gustavo Martín Rentería Rosas
+| **Nombre Entrevistado** | Gustavo Martín Rentería Rosas     |
+|-------------------------|------------------|
+| **Edad**                | 54               |
+| **Distrito**            | Chorrillos       |
+| **Comienzo y fin de la entrevista**:| 0:07 al 10:06     |
+| **Nombre del taller/joyeria**:| Rentería Joyeros     |
+| **URL del video:**:| https://bit.ly/3TG9UIJ |
 
-**Edad:** 54 años
-
-**Distrito:** Chorrillos
-
-**Nombre del taller/joyeria:** Rentería Joyeros
-
-**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Comienzo y fin:** 0:07 al 10:06
 
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 El taller se dedica a la elaboración de una joya. Es decir, todo el proceso desde la elaboración hasta el producto final. Lo que pasa por el joyero, el engastador que pone las piedras y los último detalles que son los pulidos, limpieza, baños y de ahí sale el producto final.
@@ -214,17 +211,14 @@ No se utiliza nada tecnológico. Sino que uno pasa a ver si todo va bien y con c
 
 ![Entrevista_Seg02_Paolo](assets/Paolo.png)
 
-**Nombre y Apellido:** Paolo Carrillo  
+| **Nombre Entrevistado** | Paolo Carrillo      |
+|-------------------------|------------------|
+| **Edad**                | 23               |
+| **Distrito**            | San Isidro       |
+| **Comienzo y fin de la entrevista**:| 10:10 al 13:50     |
+| **Nombre del taller/joyeria**:| El Dorado     |
+| **URL del video:**:| https://bit.ly/3TG9UIJ |
 
-**Edad:** 23 años  
-
-**Distrito:** San Isidro  
-
-**Nombre del taller/joyería:** El Dorado
-
-**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Comienzo y fin:** 10:10 al 13:50
 
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 Mi taller, se dedica a la creación de joyas personalizadas, desde anillos de compromiso hasta piezas exclusivas para clientes particulares. Las operaciones diarias incluyen el diseño, fundición, engastado de piedras, pulido y control de calidad. Contamos con un equipo de artesanos experimentados que se encargan de cada etapa del proceso.
@@ -257,17 +251,14 @@ Me informo sobre nuevas tecnologías a través de revistas especializadas, feria
 
 ![Entrevista_Seg03_Ñeño](assets/Ñeño.png)
 
-**Nombre y Apellido:** Juan Carlos Cabrera  
+| **Nombre Entrevistado** | Juan Carlos Cabrera       |
+|-------------------------|------------------|
+| **Edad**                | 29               |
+| **Distrito**            | San Isidro       |
+| **Comienzo y fin de la entrevista**:| 13:50 al 16:32     |
+| **Nombre del taller/joyeria**:| Ñeñis     |
+| **URL del video:**:| https://bit.ly/3TG9UIJ |
 
-**Edad:** 29 años  
-
-**Distrito:** San Isidro  
-
-**Nombre del taller/joyería:** Ñeñis
-
-**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Comienzo y fin:** 13:50 al 16:32
 
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 Mi taller es pequeño y nos enfocamos en la creación de piezas personalizadas. Diariamente superviso el diseño, el moldeado y el engaste.
@@ -299,17 +290,14 @@ Investigo en internet y a veces asisto a ferias de joyería.
 
 ![Entrevista_Seg01_Yasira](assets/Yasira.png)
 
-**Nombre y Apellido:** Yasira Palacios Absi
+| **Nombre Entrevistado** | Yasira Palacios Absi       |
+|-------------------------|------------------|
+| **Edad**                | 50               |
+| **Distrito**            | Chorrillos       |
+| **Comienzo y fin de la entrevista**:| 16:36 al 22:54     |
+| **Nombre del taller/joyeria**:| RENPAL     |
+| **URL del video:**:| https://bit.ly/3TG9UIJ |
 
-**Edad:** 50
-
-**Distrito:** Chorrillos
-
-**Nombre del taller/joyería:** RENPAL
-
-**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Comienzo y fin:** 16:36 al 22:54
 
 #### ¿Cómo describes la operación diaria de tu joyería?
 La operación diaria de mi joyería implica gestionar el inventario de productos, atender a los clientes, coordinar con proveedores y, en ocasiones, supervisar la producción de piezas personalizadas. Es un proceso que requiere atención constante y una gestión eficiente para mantener la calidad y satisfacer a los clientes.
@@ -352,17 +340,14 @@ Al considerar nuevas tecnologías, me baso en recomendaciones de colegas del sec
 
 ![Entrevista_Seg01_Ana](assets/Ana.png)
 
-**Nombre y Apellido:** Ana Sofia Espinoza 
+| **Nombre Entrevistado** | Ana Sofia Espinoza        |
+|-------------------------|------------------|
+| **Edad**                | 27               |
+| **Distrito**            | Callao       |
+| **Comienzo y fin de la entrevista**:| 22:56 al 28:18     |
+| **Nombre del taller/joyeria**:| Espinoza     |
+| **URL del video:**:| https://bit.ly/3TG9UIJ |
 
-**Edad:** 27
-
-**Distrito:** Callao
-
-**Nombre del taller/joyería:** Espinoza
-
-**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Comienzo y fin:** 22:56 al 28:18
 
 #### ¿Cómo gestionas el inventario de productos en tu joyería?
 Mantengo un registro detallado de cada pieza, incluyendo su descripción, precio, materiales y ubicación en la tienda. Realizo conteos físicos regularmente para asegurar la precisión.
@@ -401,17 +386,14 @@ Me baso en recomendaciones e información de asociaciones de joyeros. También v
 
 ![Entrevista_Seg03_Ospina](assets/Ospina.png)
 
-**Nombre y Apellido:** Milagros Ospina
+| **Nombre Entrevistado** | Milagros Ospina        |
+|-------------------------|------------------|
+| **Edad**                | 29               |
+| **Distrito**            | Chorrillos       |
+| **Comienzo y fin de la entrevista**:| 28:21 al 32:42     |
+| **Nombre del taller/joyeria**:| Joyería Ospinas     |
+| **URL del video:**:| https://bit.ly/3TG9UIJ |
 
-**Edad:** 29
-
-**Distrito:** Chorrillos
-
-**Nombre del taller/joyería:** Joyería Ospinas
-
-**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Comienzo y fin:** 28:21 al 32:42
 
 #### ¿Cómo describes la operación diaria de tu joyería?
 La operación diaria de una joyería incluye la atención al cliente, gestión del inventario, supervisión de ventas, y coordinación con talleres y proveedores. Es esencial mantener una tienda organizada y atractiva para los clientes.
@@ -453,11 +435,11 @@ Las decisiones sobre nuevas tecnologías se basan en tendencias del sector, reco
 
 El Análisis de Entrevistas nos permitirá extraer información valiosa sobre las experiencias y expectativas de nuestros clientes. A través de la revisión sistemática de las entrevistas realizadas, identificaremos patrones, puntos de dolor y oportunidades de mejora. Este análisis nos ayudará a tomar decisiones informadas y a diseñar soluciones que realmente respondan a las necesidades de nuestros usuarios, mejorando así su satisfacción y fidelidad.
 
-# Análisis de Entrevistas por Segmento Objetivo
+## Análisis de Entrevistas por Segmento Objetivo
 
 ## 1. Segmento: Dueños de Joyería
 
-### Características Objetivas y Subjetivas
+#### Características Objetivas y Subjetivas
 
 | Característica                        | Descripción                                                                 | % de Entrevistados | Ejemplos de Entrevistas                                                                                               |
 |---------------------------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -476,7 +458,7 @@ La mayoría de los entrevistados (66%) gestiona el inventario de forma manual, l
 
 ## 2. Segmento: Dueños de Talleres de Joyería
 
-### Características Objetivas y Subjetivas
+#### Características Objetivas y Subjetivas
 
 | Característica                        | Descripción                                                                 | % de Entrevistados | Ejemplos de Entrevistas                                                                                              |
 |---------------------------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------|
