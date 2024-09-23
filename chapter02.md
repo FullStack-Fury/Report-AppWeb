@@ -531,11 +531,11 @@ El User Journey Mapping es una herramienta clave que nos ayudará a visualizar l
 
 ### Dueño de joyería
 
-<img src="assets/chapter02/journeyMapMiguel.png" style="width:700px; height:auto;">
+<img src="assets/JourneyMapMiguel2.png" style="width:700px; height:auto;">
 
 ### Dueño de taller de joyería
 
-<img src="assets/chapter02/journeyMapJavier.png" style="width:700px; height:auto;">
+<img src="assets/JourneyMapJavier2.png" style="width:700px; height:auto;">
 
 ## 2.3.4. Empathy Mapping.
 
