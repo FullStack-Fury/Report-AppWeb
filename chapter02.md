@@ -182,6 +182,10 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 
 **Nombre del taller/joyeria:** Rentería Joyeros
 
+**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Comienzo y fin:** 0:07 al 10:06
+
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 El taller se dedica a la elaboración de una joya. Es decir, todo el proceso desde la elaboración hasta el producto final. Lo que pasa por el joyero, el engastador que pone las piedras y los último detalles que son los pulidos, limpieza, baños y de ahí sale el producto final.
 
@@ -216,7 +220,11 @@ No se utiliza nada tecnológico. Sino que uno pasa a ver si todo va bien y con c
 
 **Distrito:** San Isidro  
 
-**Nombre del taller/joyería:** El Dorado  
+**Nombre del taller/joyería:** El Dorado
+
+**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Comienzo y fin:** 10:10 al 13:50
 
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 Mi taller, se dedica a la creación de joyas personalizadas, desde anillos de compromiso hasta piezas exclusivas para clientes particulares. Las operaciones diarias incluyen el diseño, fundición, engastado de piedras, pulido y control de calidad. Contamos con un equipo de artesanos experimentados que se encargan de cada etapa del proceso.
@@ -255,7 +263,11 @@ Me informo sobre nuevas tecnologías a través de revistas especializadas, feria
 
 **Distrito:** San Isidro  
 
-**Nombre del taller/joyería:** Ñeñis  
+**Nombre del taller/joyería:** Ñeñis
+
+**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Comienzo y fin:** 13:50 al 16:32
 
 #### ¿Podrías describir tu taller de joyería y las operaciones diarias que realizas?
 Mi taller es pequeño y nos enfocamos en la creación de piezas personalizadas. Diariamente superviso el diseño, el moldeado y el engaste.
@@ -294,6 +306,10 @@ Investigo en internet y a veces asisto a ferias de joyería.
 **Distrito:** Chorrillos
 
 **Nombre del taller/joyería:** RENPAL
+
+**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Comienzo y fin:** 16:36 al 22:54
 
 #### ¿Cómo describes la operación diaria de tu joyería?
 La operación diaria de mi joyería implica gestionar el inventario de productos, atender a los clientes, coordinar con proveedores y, en ocasiones, supervisar la producción de piezas personalizadas. Es un proceso que requiere atención constante y una gestión eficiente para mantener la calidad y satisfacer a los clientes.
@@ -344,6 +360,10 @@ Al considerar nuevas tecnologías, me baso en recomendaciones de colegas del sec
 
 **Nombre del taller/joyería:** Espinoza
 
+**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Comienzo y fin:** 22:56 al 28:18
+
 #### ¿Cómo gestionas el inventario de productos en tu joyería?
 Mantengo un registro detallado de cada pieza, incluyendo su descripción, precio, materiales y ubicación en la tienda. Realizo conteos físicos regularmente para asegurar la precisión.
 
@@ -388,6 +408,10 @@ Me baso en recomendaciones e información de asociaciones de joyeros. También v
 **Distrito:** Chorrillos
 
 **Nombre del taller/joyería:** Joyería Ospinas
+
+**URL del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/ER-YQ720GZRAqXoC6AlyNtYBXB0k0j-TwDrJ6uxYXhyD-g?e=RZaWhk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Comienzo y fin:** 28:21 al 32:42
 
 #### ¿Cómo describes la operación diaria de tu joyería?
 La operación diaria de una joyería incluye la atención al cliente, gestión del inventario, supervisión de ventas, y coordinación con talleres y proveedores. Es esencial mantener una tienda organizada y atractiva para los clientes.
