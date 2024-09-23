@@ -42,11 +42,11 @@ La administración de la configuración del software es fundamental para nuestro
 
 - Figma: 
     Es una herramienta de diseño de interfaz de usuario basada en la web que permite a los equipos de diseño crear prototipos de diseño de interfaz de usuario y colaborar en tiempo real. Usamos esta herramienta para crear prototipos de diseño de la landing page.
-    [Página principal de Figma](https://www.figma.com/es-la/downloads/)
+    Página principal de Figma: https://www.figma.com/es-la/downloads/
 
 - Lucidchart: 
     Es una herramienta de diagramación en línea que permite a los equipos crear diagramas de flujo, diagramas de red, diagramas de arquitectura y otros diagramas. Usamos esta herramienta para crear diagramas el diagramas de clases y el diagrama de base de datos.
-    [Página principal de Lucidchart](https://www.lucidchart.com/)
+    Página principal de Lucidchart: https://www.lucidchart.com/
 
 ![structurizr-image](assets/chapter05/evidenciaLucidChart.png)
 
@@ -54,30 +54,30 @@ La administración de la configuración del software es fundamental para nuestro
 
 - HTML5:
     Es la última versión de HTML que permite a los desarrolladores web crear sitios web y aplicaciones web interactivas y receptivas. Usamos HTML5 para crear la estructura de la landing page.
-    [Página sobre documentación de HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+    Página sobre documentación de HTML5: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 
 - CSS3:
     Es la última versión de CSS que permite a los desarrolladores web diseñar y personalizar la apariencia de los sitios web y aplicaciones web. Usamos CSS3 para diseñar la apariencia de la landing page.
-    [Página sobre documentación de CSS3](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+    Página sobre documentación de CSS3: https://developer.mozilla.org/en-US/docs/Glossary/CSS
 
 - JavaScript: 
     Es un lenguaje de programación de alto nivel que permite a los desarrolladores web crear sitios web y aplicaciones web interactivas y dinámicas. Usamos JavaScript para agregar interactividad y dinamismo a la landing page.
-    [Página sobre documentación de JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)
+    Página sobre documentación de JavaScript: https://developer.mozilla.org/en-US/docs/Glossary/JavaScript
 
 -   WebStrom:
     Es un entorno de desarrollo integrado (IDE) que permite a los desarrolladores web crear, editar y depurar código web. Usamos WebStorm para escribir y editar el código HTML, CSS y JavaScript de la landing page.
-    [Página principal de WebStorm](https://www.jetbrains.com/es-es/webstorm/download/#section=windows)  
+    Página principal de WebStorm: https://www.jetbrains.com/es-es/webstorm/download/#section=windows 
 
 - **Software Documentation**:
 
 -  GitHub:
     Es una plataforma de desarrollo de software basada en la web que permite a los desarrolladores colaborar en proyectos de software, alojar y revisar código, y realizar un seguimiento de problemas y solicitudes de extracción. Usamos GitHub para alojar y gestionar el código fuente de la landing page.
-    [Página principal de GitHub](https://github.com/)
+    Página principal de GitHub: https://github.com/
 
 
 - Git:
     Es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear los cambios en el código fuente de un proyecto de software. Usamos Git para controlar y gestionar las versiones del código fuente de la landing page.
-    [Página principal de Git](https://git-scm.com/)
+    Página principal de Git: https://git-scm.com/
 ## 5.1.2. Source Code Management.
 
 
