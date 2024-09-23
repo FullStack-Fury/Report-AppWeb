@@ -12,15 +12,15 @@ La administración de la configuración del software es fundamental para nuestro
 
 - Trello: 
     Es una aplicación web que permite organizar tareas y proyectos en tableros que facilita el seguimiento de las actividades de un equipo de trabajo.
-    [Página principal de Trello](https://trello.com/)
+    Página principal de Trello: https://trello.com/
 
 - Microsoft Stream: 
     Una plataforma de video empresarial que permite a las organizaciones crear, administrar y compartir videos de manera segura. Usamos esta platamorma para almacenar los videos de las entrevitas realizadas a los segmentos de objetivos.
-    [Página principal de Microsoft Stream](https://www.microsoft.com/es-es/microsoft-365/microsoft-stream)
+    Página principal de Microsoft Stream: https://www.microsoft.com/es-es/microsoft-365/microsoft-stream
 
 - Miro:
     Es una plataforma de colaboración en línea que permite a los equipos colaborar en tiempo real, compartir ideas y trabajar juntos en un entorno virtual. Usamos esta plataforma para realizar parte del lean UX Process, AS-IS scenario mapping y TO-BE scenario mapping.
-    [Link de descarga de Miro](https://miro.com/es/app/)
+    Link de descarga de Miro: https://miro.com/es/app/
 
   ![Miro-image-userpersona](assets/chapter05/evidenciaMiro.png)
 
@@ -28,13 +28,13 @@ La administración de la configuración del software es fundamental para nuestro
 
 - UXPressia: 
     Es una herramienta de mapeo de experiencia del cliente que permite a los equipos crear mapas de experiencia del cliente, mapas de viaje del cliente y otros diagramas de experiencia del cliente. Usamos esta herramienta para realizar el Customer Journey Map, impact mapping.
-    [Página principal de UXPressia](https://uxpressia.com/)
+    Página principal de UXPressia: https://uxpressia.com/
 
 ![uxpressia-image-userpersona](assets/chapter05/evidenciaUxpressia.png)
 
 - Structurizr: 
     Es una herramienta de modelado de software que permite a los equipos crear diagramas de arquitectura de software y documentación de arquitectura de software de modelos C4. Usamos esta herramienta para crear diagramas de arquitectura de software.
-    [Página principal de Structurizr](https://structurizr.com/)
+    Página principal de Structurizr: https://structurizr.com/
 
 ![structurizr-image](assets/chapter05/evidenciaStructurizr.png)
 
