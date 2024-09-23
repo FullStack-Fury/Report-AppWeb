@@ -356,7 +356,7 @@ El diseño de la base de datos es esencial para el proyecto, ya que definirá c�
 
 Se elaboró un diagrama de base de datos que nos ayudó a visualizar y estructurar las relaciones entre las distintas tablas y datos que maneja la aplicación. Este diagrama facilitó la comprensión del modelo de datos, mejorando la comunicación entre el equipo de desarrollo y asegurando que el diseño de la base de datos soporte adecuadamente las funcionalidades requeridas.
 
-[Link](https://lucid.app/lucidchart/5667052f-8cc5-424b-9438-41d3fa451449/edit?viewport_loc=-563%2C-430%2C3955%2C2111%2C0_0&invitationId=inv_56fe3027-5ced-46e4-86ac-43bdf76f9e43)
+URL: https://lucid.app/lucidchart/5667052f-8cc5-424b-9438-41d3fa451449/edit?viewport_loc=-563%2C-430%2C3955%2C2111%2C0_0&invitationId=inv_56fe3027-5ced-46e4-86ac-43bdf76f9e43
 
 ![database_diagram](assets/DatabaseDiagram.png)
 
