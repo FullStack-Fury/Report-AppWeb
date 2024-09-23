@@ -15,7 +15,7 @@ GemZ se presenta así como una herramienta esencial para los profesionales de la
   </tr>
   <tr>
     <td><img src="assets/chapter01/oscar-photo.png"></td>
-    <td>Nací el 20 de diciembre de 2001 y estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). La razón por la cual escogí esta carrera es debido a la alta demanda que esta tiene, además de todas las posibilidades que el crear un software permite. Durante mi primer año de carrera desarrollé mis habilidades, programando distintos trabajos, además de aprender todo lo básico que la programación conlleva. Tengo distintos pasatiempos tales como jugar videojuegos, escuchar música, ver series y practicar basketball.</td>
+    <td>Nací el 20 de diciembre de 2001 y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Escogí esta carrera debido a la alta demanda que tiene en el mercado y por todas las posibilidades creativas y técnicas que ofrece el desarrollo de software. A lo largo de mis estudios, he adquirido conocimientos en diversas tecnologías como JavaScript, TypeScript, Vue, Angular, C++, Python y MySQL. Estas herramientas me han permitido desarrollar diversos proyectos y fortalecer mis habilidades en la creación y gestión de software, contribuyendo a mi crecimiento como programador.</td>
   </tr>
   <tr>
     <th colspan="2">Quijandria Araneda, Vicente </th>
