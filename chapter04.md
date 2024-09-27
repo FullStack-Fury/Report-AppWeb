@@ -11,25 +11,25 @@ Un manual de estilo establece las pautas para redactar, diseñar y presentar div
 ### Branding
 Para la creacion para nuestra startup Gemz, se ha optado por un estilo moderno y minimalista, de tal manera que se pueda transmitir una imagen de innovación y profesionalismo. Teniendo en cuenta que nos enforcamos en el sector de la joyería, se ha optado por un estilo elegante y sofisticado, que refleje la calidad y exclusividad de nuestros productos.
 
-<img src="/assets/logo2_gray.png.png" alt="logo" width= "200px"/>
+<img src="assets/logo2_gray.png.png" alt="logo" width= "200px"/>
 
 ### Color Palette
 
 La paleta de colores de GemZ se compone de tonos suaves y elegantes, que reflejan la calidad y exclusividad de nuestros productos. Los colores principales son el blanco en el fondo y el dorado en los elementos de diseño, que se complementan con tonos grises, ya que estos colores transmiten elegancia y sofisticación.
 
-<img src="/assets/chapter04/color-palette.png" alt="color-palette"/>
+<img src="assets/chapter04/color-palette.png" alt="color-palette"/>
 
 ### Typography
 
 La tipografía es un elemento clave en el diseño de GemZ, ya que influye en la legibilidad y la percepción de la marca. Se ha elegido la fuente `Montserrat` , por que es una fuente moderna y elegante, que se adapta perfectamente al estilo de la marca.
 
-<img src="/assets/chapter04/typography.png" alt="typography"/>
+<img src="assets/chapter04/typography.png" alt="typography"/>
 
 ### spacing
 
 El espaciado es un aspecto importante en el diseño de GemZ, ya que influye en la legibilidad y la organización de los elementos. Se ha establecido un espaciado uniforme de 8px entre los elementos, para crear una apariencia ordenada y equilibrada.
 
-<img src="/assets/chapter04/spacing.png" alt="spacing"/>
+<img src="assets/chapter04/spacing.png" alt="spacing"/>
 
 ## 4.1.2. Web Style Guidelines.
 
@@ -106,11 +106,11 @@ En esta sección se presentan los wireframes de la página de inicio de GemZ, qu
 
 ### - Wireframe pero para la vista del ordenador:
 
-<img src="/assets/chapter04/wireframe.png" alt="wireframe"/>
+<img src="assets/chapter04/wireframe.png" alt="wireframe"/>
 
 ### - Wireframe pero para la vista del móvil.
 
-<img src="/assets/chapter04/wireframe-mobile.png" alt="wireframe"/>
+<img src="assets/chapter04/wireframe-mobile.png" alt="wireframe"/>
 
 ## 4.3.2. Landing Page Mock-up.
 
@@ -119,11 +119,11 @@ En esta sección se presentan los mock-ups de la página de inicio de GemZ, que 
 
 ### - Mock-up para la vista del ordenador:
 
-<img src="/assets/chapter04/mockup.png" alt="mockup"/>
+<img src="assets/chapter04/mockup.png" alt="mockup"/>
 
 ### - Mock-up para la vista del móvil.
 
-<img src="/assets/chapter04/mockup-mobile.png" alt="mockup"/>
+<img src="assets/chapter04/mockup-mobile.png" alt="mockup"/>
 
 # 4.4. Web Applications UX/UI Design.
 
@@ -135,33 +135,33 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 ### Link Wireframes: https://www.figma.com/design/VNmc6nsLve8SjO1CtZpDQP/Untitled?node-id=0-1&t=Y7LTGk4RgNcvXtUJ-1
 
 ## Inicio e Inicio Mobile
-<img src="/assets/Home.png" alt="home"/>
+<img src="assets/Home.png" alt="home"/>
 
 
 ## Registro
-<img src="/assets/Registro.png" alt="registro"/>
+<img src="assets/Registro.png" alt="registro"/>
 
 ## Registro Mobile
-<img src="/assets/Registro_Mobile.png" alt="registro"/>
+<img src="assets/Registro_Mobile.png" alt="registro"/>
 
 
 ## Inicio
-<img src="/assets/Inicio (2).png" alt="inicio"/>
+<img src="assets/Inicio (2).png" alt="inicio"/>
 
 ## Inicio Mobile
-<img src="/assets/Inicio_Mobile.png" alt="inicio"/>
+<img src="assets/Inicio_Mobile.png" alt="inicio"/>
 
 
 ## Perfil Y Perfil Mobile
-<img src="/assets/Perfil.png" alt="perfil"/>
+<img src="assets/Perfil.png" alt="perfil"/>
 
 
 ## Inventario e Inventario Mobile
-<img src="/assets/Inventario.png" alt="inventario"/>
+<img src="assets/Inventario.png" alt="inventario"/>
 
 
 ### Panel de Control y Panel de Control Mobile
-<img src="/assets/Panel.png" alt="panel"/>
+<img src="assets/Panel.png" alt="panel"/>
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
 
@@ -189,7 +189,7 @@ Se elaboró un Diagrama de Wireflow de Aplicaciones Web que combina wireframes y
 
 - Después de iniciar sesión correctamente, el usuario es dirigido al Panel de Control.
 
-<img src="/assets/Wireflow1.png" alt="Wireflow1"/>
+<img src="assets/Wireflow1.png" alt="Wireflow1"/>
 
 ## 2. User Goal 2: Acceso directo al Panel de Control
 
@@ -217,7 +217,7 @@ Se elaboró un Diagrama de Wireflow de Aplicaciones Web que combina wireframes y
 
 - Al iniciar sesión correctamente y dirigirse al Panel de Control, puede redirigirse al Inventario
 
-<img src="/assets/Wireflow2.png" alt="Wireflow2"/>
+<img src="assets/Wireflow2.png" alt="Wireflow2"/>
 
 ## 4.4.2. Web Applications Mock-ups.
 
@@ -226,33 +226,33 @@ Se desarrollaron Mock-ups de Aplicaciones Web que ofrecen representaciones visua
 ### Link MockUps: https://www.figma.com/design/VNmc6nsLve8SjO1CtZpDQP/Untitled?node-id=0-1&t=Y7LTGk4RgNcvXtUJ-1
 
 ## Inicio e Inicio Mobile
-<img src="/assets/Primary Sitemap.png" alt="home"/>
+<img src="assets/Primary Sitemap.png" alt="home"/>
 
 
 ## Registro
-<img src="/assets/Reg.png" alt="registro"/>
+<img src="assets/Reg.png" alt="registro"/>
 
 ## Registro Mobile
-<img src="/assets/Row.png" alt="registro"/>
+<img src="assets/Row.png" alt="registro"/>
 
 
 ## Inicio
-<img src="/assets/Login.png" alt="inicio"/>
+<img src="assets/Login.png" alt="inicio"/>
 
 ## Inicio Mobile
-<img src="/assets/6.png" alt="inicio"/>
+<img src="assets/6.png" alt="inicio"/>
 
 
 ## Perfil Y Perfil Mobile
-<img src="/assets/Primary Sitemap2.png" alt="perfil"/>
+<img src="assets/Primary Sitemap2.png" alt="perfil"/>
 
 
 ## Inventario e Inventario Mobile
-<img src="/assets/Inventarios.png" alt="inventario"/>
+<img src="assets/Inventarios.png" alt="inventario"/>
 
 
 ### Panel de Control y Panel de Control Mobile
-<img src="/assets/Primary Sitemap3.png" alt="panel"/>
+<img src="assets/Primary Sitemap3.png" alt="panel"/>
 
 ## 4.4.3. Web Applications User Flow Diagrams.
 
