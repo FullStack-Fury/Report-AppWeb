@@ -566,7 +566,9 @@ A continuación se adjunta la imagen de los commits de cada integrante como cola
 ## Video About-the-Team.
 # Bibliografía
 
+- Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley Professional. Retrieved from : https://athena.ecs.csus.edu/~buckley/CSc191/User-Stories-Applied-Mike-Cohn.pdf
 - Toomey, J. W. (2000). Inventory management: Principles, concepts and techniques. Springer Science & Business Media. Retrieved from : https://books.google.com.pe/books?id=kgX_GPqCYBgC&printsec=frontcover#v=onepage&q&f=false
+- Gothelf, J., & Seiden, J. (2021). Lean UX, 3rd Edition. O'Reilly Media. Retrieved from : https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/
 
 
 
