@@ -543,6 +543,66 @@ A continuación se adjunta la imagen de los commits de cada integrante como cola
 <img src="assets/contributor.png">
 <img src="assets/network-graph.png">
 
+## 5.2.2. Sprint 2
+
+Esta sección documenta y describe el progreso logrado en términos de producto y trabajo colaborativo durante el Sprint 2. Contiene las siguientes subsecciones: Sprint Planning 2, Sprint Backlog 2, Evidencia de Desarrollo para la Sprint Review, Evidencia de Ejecución para la Sprint Review, Evidencia de Documentación de Servicios para la Sprint Review, además de Perspectivas sobre la Colaboración del Equipo durante el Sprint.
+
+## 5.2.1.1. Sprint Planning 2.
+
+<table  style="text-align: center;">
+    <tbody>
+        <tr>
+			<td colspan="1">Sprint #</td>
+            <td colspan="1"> Sprint 2  </td>
+		</tr>
+        <tr>
+			<td colspan="2">Sprint Planning Background </td>
+		</tr>
+        <tr>
+			<td colspan="1">Date</td>
+            <td colspan="1"> 2024-09-27 </td>
+		</tr>
+        <tr>
+			<td colspan="1">Time</td>
+            <td colspan="1"> 11:00 PM </td>
+		</tr>
+        <tr>
+			<td colspan="1">Location</td>
+            <td colspan="1">Microsoft Teams (Reunion virtual)</td>
+		</tr>
+        <tr>
+			<td colspan="1">Prepared By</td>
+            <td colspan="1">Oscar Antayhua Castillo</td>
+		</tr>
+        <tr>
+			<td colspan="1"> Attendees (to planning meeting)</td>
+            <td colspan="1">Quijandria Araneda, Vicente / Antayhua Castillo, Oscar / Torres García, Andrés / Rentería Palacios, Yasser / Curi Marcelo, Angelo </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 2 – 1 Review Summary </td>
+            <td colspan="1">Se alcanzaron los objetivos: el mejoramiento del reporte según las pautas del profesor, el arreglo del código en nuestra landing page y también el despliegue de la primera versión de nuestra Front End App que se planea seguir desarrollando en etapas posteriores.</td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
+            <td colspan="1">El sprint 2 fue mucho mejor comparado al sprint 1, a pesar de tener menos tiempo para la presentación de una versión mejorada del producto presentado en la etapa anterior y también adicionar la creación de nuestra Web Application, el equipo ha podido mantener su resiliencia, mejorando el rendimiento de todos los integrantes, su cooperación y manejo de herramientas que mejoraron la presentación del trabajo.</td>
+		</tr>
+         <tr>
+			<td colspan="2">Sprint Goal & User Stories </td>
+		</tr>
+         <tr>
+			<td colspan="1">Sprint 1 Goal</td>
+            <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Mejoramiento de información dentro del reporte y adición de información que faltó agregar en el sprint anterior, arreglo de código fuente de nuestra landing page, por último despliegue de nuestra primera versión completa de la Front End App</td>
+		</tr>
+        <tr>
+			<td colspan="1">Sprint 1 Velocity </td>
+            <td colspan="1"> </td>
+		</tr>
+        <tr>
+			<td colspan="1">Sum of Story Points </td>
+            <td colspan="1"> </td>
+		</tr>
+</tbody>
+</table>
 
 
 
