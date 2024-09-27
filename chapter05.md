@@ -565,4 +565,10 @@ A continuación se adjunta la imagen de los commits de cada integrante como cola
 
 ## Video About-the-Team.
 # Bibliografía
+
+- Toomey, J. W. (2000). Inventory management: Principles, concepts and techniques. Springer Science & Business Media. Retrieved from : https://books.google.com.pe/books?id=kgX_GPqCYBgC&printsec=frontcover#v=onepage&q&f=false
+
+
+
+
 # Anexos
