@@ -217,6 +217,53 @@ And a table is drawn below the card listing all products that have that status, 
   - materials: "Materials used"
   - employee: "Name of the employee assigned to the task"
 
+
+### Export Products to Excel
+
+As a developer,
+
+I want to implement the functionality to export product information to an Excel file,
+
+So that jewelry workshop owners can easily generate and manage reports on their products.
+
+Scenario: Successfully export products to Excel
+
+Given the endpoint “/api/v1/products/export” is available
+
+When a GET request is sent to the endpoint
+
+Then a response is received with status 200
+
+And an Excel file is generated and returned with the following information for each product:
+
+Product Name
+
+Product Status
+
+Scenario: No products available for export
+
+Given the endpoint “/api/v1/products” is available
+
+And there are no products in the inventory
+
+When a GET request is sent to the endpoint
+
+Then a response is received with status 204
+
+And the response body is empty, indicating that there are no products to export.
+
+Scenario: Handle export failure due to server error
+
+Given the endpoint “/api/v1/products” is available
+
+When a GET request is sent to the endpoint
+
+And there is an internal server error while generating the Excel file
+
+Then a response is received with status 500
+
+And a message in the response body says “Error: Unable to generate Excel file due to server error.”
+
 ### Change Application Language
 
 As a Backend Developer,
