@@ -73,77 +73,110 @@ UserStories Back-end
 #### Add Material through the RESTful API
 
 As a Developer,
+
 I want to implement the functionality to add a Material through the API,
 So that jewelry workshop owners can effectively manage their inventory.
 
 Scenario: Add material with unique name and provider
+
 Given the Endpoint “/api/v1/materiales” is available
+
 When a POST request is sent with the following values in the body:
   - name: "Name of the Jewelry"
   - quantity: 10
   - quantity_status: "In stock" (determined automatically)
   - provider: "Provider A"
+
 Then a response is received with status 201
+
 And a Material resource is included in the response body, with a new ID and the registered values for name, quantity, quantity_status, and provider.
 
 Scenario: Add material with the same name but different provider
+
 Given the Endpoint “/api/v1/materiales” is available
+
 When a POST request is sent with the following values in the body:
   - name: "Name of the Jewelry"
   - quantity: 5
   - quantity_status: "In stock" (determined automatically)
   - provider: "Provider B"
+
 Then a response is received with status 201
+
 And a Material resource is included in the response body, with a new ID and the registered values for name, quantity, quantity_status, and provider.
 
 Scenario: Add material with invalid input data
+
 Given the Endpoint “/api/v1/materiales” is available
+
 When a POST request is sent with the following values in the body:
   - name: "" (empty string)
   - quantity: -5
   - provider: "Provider C"
+
 Then a response is received with status 400
+
 And a message is included in the response body, with the value “Validation failed: The input data is invalid.”
 
 ### List Materials through the RESTful API
 
 As a Developer,
+
 I want to implement the functionality to list the materials through the API,
 So that jewelry workshop owners can visualize and manage their inventory efficiently.
 
 Scenario: List all materials
+
 Given the Endpoint “/api/v1/materiales” is available
+
 When a GET request is sent to the endpoint
+
 Then a response is received with status 200
+
 And a list of Material resources is included in the response body, each with its ID, name, quantity, quantity_status, and provider.
 
 Scenario: No materials in inventory
+
 Given the Endpoint “/api/v1/materiales” is available
+
 When a GET request is sent to the endpoint
+
 And no materials are stored
+
 Then a response is received with status 204
+
 And the response body is empty.
 
 ### Show Product Status Dashboard
 
 As a Developer,
+
 I want to implement the functionality to show the product status dashboard,
 So that jewelry workshop owners can visualize the quantity of products in different statuses and details of each product.
 
 Scenario: Show three cards for each product status
+
 Given the Endpoint “/api/v1/productos” is available
+
 When a GET request is sent to the endpoint
+
 Then a response is received with status 200
+
 And the response body includes three cards:
   - Card 1: Status "In Progress" with the quantity of products in this status
   - Card 2: Status "Finish" with the quantity of products in this status
   - Card 3: Status "Pending" with the quantity of products in this status
 
 Scenario: Draw a table when pressing "view details"
+
 Given the Endpoint “/api/v1/productos” is available
+
 When the "view details" button is pressed on a card corresponding to a product status
+
 And a GET request is sent to the endpoint with the filter for the specific status
+
 Then a response is received with status 200
+
 And a table is drawn below the card listing all products that have that status, with the following values:
   - name: "Product Name"
   - materials: "Materials used"
