@@ -573,6 +573,9 @@ A continuación se adjunta la imagen de los commits de cada integrante como cola
 - Casa Banchero. (n.d.). Casa Banchero. Retrieved from : https://casabanchero.com/
 - Carati Joyería. (n.d.). Carati Joyería. Retrieved from : https://caratijoyeria.com/
 - TOUS. (n.d.). TOUS. Retrieved from : https://www.tous.com/
+- PrimeTek. (n.d.). PrimeVue.  Retrieved from : https://primevue.org/
+- Beeceptor. (n.d.). Beeceptor. Retrieved from : https://app.beeceptor.com/
+- GitHub. (n.d.). GitHub. Retrieved from : https://github.com/
 
 
 
