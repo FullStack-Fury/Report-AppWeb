@@ -692,6 +692,17 @@ En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing
     <tbody>
 </table>
 
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 
 ## 5.3. Validation Interviews.
