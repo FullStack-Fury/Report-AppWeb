@@ -604,6 +604,94 @@ Esta sección documenta y describe el progreso logrado en términos de producto 
 </tbody>
 </table>
 
+#### .2.2.2.Sprint Backlog 2.
+
+En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte y la implementación de la Front End Application. A continuación, se presenta el backlog de tareas para el Sprint 2:
+[Link para ingresar al board del segundo Sprint](https://trello.com/b/ymZuX1mE/fullstack-fury)
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK008</td>
+			<td>Remote environment creation for Front End App</td>
+			<td>repositories and branch creations for Web Application in GitHub</td>
+			<td>0</td>
+			<td>Oscar Antayhua Castillo</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK009</td>
+			<td>Update Chapter01</td>
+			<td>add the respective information resulting from the observations made in the review in chapter01</td>
+			<td>2</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK010</td>
+			<td>Update Chapter02</td>
+			<td>add the respective information resulting from the observations made in the review in chapter02</td>
+			<td>1</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK011</td>
+			<td>Update Chapter03</td>
+			<td>add the respective information resulting from the observations made in the review in chapter03</td>
+			<td>3</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK012</td>
+			<td>Update Chapter04</td>
+			<td>add the respective information resulting from the observations made in the review in chapter04</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK013</td>
+			<td>Update Chapter05</td>
+			<td>add the respective information resulting from the observations made in the review in chapter05</td>
+			<td>6</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+    <tbody>
+</table>
+
 
 
 ## 5.3. Validation Interviews.
