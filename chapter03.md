@@ -68,6 +68,45 @@ Las User Stories son descripciones breves que detallan una funcionalidad del pro
 | US030 | Iniciar Sesión desde la Landing Page        | Como cliente potencial quiero tener un boton que me diriga al inicio de sesión.                 | **Happy Path:** **Dado** que el usuario registrado está en la página de aterrizaje. **Cuando** selecciona "Iniciar Sesión". **Entonces** el sistema redirige a la página de inicio de sesión y el usuario puede acceder a su cuenta. **Unhappy Path:** **Dado** que el usuario intenta iniciar sesión. **Cuando** el sistema falla. **Entonces** el sistema muestra un mensaje de error. | EP006 |
 | US031 | Ver Planes Disponibles                      |  Como cliente potencial estoy interesado en saber los planes que ofrece la landing page para la aplicación.               | **Happy Path:** **Dado** que el usuario está en la página de aterrizaje. **Cuando** selecciona la opción "Planes". **Entonces** el sistema muestra los diferentes planes de suscripción disponibles. | EP006 |
 
+UserStories Back-end
+
+#### Add Material through the RESTful API
+
+As a Backend Developer,
+I want to implement the functionality to add a Material through the API,
+So that jewelry workshop owners can effectively manage their inventory.
+
+Scenario: Add material with unique name and provider
+Given the Endpoint “/api/v1/materiales” is available
+When a POST request is sent with the following values in the body:
+  - name: "Name of the Jewelry"
+  - quantity: 10
+  - quantity_status: "In stock" (determined automatically)
+  - provider: "Provider A"
+Then a response is received with status 201
+And a Material resource is included in the response body, with a new ID and the registered values for name, quantity, quantity_status, and provider.
+
+Scenario: Add material with the same name but different provider
+Given the Endpoint “/api/v1/materiales” is available
+When a POST request is sent with the following values in the body:
+  - name: "Name of the Jewelry"
+  - quantity: 5
+  - quantity_status: "In stock" (determined automatically)
+  - provider: "Provider B"
+Then a response is received with status 201
+And a Material resource is included in the response body, with a new ID and the registered values for name, quantity, quantity_status, and provider.
+
+Scenario: Add material with invalid input data
+Given the Endpoint “/api/v1/materiales” is available
+When a POST request is sent with the following values in the body:
+  - name: "" (empty string)
+  - quantity: -5
+  - provider: "Provider C"
+Then a response is received with status 400
+And a message is included in the response body, with the value “Validation failed: The input data is invalid.”
+
+
+
 ## 3.3. Impact Mapping.
 
 Impact Mapping es una herramienta útil para planificar cómo nuestro proyecto puede influir en los usuarios y cumplir sus objetivos. Nos permite identificar resultados, comportamientos esperados y acciones clave para lograrlos. Con Impact Mapping, podemos alinear nuestras actividades con los objetivos, tomar decisiones más claras y aumentar el impacto del proyecto. Con Impact Mapping, podemos enfocar nuestras acciones hacia los objetivos, hacer elecciones más fundamentadas y optimizar el impacto del proyecto.
