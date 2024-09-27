@@ -70,11 +70,12 @@ Las User Stories son descripciones breves que detallan una funcionalidad del pro
 
 UserStories Back-end
 
-#### Add Material through the RESTful API
+### Add Material through the RESTful API
 
 As a Developer,
 
 I want to implement the functionality to add a Material through the API,
+
 So that jewelry workshop owners can effectively manage their inventory.
 
 Scenario: Add material with unique name and provider
@@ -123,6 +124,7 @@ And a message is included in the response body, with the value “Validation fai
 As a Developer,
 
 I want to implement the functionality to list the materials through the API,
+
 So that jewelry workshop owners can visualize and manage their inventory efficiently.
 
 Scenario: List all materials
@@ -152,6 +154,7 @@ And the response body is empty.
 As a Developer,
 
 I want to implement the functionality to show the product status dashboard,
+
 So that jewelry workshop owners can visualize the quantity of products in different statuses and details of each product.
 
 Scenario: Show three cards for each product status
@@ -181,6 +184,36 @@ And a table is drawn below the card listing all products that have that status, 
   - name: "Product Name"
   - materials: "Materials used"
   - employee: "Name of the employee assigned to the task"
+
+### Change Application Language
+
+As a Backend Developer,
+
+I want to implement the functionality to switch the application language between Spanish and English,
+
+So that users can interact with the application in their preferred language.
+
+Scenario: Change language from Spanish to English
+
+Given the application is available in Spanish
+
+When the user selects "EN" in the language settings
+
+Then all application texts are updated to English, including:
+  - Error messages
+  - Form labels
+  - Buttons and actions
+
+Scenario: Change language from English to Spanish
+
+Given the application is available in English
+
+When the user selects "ES" in the language settings
+
+Then all application texts are updated to Spanish, including:
+  - Error messages
+  - Form labels
+  - Buttons and actions
 
 
 ## 3.3. Impact Mapping.
