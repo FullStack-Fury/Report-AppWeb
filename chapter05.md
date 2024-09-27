@@ -478,7 +478,7 @@ En este primer sprint, nos centramos en sentar las bases de nuestra solución, p
   </thead>
   <tbody>
     <tr>
-      <td>JuanPescoran</td>
+      <td>""</td>
       <td>develop</td>
       <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
       <td>feat: added content in chapter IV</td>
@@ -503,7 +503,7 @@ A continuación se presentan los commits más importantes para la Landing Page:
   </thead>
   <tbody>
     <tr>
-      <td>JuanPescoran</td>
+      <td>""</td>
       <td>develop</td>
       <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
       <td>feat: added content in chapter IV</td>
