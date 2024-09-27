@@ -570,6 +570,9 @@ A continuación se adjunta la imagen de los commits de cada integrante como cola
 - Toomey, J. W. (2000). Inventory management: Principles, concepts and techniques. Springer Science & Business Media. Retrieved from : https://books.google.com.pe/books?id=kgX_GPqCYBgC&printsec=frontcover#v=onepage&q&f=false
 - Gothelf, J., & Seiden, J. (2021). Lean UX, 3rd Edition. O'Reilly Media. Retrieved from : https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/
 - Oracle. (n.d.). Redwood. Oracle.  Retrieved from : https://redwood.oracle.com/
+- Casa Banchero. (n.d.). Casa Banchero. Retrieved from : https://casabanchero.com/
+- Carati Joyería. (n.d.). Carati Joyería. Retrieved from : https://caratijoyeria.com/
+- TOUS. (n.d.). TOUS. Retrieved from : https://www.tous.com/
 
 
 
