@@ -228,7 +228,7 @@ So that jewelry workshop owners can easily generate and manage reports on their 
 
 Scenario: Successfully export products to Excel
 
-Given the endpoint “/api/v1/products/export” is available
+Given the endpoint “/api/v1/products” is available
 
 When a GET request is sent to the endpoint
 
@@ -236,9 +236,13 @@ Then a response is received with status 200
 
 And an Excel file is generated and returned with the following information for each product:
 
-Product Name
+- ID
 
-Product Status
+- Product
+
+- Employee
+
+- Status
 
 Scenario: No products available for export
 
@@ -254,7 +258,56 @@ And the response body is empty, indicating that there are no products to export.
 
 Scenario: Handle export failure due to server error
 
-Given the endpoint “/api/v1/products” is available
+Given the endpoint “/api/v1/products/export” is available
+
+When a GET request is sent to the endpoint
+
+And there is an internal server error while generating the Excel file
+
+Then a response is received with status 500
+
+And a message in the response body says “Error: Unable to generate Excel file due to server error.”
+
+
+### Export Materials to Excel
+
+As a developer,
+
+I want to implement the functionality to export material information to an Excel file,
+
+So that jewelry workshop owners can easily generate and manage reports on their materials.
+
+Scenario: Successfully export materials to Excel
+
+Given the endpoint “/api/v1/materials/export” is available
+
+When a GET request is sent to the endpoint
+
+Then a response is received with status 200
+
+And an Excel file is generated and returned with the following information for each material:
+
+- ID
+- Name
+- Quantity
+- Quantity Status
+- Provider
+
+Scenario: No materials available for export
+
+Given the endpoint “/api/v1/materials” is available
+
+And there are no materials in the inventory
+
+When a GET request is sent to the endpoint
+
+Then a response is received with status 204
+
+And the response body is empty, indicating that there are no materials to export.
+
+Scenario: Handle export failure due to server error
+
+Given the endpoint “/api/v1/materials” is available
 
 When a GET request is sent to the endpoint
 
