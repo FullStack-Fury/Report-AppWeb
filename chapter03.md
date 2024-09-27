@@ -147,6 +147,40 @@ Then a response is received with status 204
 
 And the response body is empty.
 
+### Delete Material through the RESTful API
+
+As a developer,
+
+I want to implement the functionality to delete a material through the API,
+
+So that jewelry workshop owners can manage their inventory by removing unwanted or unnecessary materials.
+
+
+Scenario: Delete an existing material
+
+Given the endpoint “/api/v1/materials/{id}” is available
+
+And there is a material with the specified ID
+
+When a DELETE request is sent to the endpoint with the ID of the material to be deleted
+
+Then a response is received with status 204
+
+And the response body is empty, indicating that the material has been successfully deleted.
+
+Scenario: Attempt to delete a material that does not exist
+
+Given the endpoint “/api/v1/materials/{id}” is available
+
+And there is no material with the specified ID
+
+When a DELETE request is sent to the endpoint with the ID of the material
+
+Then a response is received with status 404
+
+And a message in the response body says “Error: The material was not found.”
+
+
 ### Show Product Status Dashboard
 
 As a Developer,
