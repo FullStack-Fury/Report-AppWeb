@@ -68,8 +68,6 @@ Las User Stories son descripciones breves que detallan una funcionalidad del pro
 | US030 | Iniciar Sesión desde la Landing Page        | Como cliente potencial quiero tener un boton que me diriga al inicio de sesión.                 | **Happy Path:** **Dado** que el usuario registrado está en la página de aterrizaje. **Cuando** selecciona "Iniciar Sesión". **Entonces** el sistema redirige a la página de inicio de sesión y el usuario puede acceder a su cuenta. **Unhappy Path:** **Dado** que el usuario intenta iniciar sesión. **Cuando** el sistema falla. **Entonces** el sistema muestra un mensaje de error. | EP006 |
 | US031 | Ver Planes Disponibles                      |  Como cliente potencial estoy interesado en saber los planes que ofrece la landing page para la aplicación.               | **Happy Path:** **Dado** que el usuario está en la página de aterrizaje. **Cuando** selecciona la opción "Planes". **Entonces** el sistema muestra los diferentes planes de suscripción disponibles. | EP006 |
 
-UserStories Back-end
-
 ### Add Material through the RESTful API
 
 As a Developer,
