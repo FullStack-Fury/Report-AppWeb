@@ -50,7 +50,7 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
         <p><b><i>(TP)</i></b>: Estuvo de manera activa en el grupo, estando cosntantemente monitoreando el progreso de todos, realizó en la creación de los componentes Management e Inventory, además de desplegar el fake api dentro del json-server.</p>
         <br>
         <p>Yasser Rentería <b><i>(TB1)</i></b>: Tenia una comunición bastante clase y acertiva en el grupo sobre que se iba haciendo, participó en el capítulo I, capitulo II, capitulo III, capitulo IV,</p>
-        <p><b><i>(TP)</i></b>: </p>
+        <p>Yasser Rentería<b><i>(TP)</i>:</b> Participó en la edición del informe para el Trabajo Parcial, los diseños de la aplicación web y diferentes componentes del código. </p>
         <br>
         <p>Andres Torres<b><i>(TB1)</i></b>: Estuvo tambien activamente en la creación del resporte, parcipando en: capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V. También, esto activamente en la creación de la landign page.</p>
         <p>Andrés Torres<b><i>(TP)</i></b>: Esto activamente participando par la creación de la aplicación web, ofreciendo idea importantes haciendo la creación del toolbar, refactorización del códido y despliege de la página</p>
@@ -58,8 +58,8 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
         <p>Angelo Curi<b><i>(TB1)</i></b>: hizo un impacto capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V</p>
         <p><b><i>(TP)</i></b>: Estuvo de manera participativa, apoyando en la actualización del reporte y elaboró el componente Dashboard. </p>
         <br>
-        <p>Vicente Quijandria<b><i>(TB1)</i></b>: participó en un punto del capitulo I</p>
-        <p><b><i>(TP)</i></b>: </p>
+        <p>Vicente Quijandria<b><i>(TB1)</i></b>: Participo en capitulo 1, 2, 3 y 4. Estuvo en las reuniones y participo con ideas.</p>
+        <p><b><i>(TP)</i></b>: Estuvo en las reuniones, dio opiniones e ideas importantes. Desarrollo la seccion del historial de movimientos de los materiales y ayudo a corregir el informe en puntos del capitulo 2,3 y 4.</p>
       </td>
       <td>El equipo demostró un alto nivel de colaboración, donde todos los miembros participaron activamente en diversas partes del proyecto. Oscar Antayhua, Yasser Rentería, Andres Torres, y Angelo Curi contribuyeron significativamente en múltiples capítulos del reporte y en la creación de la landing page, mostrando liderazgo compartido y una dedicación constante en el desarrollo del proyecto.</td>
     </tr>
