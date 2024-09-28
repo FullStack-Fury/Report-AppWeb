@@ -268,6 +268,8 @@ Se desarrollaron Mock-ups de Aplicaciones Web que ofrecen representaciones visua
 ### Terminado
 <img src="assets/Finished.png" alt="panel"/>
 
+Link de video del funcionamiento de la Aplicación Web en los Mockups: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EQDBVD1XRFBOixV-rhLWsmMBg3MmsPwj2JbdRNcq711jVg?e=dDexrF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## 4.4.3. Web Applications User Flow Diagrams.
 
 Se desarrolló un Diagrama de Flujo de Usuarios de Aplicaciones Web que representa el recorrido de los usuarios a través de la aplicación. Este diagrama ilustra las diferentes etapas y acciones que los usuarios realizan, facilitando la comprensión de su experiencia y las interacciones con la interfaz.
