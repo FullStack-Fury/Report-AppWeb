@@ -694,6 +694,20 @@ En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
+Primero, se mostrarán los commits más importantes para el arreglo según las observaciones hechas al reporte:
+
+| Repository          | Branch  | Commit ID                                | Commit Message                                                                         | Commit Message Body        | Commited on (Date) |
+|---------------------|---------|------------------------------------------|----------------------------------------------------------------------------------------|----------------------------|--------------------|
+| andrest04/Report | develop | 431a9e4b2d46b90d412c4d21ef23b75f3175886a | Merge branch 'feat-chapter01' of https://github.com/FullStack-Fury/Report-AppWeb into develop | -                          | 9/17/2024          |
+| andrest04/Report | develop | 7ad93947c5339148d16e76c29a5167bd8013e77a | Merge: merging chapter02 features.                                                     | -                          | 9/17/2024          |
+| andrest04/Report | develop | 77f438fb26debad3c25813b39a840442cfd3a5de | Merge branch 'feat-chapter03' of https://github.com/FullStack-Fury/Report-AppWeb into develop | -                          | 9/17/2024          |
+| andrest04/Report | develop | 95493ac9559b3be15136e71428e4dbe23bc7ed1f | Merge: merging chapter04 features.                                                     | -                          | 9/17/2024          |
+| andrest04/Report | develop | 01ec95521c4bd2004985311d6648280420dfdf39 | Merge branch 'feat-chapter05' of https://github.com/FullStack-Fury/Report-AppWeb into develop | -                          | 9/17/2024          |
+
+Ahora, se mostrarán los commits más importantes para el arreglo según las observaciones hechas a la Landing Page:
+
+
+
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
