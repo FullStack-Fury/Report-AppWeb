@@ -478,7 +478,7 @@ En este primer sprint, nos centramos en sentar las bases de nuestra solución, p
   </thead>
   <tbody>
     <tr>
-      <td>FullStack-Fury</td>
+      <td>FullStackFury/report</td>
       <td>develop</td>
       <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
       <td>feat: added content in chapter IV</td>
@@ -493,7 +493,7 @@ A continuación se presentan los commits más importantes para la Landing Page:
 <table>
   <thead>
     <tr>
-      <th>Repository</th>
+      <th>FullStackFury/report</th>
       <th>Branch</th>
       <th>Commit ID</th>
       <th>Commit Message</th>
