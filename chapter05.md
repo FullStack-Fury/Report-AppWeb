@@ -708,8 +708,7 @@ Ahora, se mostrarán los commits más importantes para el arreglo según las obs
 
 | Repository                   | Branch | Commit ID                                | Commit Message | Commit Message Body                    | Commited on (Date) |
 |------------------------------|--------|------------------------------------------|----------------|----------------------------------------|--------------------|
-| Azsher/LandingPage-FullStackFury
- | develop | 60d054ac4cc5401fe1d83febdbbe1ef628d4f85d | feat(script): added function to button es and en       |     | 9/27/2024          |
+| Azsher/LandingPage-FullStackFury | develop | 60d054ac4cc5401fe1d83febdbbe1ef628d4f85d | feat(script): added function to button es and en       |     | 9/27/2024          |
 
 Por último, se mostrarán los commits más importantes para la implementación de la Front End Application:
 
