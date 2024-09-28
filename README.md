@@ -32,6 +32,8 @@ Para este proyecto hemos utilizado las herramientas GitHub  para gestionar el pr
 Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
 Fullstack-Fury(https://github.com/orgs/FullStack-Fury/repositories)
 
+<img src="assets/contributor2.png">
+
 # Student Outcome
 
 <table >
