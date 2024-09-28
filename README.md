@@ -40,6 +40,42 @@ Fecha: **Agosto de 2024**.
 <br>
 El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
     </tr>
+     <tr>
+      <td>2</td>
+      <td>15/09/2024</td>
+      <td>Oscar Antayhua</td>
+      <td>Se realizó las modificaciones correspondientes de las user stories junto a la actualización de los conocimientos de cada integranted en el perfil de descripción.
+</td>
+    </tr> <tr>
+      <td>3</td>
+      <td>18/09/2024</td>
+      <td>Curi Marcelo, Angelo Marcio</td>
+      <td>Se modifico los user persona, añadiendo los dispositivos 
+<br>
+El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
+    </tr> <tr>
+      <td>4</td>
+      <td>16/09/2024</td>
+      <td>Rentería Palacios, Yasser</td>
+      <td>.
+<br>
+El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
+    </tr> <tr>
+      <td>5</td>
+      <td>20/09/2024</td>
+      <td>Quijandria Araneda, Vicente</td>
+      <td>.
+<br>
+El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
+    </tr> <tr>
+      <td>6</td>
+      <td>21/09/2024</td>
+      <td>Torres García, Andrés Alberto
+</td>
+      <td>.
+<br>
+El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
+    </tr>
   </tbody>
 </table>
                                                                                 
