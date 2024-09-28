@@ -478,7 +478,7 @@ En este primer sprint, nos centramos en sentar las bases de nuestra solución, p
   </thead>
   <tbody>
     <tr>
-      <td>""</td>
+      <td>FullStack-Fury</td>
       <td>develop</td>
       <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
       <td>feat: added content in chapter IV</td>
@@ -503,7 +503,7 @@ A continuación se presentan los commits más importantes para la Landing Page:
   </thead>
   <tbody>
     <tr>
-      <td>""</td>
+      <td>FullStack-Fury</td>
       <td>develop</td>
       <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
       <td>feat: added content in chapter IV</td>
@@ -604,7 +604,7 @@ Esta sección documenta y describe el progreso logrado en términos de producto 
 </tbody>
 </table>
 
-#### .2.2.2.Sprint Backlog 2.
+#### 5.2.2.2.Sprint Backlog 2.
 
 En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte y la implementación de la Front End Application. A continuación, se presenta el backlog de tareas para el Sprint 2:
 [Link para ingresar al board del segundo Sprint](https://trello.com/b/ymZuX1mE/fullstack-fury)
