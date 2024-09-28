@@ -762,6 +762,7 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 # Conclusiones
 ## Conclusiones y recomendaciones.
 
+#### Tb1:
 - Durante el desarrollo de la plataforma GemZ, el equipo ha logrado implementar con éxito las funcionalidades clave y características planificadas, proporcionando una solución integral para la gestión de la producción y el inventario en el sector de la joyería.
 
 - La implementación inicial de GemZ ha demostrado la capacidad del equipo para transformar los requisitos y especificaciones en una herramienta funcional, con una estructura robusta y un diseño que se alinea con las necesidades del usuario.
@@ -770,6 +771,11 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 
 - El enfoque ágil ha sido efectivo para la implementación de GemZ, permitiendo al equipo adaptarse a cambios y desafíos de manera eficiente y mejorar continuamente el producto según el feedback recibido.
 
+#### TP: 
+- Durante la aplicación de la aplicación web, el equipo a logrado implemar las mayoria de las funcionalidades importantes que se puede tener, como tambien la organización del mismo codigo y de la estructura aplicando el DDD.
+- Hemos tenido una mejora en comparacion con la anterior entrega, podiendo mejorar en implementar más caractaristeristicas al proyecto, y las correccion correspondientes de nos hizo saber el profesor.
+- Tener más colabación, un mejor planteo de distrucion de tareas como es el uso de trello, nos ayudo significativamente a la hora de organizacion y ese a sido uno de lo puntos claves para poder tener cumplidos los puntos del proyecto para esta TP.
+- Para el despliegue de la aplicación web, se ha utilizado la plataforma Vercel, que ofrece una configuración rápida y sencilla. Dado que la aplicación está construida con Vue y Vite, Vercel se ha mostrado como una solución ideal, permitiendo integraciones automáticas con GitHub. Cada cambio en el repositorio se despliega de manera inmediata, lo que ha simplificado significativamente el flujo de trabajo y asegurado que las actualizaciones estén disponibles en tiempo real.
 ## Video About-the-Team.
 # Bibliografía
 
