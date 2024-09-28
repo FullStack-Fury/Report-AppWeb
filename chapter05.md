@@ -583,23 +583,23 @@ Esta sección documenta y describe el progreso logrado en términos de producto 
             <td colspan="1">Se alcanzaron los objetivos: el mejoramiento del reporte según las pautas del profesor, el arreglo del código en nuestra landing page y también el despliegue de la primera versión de nuestra Front End App que se planea seguir desarrollando en etapas posteriores.</td>
 		</tr>
          <tr>
-			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
+			<td colspan="1">Sprint 2 – 1 Retrospective Summary </td>
             <td colspan="1">El sprint 2 fue mucho mejor comparado al sprint 1, a pesar de tener menos tiempo para la presentación de una versión mejorada del producto presentado en la etapa anterior y también adicionar la creación de nuestra Web Application, el equipo ha podido mantener su resiliencia, mejorando el rendimiento de todos los integrantes, su cooperación y manejo de herramientas que mejoraron la presentación del trabajo.</td>
 		</tr>
          <tr>
 			<td colspan="2">Sprint Goal & User Stories </td>
 		</tr>
          <tr>
-			<td colspan="1">Sprint 1 Goal</td>
+			<td colspan="1">Sprint 2 Goal</td>
             <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Mejoramiento de información dentro del reporte y adición de información que faltó agregar en el sprint anterior, arreglo de código fuente de nuestra landing page, por último despliegue de nuestra primera versión completa de la Front End App</td>
 		</tr>
         <tr>
-			<td colspan="1">Sprint 1 Velocity </td>
-            <td colspan="1"> </td>
+			<td colspan="1">Sprint 2 Velocity </td>
+            <td colspan="1"> Para este sprint se han elegido 11 User Stories que tienen 2,3,5 y 8 Story points cada uno: 3 User Stories con el valor de 2 Story Points, 2 USer Stories con el valor de 8 Story Points, 4 User Stories con el valor de 5 Story Points y 2 user stories con el valor de 3 Story Points. </td>
 		</tr>
         <tr>
 			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1"> </td>
+            <td colspan="1"> 48 </td>
 		</tr>
 </tbody>
 </table>
