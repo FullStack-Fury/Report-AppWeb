@@ -114,8 +114,8 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
         <p>Angelo Curi<b><i>(TB1)</i></b>: hizo un impacto capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V</p>
         <p><b><i>(TP)</i></b>: Estuvo de manera participativa, apoyando en la actualización del reporte y elaboró el componente Dashboard. </p>
         <br>
-        <p>Vicente Quijandria<b><i>(TB1)</i></b>: participó en un punto del capitulo I</p>
-        <p><b><i>(TP)</i></b>: </p>
+        <p>Vicente Quijandria<b><i>(TB1)</i></b>: Participo en capitulo 1, 2, 3 y 4. Estuvo en las reuniones y participo con ideas.</p>
+        <p><b><i>(TP)</i></b>: Estuvo en las reuniones, dio opiniones e ideas importantes. Desarrollo la seccion del historial de movimientos de los materiales y ayudo a corregir el informe en puntos del capitulo 2,3 y 4.</p>
       </td>
       <td>El equipo demostró un alto nivel de colaboración, donde todos los miembros participaron activamente en diversas partes del proyecto. Oscar Antayhua, Yasser Rentería, Andres Torres, y Angelo Curi contribuyeron significativamente en múltiples capítulos del reporte y en la creación de la landing page, mostrando liderazgo compartido y una dedicación constante en el desarrollo del proyecto.</td>
     </tr>
