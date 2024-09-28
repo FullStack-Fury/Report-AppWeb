@@ -734,6 +734,10 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
+
+![](assets/img/evidenciaSprint2.png)
+
 
 ## 5.3. Validation Interviews.
 ## 5.3.1. Diseño de Entrevistas.
