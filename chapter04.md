@@ -134,34 +134,40 @@ Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o piez
 
 ### Link Wireframes: https://www.figma.com/design/VNmc6nsLve8SjO1CtZpDQP/Untitled?node-id=0-1&t=Y7LTGk4RgNcvXtUJ-1
 
-## Inicio e Inicio Mobile
-<img src="assets/Home.png" alt="home"/>
+## Inicio - Managment
+<img src="assets/Manag.png" alt="home"/>
 
 
-## Registro
-<img src="assets/Registro.png" alt="registro"/>
+## Nuevo Producto
+<img src="assets/newPro.png" alt="registro"/>
 
-## Registro Mobile
-<img src="assets/Registro_Mobile.png" alt="registro"/>
-
-
-## Inicio
-<img src="assets/Inicio (2).png" alt="inicio"/>
-
-## Inicio Mobile
-<img src="assets/Inicio_Mobile.png" alt="inicio"/>
+## Edición de Producto
+<img src="assets/editPro.png" alt="registro"/>
 
 
-## Perfil Y Perfil Mobile
-<img src="assets/Perfil.png" alt="perfil"/>
+## Inventario
+<img src="assets/Inventory.png" alt="inicio"/>
+
+## Nuevo Material
+<img src="assets/newMaterial.png" alt="inicio"/>
 
 
-## Inventario e Inventario Mobile
-<img src="assets/Inventario.png" alt="inventario"/>
+## Editar Material
+<img src="assets/editMaterial.png" alt="perfil"/>
 
 
-### Panel de Control y Panel de Control Mobile
-<img src="assets/Panel.png" alt="panel"/>
+## Dashboard
+<img src="assets/Deashboard.png" alt="inventario"/>
+
+
+### En progreso
+<img src="assets/inPro.png" alt="panel"/>
+
+### Pendiente
+<img src="assets/Pending.png" alt="panel"/>
+
+### Terminado
+<img src="assets/Finish.png" alt="panel"/>
 
 ## 4.4.2. Web Applications Wireflow Diagrams.
 
@@ -197,6 +203,8 @@ Se elaboró un Diagrama de Wireflow de Aplicaciones Web que combina wireframes y
 
 ## Wireflow:
 
+## Link Wireflows: https://www.figma.com/design/VNmc6nsLve8SjO1CtZpDQP/Mockup?node-id=0-1&t=Dn2x9YI3B7T53HUf-1
+
 ### Pantalla de Inicio (Iniciar Sesión)
 
 - El usuario ve la opción de iniciar sesión.
@@ -225,34 +233,40 @@ Se desarrollaron Mock-ups de Aplicaciones Web que ofrecen representaciones visua
 
 ### Link MockUps: https://www.figma.com/design/VNmc6nsLve8SjO1CtZpDQP/Untitled?node-id=0-1&t=Y7LTGk4RgNcvXtUJ-1
 
-## Inicio e Inicio Mobile
-<img src="assets/Primary Sitemap.png" alt="home"/>
+## Inicio - Managment
+<img src="assets/Managment.png" alt="home"/>
 
 
-## Registro
-<img src="assets/Reg.png" alt="registro"/>
+## Nuevo Producto
+<img src="assets/NewProduct.png" alt="registro"/>
 
-## Registro Mobile
-<img src="assets/Row.png" alt="registro"/>
-
-
-## Inicio
-<img src="assets/Login.png" alt="inicio"/>
-
-## Inicio Mobile
-<img src="assets/6.png" alt="inicio"/>
+## Edición de Producto
+<img src="assets/EditProduct (1).png" alt="registro"/>
 
 
-## Perfil Y Perfil Mobile
-<img src="assets/Primary Sitemap2.png" alt="perfil"/>
+## Inventario
+<img src="assets/Inventorys.png" alt="inicio"/>
+
+## Nuevo Material
+<img src="assets/NewMaterial (1).png" alt="inicio"/>
 
 
-## Inventario e Inventario Mobile
-<img src="assets/Inventarios.png" alt="inventario"/>
+## Editar Material
+<img src="assets/NewMaterial (1).png" alt="perfil"/>
 
 
-### Panel de Control y Panel de Control Mobile
-<img src="assets/Primary Sitemap3.png" alt="panel"/>
+## Dashboard
+<img src="assets/Dashboards.png" alt="inventario"/>
+
+
+### En progreso
+<img src="assets/Progresos.png" alt="panel"/>
+
+### Pendiente
+<img src="assets/Pendiente.png" alt="panel"/>
+
+### Terminado
+<img src="assets/Finished.png" alt="panel"/>
 
 ## 4.4.3. Web Applications User Flow Diagrams.
 
