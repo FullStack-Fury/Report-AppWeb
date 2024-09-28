@@ -30,7 +30,7 @@ Fecha: **Agosto de 2024**.
 Para este proyecto hemos utilizado las herramientas GitHub  para gestionar el progreso grupal.
 
 Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
-[Fullstack-Fury](https://github.com/orgs/FullStack-Fury/repositories)
+Fullstack-Fury(https://github.com/orgs/FullStack-Fury/repositories)
 
 # Student Outcome
 
