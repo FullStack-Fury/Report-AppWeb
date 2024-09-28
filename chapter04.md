@@ -274,6 +274,8 @@ Link de video del funcionamiento de la Aplicación Web en los Mockups: https://u
 
 Se desarrolló un Diagrama de Flujo de Usuarios de Aplicaciones Web que representa el recorrido de los usuarios a través de la aplicación. Este diagrama ilustra las diferentes etapas y acciones que los usuarios realizan, facilitando la comprensión de su experiencia y las interacciones con la interfaz.
 
+<img src="assets/WireFlow.png" alt="wireflow"/>
+
 # 4.5. Web Applications Prototyping.
 
 Se llevó a cabo el Prototipado de Aplicaciones Web para crear representaciones visuales de la interfaz y la funcionalidad de la aplicación. Este proceso permitió explorar y validar ideas de diseño antes del desarrollo final, facilitando la retroalimentación de los usuarios y del equipo.
