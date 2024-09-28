@@ -604,7 +604,7 @@ Esta sección documenta y describe el progreso logrado en términos de producto 
 </tbody>
 </table>
 
-#### 5.2.2.2.Sprint Backlog 2.
+## 5.2.2.2.Sprint Backlog 2.
 
 En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte y la implementación de la Front End Application. A continuación, se presenta el backlog de tareas para el Sprint 2:
 [Link para ingresar al board del segundo Sprint](https://trello.com/b/ymZuX1mE/fullstack-fury)
@@ -692,7 +692,7 @@ En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing
     <tbody>
 </table>
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+## 5.2.2.3.Development Evidence for Sprint Review.
 
 Primero, se mostrarán los commits más importantes para el arreglo según las observaciones hechas al reporte:
 
@@ -724,17 +724,17 @@ Por último, se mostrarán los commits más importantes para la implementación 
  https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
 
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+## 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+## 5.2.2.5.Execution Evidence for Sprint Review.
 En esta entrega, el equipo de desarrolladores de GemZ ha completado con éxito la implementación y el lanzamiento de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 
 También se ha completado la implementación de la Front End Application, que presenta una interfaz de usuario interactiva y funcionalidades básicas para los usuarios. A continuación, se presentan algunas capturas de pantalla de la aplicación en funcionamiento:
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+## 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
 
@@ -746,9 +746,9 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+## 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+## 5.2.2.8.Team Collaboration Insights during Sprint.
 
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 
