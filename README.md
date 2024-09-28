@@ -73,7 +73,7 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
         <p><b><i>(TP)</i></b>: </p>
         <br>
         <p>Andres Torres<b><i>(TB1)</i></b>: Estuvo tambien activamente en la creación del resporte, parcipando en: capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V. También, esto activamente en la creación de la landign page.</p>
-        <p><b><i>(TP)</i></b>: </p>
+        <p>Andrés Torres<b><i>(TP)</i></b>: Esto activamente participando par la creación de la aplicación web, ofreciendo idea importantes haciendo la creación del toolbar, refactorización del códido y despliege de la página</p>
         <br>
         <p>Angelo Curi<b><i>(TB1)</i></b>: hizo un impacto capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V</p>
         <p><b><i>(TP)</i></b>: Estuvo de manera participativa, apoyando en la actualización del reporte y elaboró el componente Dashboard. </p>
