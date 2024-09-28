@@ -706,6 +706,18 @@ Primero, se mostrarán los commits más importantes para el arreglo según las o
 
 Ahora, se mostrarán los commits más importantes para el arreglo según las observaciones hechas a la Landing Page:
 
+| Repository                   | Branch | Commit ID                                | Commit Message | Commit Message Body                    | Commited on (Date) |
+|------------------------------|--------|------------------------------------------|----------------|----------------------------------------|--------------------|
+| Azsher/LandingPage-FullStackFury
+ | develop | 60d054ac4cc5401fe1d83febdbbe1ef628d4f85d | feat(script): added function to button es and en       |     | 9/27/2024          |
+
+Por último, se mostrarán los commits más importantes para la implementación de la Front End Application:
+
+| Repository               | Branch  | Commit ID                                | Commit Message                                                                                              | Commit Message Body | Commited on (Date) |
+|--------------------------|---------|------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| andrest04/web-application | develop | 5fdcc03c55d41977d8746af753184a07d1a18679 | Merge branch 'feat-header' into develop of https://github.com/FullStack-Fury/web-application | -                   | 9/27/2024          |
+| andrest04/web-application | develop | 398a7621ac524d8edbaa64751ecad545da224cfb | feat: added json-server for local server
+                                                      | -                   | 9/27/2024          |
 
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
