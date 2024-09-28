@@ -22,63 +22,7 @@ Fecha: **Agosto de 2024**.
 
 # Registro de Versiones del Informe
 
-<table cellpadding="4" >
-  <thead>
-    <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autores</th>
-      <th>Descripción de Modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>08/09/2024</td>
-      <td>Todos</td>
-      <td> El equipo trabajó de forma conjunta y coordinada para desarrollar una propuesta de solución. Se profundizó en la comprensión de los usuarios a través de la creación de "user personas" detalladas, que permitieron visualizar las necesidades y motivaciones de los distintos tipos de usuarios. Se elaboraron "user stories" que describían de forma clara y concisa las funcionalidades.
-<br>
-El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
-    </tr>
-     <tr>
-      <td>2</td>
-      <td>15/09/2024</td>
-      <td>Oscar Antayhua</td>
-      <td>Se realizó las modificaciones correspondientes de las user stories junto a la actualización de los conocimientos de cada integranted en el perfil de descripción.
-</td>
-    </tr> <tr>
-      <td>3</td>
-      <td>18/09/2024</td>
-      <td>Curi Marcelo, Angelo Marcio</td>
-      <td>Se modifico los user persona, añadiendo los dispositivos 
-<br>
-El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
-    </tr> <tr>
-      <td>4</td>
-      <td>16/09/2024</td>
-      <td>Rentería Palacios, Yasser</td>
-      <td>.
-<br>
-El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
-    </tr> <tr>
-      <td>5</td>
-      <td>20/09/2024</td>
-      <td>Quijandria Araneda, Vicente</td>
-      <td>.
-<br>
-El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
-    </tr> <tr>
-      <td>6</td>
-      <td>21/09/2024</td>
-      <td>Torres García, Andrés Alberto
-</td>
-      <td>.
-<br>
-El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió como guía para el desarrollo del producto. La culminación de esta primera etapa fue la creación de una "landing page", que presentaría el producto de forma efectiva a los potenciales usuarios.</td>
-    </tr>
-  </tbody>
-</table>
-                                                                                
+<table cellpadding="4"> <thead> <tr> <th>Versión</th> <th>Fecha</th> <th>Autores</th> <th>Descripción de Modificación</th> </tr> </thead> <tbody> <tr> <td>1</td> <td>08/09/2024</td> <td>Todos</td> <td> El equipo trabajó de forma conjunta y coordinada para desarrollar una propuesta de solución. Se profundizó en la comprensión de los usuarios a través de la creación de "user personas" detalladas, que permitieron visualizar las necesidades y motivaciones de los distintos tipos de usuarios. Se elaboraron "user stories" que describían de forma clara y concisa las funcionalidades. </td> </tr> <tr> <td>2</td> <td>15/09/2024</td> <td>Oscar Antayhua</td> <td>Se realizó una mejora en las "User Personas", con el objetivo de proporcionar una mayor profundidad en la comprensión de los usuarios, incluyendo detalles adicionales sobre sus motivaciones y desafíos específicos, lo cual ayuda a un enfoque más preciso en el desarrollo de funcionalidades. </td> </tr> <tr> <td>3</td> <td>18/09/2024</td> <td>Curi Marcelo, Angelo Marcio</td> <td>Se corrigieron las "user stories" faltantes en el product backlog, asegurando que todas las funcionalidades necesarias estén claramente descritas y priorizadas para el desarrollo, con una estructura coherente y fácil de entender por el equipo técnico. </td> </tr> <tr> <td>4</td> <td>16/09/2024</td> <td>Rentería Palacios, Yasser</td> <td>Se priorizó la landing page dentro del product backlog, dando mayor relevancia a su implementación inicial para garantizar una experiencia de usuario óptima en las primeras interacciones con el producto. </td> </tr> <tr> <td>5</td> <td>20/09/2024</td> <td>Quijandria Araneda, Vicente</td> <td>Se mejoraron los supuestos ("Assumptions") del proyecto, incorporando nueva información basada en la retroalimentación recibida y en un análisis más detallado del contexto del proyecto. </td> </tr> <tr> <td>6</td> <td>21/09/2024</td> <td>Torres García, Andrés Alberto</td> <td>Se completó el diagrama de base de datos ("Database Diagram") con mejoras en su estructura y se tradujo toda la base de datos al inglés para facilitar la comprensión y el mantenimiento futuro del proyecto por parte de equipos internacionales. </td> </tr> </tbody> </table>                                                                      
 
 - - -
 
