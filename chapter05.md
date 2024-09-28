@@ -483,7 +483,7 @@ En este primer sprint, nos centramos en sentar las bases de nuestra solución, p
       <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
       <td>feat: added content in chapter IV</td>
       <td>added content in all sections of chapter04</td>
-      <td>4/9/2024</td>
+      <td>11/9/2024</td>
     </tr>
   </tbody>
 </table>
@@ -508,7 +508,7 @@ A continuación se presentan los commits más importantes para la Landing Page:
       <td>98783487238973c5dd4a8097197adb2cf70af00a</td>
       <td>feat: added content in chapter IV</td>
       <td>added content in all sections of chapter04</td>
-      <td>4/9/2024</td>
+      <td>11/9/2024</td>
     </tr>
   </tbody>
   </table>
