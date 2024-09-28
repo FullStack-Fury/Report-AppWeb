@@ -583,31 +583,31 @@ Esta sección documenta y describe el progreso logrado en términos de producto 
             <td colspan="1">Se alcanzaron los objetivos: el mejoramiento del reporte según las pautas del profesor, el arreglo del código en nuestra landing page y también el despliegue de la primera versión de nuestra Front End App que se planea seguir desarrollando en etapas posteriores.</td>
 		</tr>
          <tr>
-			<td colspan="1">Sprint 1 – 1 Retrospective Summary </td>
+			<td colspan="1">Sprint 2 – 1 Retrospective Summary </td>
             <td colspan="1">El sprint 2 fue mucho mejor comparado al sprint 1, a pesar de tener menos tiempo para la presentación de una versión mejorada del producto presentado en la etapa anterior y también adicionar la creación de nuestra Web Application, el equipo ha podido mantener su resiliencia, mejorando el rendimiento de todos los integrantes, su cooperación y manejo de herramientas que mejoraron la presentación del trabajo.</td>
 		</tr>
          <tr>
 			<td colspan="2">Sprint Goal & User Stories </td>
 		</tr>
          <tr>
-			<td colspan="1">Sprint 1 Goal</td>
+			<td colspan="1">Sprint 2 Goal</td>
             <td colspan="1">Para este sprint se requiere el cumplimiento de los siguientes objetivos: Mejoramiento de información dentro del reporte y adición de información que faltó agregar en el sprint anterior, arreglo de código fuente de nuestra landing page, por último despliegue de nuestra primera versión completa de la Front End App</td>
 		</tr>
         <tr>
-			<td colspan="1">Sprint 1 Velocity </td>
-            <td colspan="1"> </td>
+			<td colspan="1">Sprint 2 Velocity </td>
+            <td colspan="1"> Para este sprint se han elegido 11 User Stories que tienen 2,3,5 y 8 Story points cada uno: 3 User Stories con el valor de 2 Story Points, 2 USer Stories con el valor de 8 Story Points, 4 User Stories con el valor de 5 Story Points y 2 user stories con el valor de 3 Story Points. </td>
 		</tr>
         <tr>
 			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1"> </td>
+            <td colspan="1"> 48 </td>
 		</tr>
 </tbody>
 </table>
 
-#### 5.2.2.2.Sprint Backlog 2.
+## 5.2.2.2.Sprint Backlog 2.
 
 En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte y la implementación de la Front End Application. A continuación, se presenta el backlog de tareas para el Sprint 2:
-[Link para ingresar al board del segundo Sprint](https://trello.com/b/ymZuX1mE/fullstack-fury)
+Link para ingresar al board del segundo Sprint: https://trello.com/b/ymZuX1mE/fullstack-fury
 
 <table>
 	<tbody>
@@ -692,7 +692,7 @@ En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing
     <tbody>
 </table>
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+## 5.2.2.3.Development Evidence for Sprint Review.
 
 Primero, se mostrarán los commits más importantes para el arreglo según las observaciones hechas al reporte:
 
@@ -706,19 +706,33 @@ Primero, se mostrarán los commits más importantes para el arreglo según las o
 
 Ahora, se mostrarán los commits más importantes para el arreglo según las observaciones hechas a la Landing Page:
 
+| Repository                   | Branch | Commit ID                                | Commit Message | Commit Message Body                    | Commited on (Date) |
+|------------------------------|--------|------------------------------------------|----------------|----------------------------------------|--------------------|
+| Azsher/LandingPage-FullStackFury | develop | 60d054ac4cc5401fe1d83febdbbe1ef628d4f85d | feat(script): added function to button es and en       |     | 9/27/2024          |
+
+Por último, se mostrarán los commits más importantes para la implementación de la Front End Application:
+
+| Repository               | Branch  | Commit ID                                | Commit Message                                                                                              | Commit Message Body | Commited on (Date) |
+|--------------------------|---------|------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| andrest04/web-application | develop | 5fdcc03c55d41977d8746af753184a07d1a18679 | Merge branch 'feat-header' into develop of https://github.com/FullStack-Fury/web-application | -                   | 9/27/2024          |
+| andrest04/web-application | develop | 398a7621ac524d8edbaa64751ecad545da224cfb | feat: added json-server for local server https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
+| Azsher/web-application | develop | 733139b0f388bfc49955bb3e91f0e71f5c2c3086 | feat(component): create and setup components for product. https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
+| Azsher/web-application | develop | 2113e43889ac55f77c4825cb37359c6b0c2b1d2b | feat(entity): added employee entity to product https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
+| Azsher/web-application | develop | f23579ab2abf34602f97e78126f81c33d1f18e14 | feat(app-vue): setting all components  https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
+| Azsher/web-application | develop | b940b58b055dc701919e7ae75c82d3119d19cefe | feat(i18n): setup internationalization. https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
 
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+## 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+## 5.2.2.5.Execution Evidence for Sprint Review.
 En esta entrega, el equipo de desarrolladores de GemZ ha completado con éxito la implementación y el lanzamiento de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 
 También se ha completado la implementación de la Front End Application, que presenta una interfaz de usuario interactiva y funcionalidades básicas para los usuarios. A continuación, se presentan algunas capturas de pantalla de la aplicación en funcionamiento:
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+## 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
 
@@ -730,9 +744,9 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 
 
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+## 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+## 5.2.2.8.Team Collaboration Insights during Sprint.
 
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 
