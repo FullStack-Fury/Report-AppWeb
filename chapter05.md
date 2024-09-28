@@ -729,17 +729,6 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 | **Employee**        | POST, GET              | POST: `/api/v1/employees`, GET: `/api/v1/employees/{employeeId}`                                                                                                    | GET: `"id": int`, POST: `"name": "string"`                                                                                                                                                                                                                                                             | -                 | En este caso, se está devolviendo el valor de todos los objetos "employees" alojados en el JSON con el nombre `api/v1/employees`.                  |
 
 
-A continuación, fotos de como lucen los endpoints dentro de nuestro código y el lugar donde se está consumiendo la data en nuestra web application:
-
-#### Products
-
-
-#### Materials
-
-
-#### Employees
-
-
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
