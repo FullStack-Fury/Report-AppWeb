@@ -106,7 +106,7 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
         <p><b><i>(TP)</i></b>: Estuvo de manera activa en el grupo, estando cosntantemente monitoreando el progreso de todos, realizó en la creación de los componentes Management e Inventory, además de desplegar el fake api dentro del json-server.</p>
         <br>
         <p>Yasser Rentería <b><i>(TB1)</i></b>: Tenia una comunición bastante clase y acertiva en el grupo sobre que se iba haciendo, participó en el capítulo I, capitulo II, capitulo III, capitulo IV,</p>
-        <p><b><i>(TP)</i></b>: </p>
+        <p><b><i>Yasser Rentería(TP): Participo en la edición del informe para el Trabajo Parcial, los diseños de la aplicación web y diferentes componentes del código.</i></b>: </p>
         <br>
         <p>Andres Torres<b><i>(TB1)</i></b>: Estuvo tambien activamente en la creación del resporte, parcipando en: capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V. También, esto activamente en la creación de la landign page.</p>
         <p>Andrés Torres<b><i>(TP)</i></b>: Esto activamente participando par la creación de la aplicación web, ofreciendo idea importantes haciendo la creación del toolbar, refactorización del códido y despliege de la página</p>
