@@ -713,7 +713,7 @@ Ahora, se mostrarán los commits más importantes para el arreglo según las obs
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
-En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+En esta entrega, el equipo de desarrolladores de GemZ ha completado con éxito la implementación y el lanzamiento de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 
 También se ha completado la implementación de la Front End Application, que presenta una interfaz de usuario interactiva y funcionalidades básicas para los usuarios. A continuación, se presentan algunas capturas de pantalla de la aplicación en funcionamiento:
