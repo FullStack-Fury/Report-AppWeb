@@ -42,7 +42,7 @@ El trabajo se plasmó en un "product backlog" bien estructurado, que sirvió com
     </tr>
   </tbody>
 </table>
-                                                                                |
+                                                                                
 
 - - -
 
@@ -66,15 +66,20 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
     <tr>
       <td>ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos</td>
       <td>
-        <p>Oscar Antayhua: Estuvo de manera activa en la grupo, proponientos idea y comentarios utiles, participó en la capitulo I, capitulo II, capitulo III capitulo V altamente presente para toda la fase de creacion de la landing page</p>
+        <p>Oscar Antayhua <b><i>(TB1)</i></b>: Estuvo de manera activa en el grupo,proponientos idea y comentarios utiles, participó en la capitulo I, capitulo II, capitulo III capitulo V altamente presente para toda la fase de creacion de la landing page</p>
+        <p><b><i>(TP)</i></b>: Estuvo de manera activa en el grupo, estando cosntantemente monitoreando el progreso de todos, realizó en la creación de los componentes Management e Inventory, además de desplegar el fake api dentro del json-server.</p>
         <br>
-        <p>Yasser Rentería: Tenia una comunición bastante clase y acertiva en el grupo sobre que se iba haciendo, participó en el capítulo I, capitulo II, capitulo III, capitulo IV,</p>
+        <p>Yasser Rentería <b><i>(TB1)</i></b>: Tenia una comunición bastante clase y acertiva en el grupo sobre que se iba haciendo, participó en el capítulo I, capitulo II, capitulo III, capitulo IV,</p>
+        <p><b><i>(TP)</i></b>: </p>
         <br>
-        <p>Andres Torres: Estuvo tambien activamente en la creación del resporte, parcipando en: capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V. También, esto activamente en la creación de la landign page.</p>
+        <p>Andres Torres<b><i>(TB1)</i></b>: Estuvo tambien activamente en la creación del resporte, parcipando en: capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V. También, esto activamente en la creación de la landign page.</p>
+        <p><b><i>(TP)</i></b>: </p>
         <br>
-        <p>Angelo Curi: hizo un impacto capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V</p>
+        <p>Angelo Curi<b><i>(TB1)</i></b>: hizo un impacto capitulo I, capitulo II, capitulo III, capitulo IV, capitulo V</p>
+        <p><b><i>(TP)</i></b>: </p>
         <br>
-        <p>Vicente Quijandria: participó en un punto del capitulo I</p>
+        <p>Vicente Quijandria<b><i>(TB1)</i></b>: participó en un punto del capitulo I</p>
+        <p><b><i>(TP)</i></b>: </p>
       </td>
       <td>El equipo demostró un alto nivel de colaboración, donde todos los miembros participaron activamente en diversas partes del proyecto. Oscar Antayhua, Yasser Rentería, Andres Torres, y Angelo Curi contribuyeron significativamente en múltiples capítulos del reporte y en la creación de la landing page, mostrando liderazgo compartido y una dedicación constante en el desarrollo del proyecto.</td>
     </tr>
