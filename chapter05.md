@@ -715,7 +715,13 @@ Por último, se mostrarán los commits más importantes para la implementación 
 | Repository               | Branch  | Commit ID                                | Commit Message                                                                                              | Commit Message Body | Commited on (Date) |
 |--------------------------|---------|------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
 | andrest04/web-application | develop | 5fdcc03c55d41977d8746af753184a07d1a18679 | Merge branch 'feat-header' into develop of https://github.com/FullStack-Fury/web-application | -                   | 9/27/2024          |
-| andrest04/web-application | develop | 398a7621ac524d8edbaa64751ecad545da224cfb | feat: added json-server for local server | -                   | 9/27/2024          |
+| andrest04/web-application | develop | 398a7621ac524d8edbaa64751ecad545da224cfb | feat: added json-server for local server https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
+| Azsher/web-application | develop | 733139b0f388bfc49955bb3e91f0e71f5c2c3086 | feat(component): create and setup components for product. https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
+| Azsher/web-application | develop | 2113e43889ac55f77c4825cb37359c6b0c2b1d2b | feat(entity): added employee entity to product.
+ https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
+| Azsher/web-application | develop | f23579ab2abf34602f97e78126f81c33d1f18e14 | feat(app-vue): setting all components  https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
+| Azsher/web-application | develop | b940b58b055dc701919e7ae75c82d3119d19cefe | feat(i18n): setup internationalization.
+ https://github.com/FullStack-Fury/web-application | - | 9/27/2024          |
 
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
