@@ -493,7 +493,7 @@ A continuación se presentan los commits más importantes para la Landing Page:
 <table>
   <thead>
     <tr>
-      <th>FullStackFury/report</th>
+      <th>Repository</th>
       <th>Branch</th>
       <th>Commit ID</th>
       <th>Commit Message</th>
